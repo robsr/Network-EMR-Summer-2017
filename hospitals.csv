@@ -4,7 +4,7 @@
 2,Apollo Spectra Hospitals,"Koramangala 5 Block, Bangalore",39,20.0
 3,Narayana Hrudhayalaya Multispeciality Hospital,"Whitefield, Bangalore",2,150.0
 4,Cloudnine Kids,"Jayanagar, Bangalore",39,32.0
-5,BGS Global Hospital,"Kengeri, Bangalore",28,100.0
+5,BGS Global Hospital,"Kengeri, Bangalore",27,100.0
 6,MediHope Super Speciality Hospital,"New Thippasandra, Bangalore",16,110.0
 7,Navachetana Hospital,"Yelahanka, Bangalore",22,30.0
 8,Bhagwan Mahaveer Jain Hospital - Vasanthnagar,"Millers Road, Bangalore",45,500.0
@@ -41,64 +41,64 @@
 39,Nethradhama Super Speciality Eye Hospital,"Jayanagar, Bangalore",8,
 40,Apollo Cradle ,"Marathahalli, Bangalore",12,20.0
 41,Milann The Fertility Center,"Kumara Park West, Bangalore",8,36.0
-42,Neighbourhood Hospital,"JP Nagar 7 Phase, Bangalore",14,50.0
-43,K.C. Raju Multi Speciality Hospital,"Lingarajapuram, Bangalore",3,50.0
-44,Fortis Hospitals,"Rajajinagar, Bangalore",24,
-45,Maharaja Agrasen Hospital,"Padmanabhanagar, Bangalore",32,40.0
-46,Shekar Nethralaya Super Speciality Eye Hospital,"JP Nagar 3 Phase, Bangalore",11,
-47,Promed Hospital,"Banashankari 2nd Stage, Bangalore",8,25.0
-48,HCG Bangalore Institute Of Oncology Speciality Centre,"Shantinagar, Bangalore",19,
-49,Apollo Cradle,"Jayanagar 5 Block, Bangalore",15,20.0
-50,ReSCUE -  The Urology Center,"Rajajinagar, Bangalore",9,20.0
-51,Patients First (A Unit of Shraddha Health Care),"Koramangala 1 Block, Bangalore",3,4.0
-52,Chaya Hospital ,"Doorvani Nagar, Bangalore",15,
-53,Jeevika Hospital,"Marathahalli, Bangalore",13,80.0
-54,Family Hospital,"Mathikere - BEL, Bangalore",21,20.0
-55,Sri Krishna Seva Shrama Hospital,"Jayanagar, Bangalore",9,70.0
-56,VIMS Speciality Hospitals,"Marathahalli, Bangalore",13,150.0
-57,Supra South City Hospital,"JP Nagar 7 Phase, Bangalore",1,25.0
-58,Divakars Speciality Hospital,"JP Nagar 2 Phase, Bangalore",7,25.0
-59,Cloudnine Hospital,"Malleswaram, Bangalore",29,47.0
-60,Spandana Hospital,"Nandini Layout, Bangalore",8,100.0
-61,Diavisita Diabetes & Multispeciality Hospital,"Banashankari 3rd Stage, Bangalore",1,50.0
-62,Anjani Women's Day Care Hospital,"HRBR Layout, Bangalore",2,5.0
-63,Sri Ram Hospital,"KR Puram, Bangalore",7,
-64,S J Hospital,"Sanjay Nagar, Bangalore",7,30.0
-65,Dr Malathi Manipal Hospital,"Jayanagar 9 Block, Bangalore",65,80.0
-66,Rashmi Hospital,"Indiranagar, Bangalore",2,30.0
-67,Sagar Chandramma Hospitals,"VV Puram, Bangalore",16,50.0
-68,Sri Sai Hospital,"Nagawara, Bangalore",10,
-69,Sanjeevini MultispecialIty Hospital,"Mahalakshmi Layout, Bangalore",18,76.0
-70,Bangaluru Neuro Centre,"Malleswaram, Bangalore",9,22.0
-71,Fortis Medcentre,"Marathahalli, Bangalore",2,50.0
-72,Kaveri Speciality Hospital,"Koramangala, Bangalore",6,10.0
-73,Manohar Multispeciality Hospital,"RT Nagar, Bangalore",2,
-74,Manipal Fertility,"Rajajinagar, Bangalore",3,25.0
-75,The Bangalore Hospital,"Basavanagudi, Bangalore",55,
-76,North Side Manipal Hospital,"Malleswaram, Bangalore",12,
-77,Aayug Multi Specialty Hospital,"Kundalahalli, Bangalore",1,30.0
-78,Ananya Hospital,"Rajajinagar, Bangalore",3,
-79,Sri Sai Ram Hospital,"BTM Layout 2nd Stage, Bangalore",20,40.0
-80,Parimala Health Care Services,"Bannerghatta Road, Bangalore",4,25.0
-81,Mallya Hospital,"Sampangiramnagar, Bangalore",70,
-82,Acharya Tulasi Jain  Hospital,"Yeshwanthpur, Bangalore",13,
-83,R K Hospital,"Kammana Halli, Bangalore",9,
-84,Maiya Multi Speciality Hospital,"Jayanagar, Bangalore",20,40.0
-85,Life Care Hospital,"BTM Layout, Bangalore",10,30.0
-86,Soukya Hospital,"Vidyaranyapura, Bangalore",8,20.0
-87,Milann - The Fertility Center,"JP Nagar 1 Phase, Bangalore",15,25.0
-88,Tamara Hospital & IVF Centre,"Rajajinagar, Bangalore",6,30.0
-89,Devi Eye Hospital,"Koramangala 6 Block, Bangalore",6,10.0
-90,Dr Bhargavi Reddy Women & Children Hospital,"Indiranagar, Bangalore",9,15.0
-91,Fortis Hospital,"Nagarbhavi, Bangalore",36,75.0
-92,Manjushree Speciality Hospital,"Ulsoor, Bangalore",9,30.0
-93,Dr Rudrappa First Class Eye Care Hospital,"Richmond Town, Bangalore",6,15.0
-94,Sri Vinayaka Nursing Home,"HAL 2nd Stage, Bangalore",2,3.0
-95,Neha Prakash Hospital,"Yelahanka, Bangalore",9,50.0
-96,Milann - The Fertility Center,"Indiranagar, Bangalore",7,10.0
-97,NRR Hospitals,"Jalahalli, Bangalore",25,20.0
-98,Vitalife Clinic,"Whitefield, Bangalore",10,30.0
-99,Rajashri Grandhim Speciality Hospital,"Bannerghatta Road, Bangalore",7,20.0
+42,Sakhii Hospital,"BTM Layout 2nd Stage, Bangalore",2,21.0
+43,Neighbourhood Hospital,"JP Nagar 7 Phase, Bangalore",14,50.0
+44,K.C. Raju Multi Speciality Hospital,"Lingarajapuram, Bangalore",3,50.0
+45,Fortis Hospitals,"Rajajinagar, Bangalore",24,
+46,Maharaja Agrasen Hospital,"Padmanabhanagar, Bangalore",32,40.0
+47,Shekar Nethralaya Super Speciality Eye Hospital,"JP Nagar 3 Phase, Bangalore",11,
+48,Promed Hospital,"Banashankari 2nd Stage, Bangalore",8,25.0
+49,HCG Bangalore Institute Of Oncology Speciality Centre,"Shantinagar, Bangalore",19,
+50,Apollo Cradle,"Jayanagar 5 Block, Bangalore",15,20.0
+51,ReSCUE -  The Urology Center,"Rajajinagar, Bangalore",9,20.0
+52,Patients First (A Unit of Shraddha Health Care),"Koramangala 1 Block, Bangalore",3,4.0
+53,Chaya Hospital ,"Doorvani Nagar, Bangalore",15,
+54,Jeevika Hospital,"Marathahalli, Bangalore",13,80.0
+55,Family Hospital,"Mathikere - BEL, Bangalore",21,20.0
+56,Sri Krishna Seva Shrama Hospital,"Jayanagar, Bangalore",9,70.0
+57,VIMS Speciality Hospitals,"Marathahalli, Bangalore",13,150.0
+58,Supra South City Hospital,"JP Nagar 7 Phase, Bangalore",1,25.0
+59,Divakars Speciality Hospital,"JP Nagar 2 Phase, Bangalore",7,25.0
+60,Cloudnine Hospital,"Malleswaram, Bangalore",29,47.0
+61,Spandana Hospital,"Nandini Layout, Bangalore",8,100.0
+62,Diavisita Diabetes & Multispeciality Hospital,"Banashankari 3rd Stage, Bangalore",1,50.0
+63,Anjani Women's Day Care Hospital,"HRBR Layout, Bangalore",2,5.0
+64,Sri Ram Hospital,"KR Puram, Bangalore",7,
+65,S J Hospital,"Sanjay Nagar, Bangalore",7,30.0
+66,Dr Malathi Manipal Hospital,"Jayanagar 9 Block, Bangalore",65,80.0
+67,Rashmi Hospital,"Indiranagar, Bangalore",2,30.0
+68,Sagar Chandramma Hospitals,"VV Puram, Bangalore",16,50.0
+69,Sri Sai Hospital,"Nagawara, Bangalore",10,
+70,Sanjeevini MultispecialIty Hospital,"Mahalakshmi Layout, Bangalore",18,76.0
+71,Bangaluru Neuro Centre,"Malleswaram, Bangalore",9,22.0
+72,Fortis Medcentre,"Marathahalli, Bangalore",2,50.0
+73,Kaveri Speciality Hospital,"Koramangala, Bangalore",6,10.0
+74,Manohar Multispeciality Hospital,"RT Nagar, Bangalore",2,
+75,Manipal Fertility,"Rajajinagar, Bangalore",3,25.0
+76,The Bangalore Hospital,"Basavanagudi, Bangalore",55,
+77,North Side Manipal Hospital,"Malleswaram, Bangalore",12,
+78,Aayug Multi Specialty Hospital,"Kundalahalli, Bangalore",1,30.0
+79,Ananya Hospital,"Rajajinagar, Bangalore",3,
+80,Sri Sai Ram Hospital,"BTM Layout 2nd Stage, Bangalore",20,40.0
+81,Parimala Health Care Services,"Bannerghatta Road, Bangalore",4,25.0
+82,Mallya Hospital,"Sampangiramnagar, Bangalore",70,
+83,Acharya Tulasi Jain  Hospital,"Yeshwanthpur, Bangalore",13,
+84,R K Hospital,"Kammana Halli, Bangalore",9,
+85,Maiya Multi Speciality Hospital,"Jayanagar, Bangalore",20,40.0
+86,Life Care Hospital,"BTM Layout, Bangalore",10,30.0
+87,Soukya Hospital,"Vidyaranyapura, Bangalore",8,20.0
+88,Milann - The Fertility Center,"JP Nagar 1 Phase, Bangalore",15,25.0
+89,Tamara Hospital & IVF Centre,"Rajajinagar, Bangalore",6,30.0
+90,Devi Eye Hospital,"Koramangala 6 Block, Bangalore",6,10.0
+91,Dr Bhargavi Reddy Women & Children Hospital,"Indiranagar, Bangalore",9,15.0
+92,Fortis Hospital,"Nagarbhavi, Bangalore",36,75.0
+93,Manjushree Speciality Hospital,"Ulsoor, Bangalore",9,30.0
+94,Dr Rudrappa First Class Eye Care Hospital,"Richmond Town, Bangalore",6,15.0
+95,Sri Vinayaka Nursing Home,"HAL 2nd Stage, Bangalore",2,3.0
+96,Neha Prakash Hospital,"Yelahanka, Bangalore",9,50.0
+97,Milann - The Fertility Center,"Indiranagar, Bangalore",7,10.0
+98,NRR Hospitals,"Jalahalli, Bangalore",25,20.0
+99,Vitalife Clinic,"Whitefield, Bangalore",10,30.0
 100,Doctor Square Multispeciality Hospital,"Zirakpur, Chandigarh",5,10.0
 101,Grover Eye Laser & ENT Hospital,"Sector 35, Chandigarh",6,50.0
 102,Mukat Hospital & Heart Institute,"Sector 34, Chandigarh",9,40.0
@@ -353,7 +353,7 @@
 351,Ramayya Pramila Urology & Laparoscopy Hospital,"Basheerbagh, Hyderabad",3,50.0
 352,Nice Hospital,"Masab Tank, Hyderabad",11,120.0
 353,Pranaam Hospital,"Madinaguda, Hyderabad",3,100.0
-354,Midas ENT Head & Neck Super Speciality Hospital,"Dilsukh Nagar, Hyderabad",1,100.0
+354,Midas ENT Head & Neck Super Speciality Hospital,"Dilsukhnagar, Hyderabad",1,100.0
 355,Landmark Hospitals,"Nizampet, Hyderabad",21,100.0
 356,Fehmicare Hospital,"Yousufguda, Hyderabad",6,
 357,Harsha Hospitals,"Kukatpally, Hyderabad",2,
@@ -373,7 +373,7 @@
 371,Aditya Hospital,"Abids, Hyderabad",39,
 372,Owaisi Hospital And Research Centre,"Kanchanbagh, Hyderabad",41,
 373,Sri Sri Holistic Hospitals,"Nizampet, Hyderabad",33,100.0
-374,TKR's Ikon Hospital,"Dilsukh Nagar, Hyderabad",7,75.0
+374,TKR's Ikon Hospital,"Dilsukhnagar, Hyderabad",7,75.0
 375,Hedge Fertility Hospital,"Moosarambagh, Hyderabad",2,25.0
 376,"Kamineni Orthopaedics, Kingkoti","King Koti, Hyderabad",9,200.0
 377,Global Hospital,"Lakdikapul, Hyderabad",25,100.0
@@ -408,7 +408,7 @@
 406,Basant Sahney Hospital,"West Marredpally, Hyderabad",19,60.0
 407,Prasad Hospital ,"Nacharam, Hyderabad",13,100.0
 408,Remedy Hospitals,"Kukatpally, Hyderabad",1,80.0
-409,Shalivahana Multi Speciality Hospital,"Dilsukh Nagar, Hyderabad",17,100.0
+409,Shalivahana Multi Speciality Hospital,"Dilsukhnagar, Hyderabad",17,100.0
 410,Dr. Saji D'souza's KSAC Hospital,"Punjagutta, Hyderabad",3,40.0
 411,Dr. P Siva Reddy Eye Hospital,"Himayat Nagar, Hyderabad",1,20.0
 412,Mythri Hospital,"Chanda Nagar, Hyderabad",11,150.0
@@ -417,7 +417,7 @@
 415,Jaya Bhushan Hospitals,"Mehdipatnam, Hyderabad",2,25.0
 416,Amrita ENT Head and Neck Hospital,"KPHB, Hyderabad",3,3.0
 417,Dr Raos Super Speciality ENT Hospital,"Punjagutta, Hyderabad",1,10.0
-418,Manju Sudha Multi speciality ,"Dilsukh Nagar, Hyderabad",2,
+418,Manju Sudha Multi speciality ,"Dilsukhnagar, Hyderabad",2,
 419,Majestic Hospital,"Langer House, Hyderabad",7,
 420,Sree Netralaya Eye Hospital,"Kothapet, Hyderabad",8,10.0
 421,Sri Aravindo Sevakendra,"Jodhpur Park, Kolkata",32,
@@ -465,96 +465,96 @@
 463,Shashwat Hospital,"Kothrud, Pune",58,30.0
 464,Deenanath Mangeshkar Hospital,"Erandwane, Pune",65,700.0
 465,Shashwat Hospital,"Aundh, Pune",26,60.0
-466,Rising Medicare Hospital,"Kharadi, Pune",7,15.0
-467,Lotus Multispeciality Hospital,"Pimple Saudagar, Pune",11,40.0
-468,Columbia Asia Hospital,"Kharadi, Pune",18,50.0
-469,Apollo Jehangir Hospital,"Bund Garden, Pune",44,
-470,Maharashtra Medical Foundation - Joshi Hospital,"Shivaji Nagar, Pune",37,110.0
-471,Orchid Hospital,"Lohegaon, Pune",3,60.0
-472,Inlaks and Budhrani Hospital,"Koregaon Park, Pune",56,
-473,Niramaya Hospital,"Chinchwad, Pune",14,
-474,Harsh Hospital,"Market Yard, Pune",2,15.0
-475,National Institute Of Ophthalmology,"Shivaji Nagar, Pune",4,16.0
-476,Dhanwantari Hospital,"Nigdi, Pune",19,30.0
-477,Hiremath Hospital,"Chinchwad, Pune",2,15.0
-478,Krishna Hospital,"Kothrud, Pune",17,40.0
-479,Sahyadri Hospital,"Hadapsar, Pune",45,20.0
-480,Surya Mother & Child Super Speciality Hospital,"Wakad, Pune",16,100.0
-481,Vinod Memorial Multispeciality Hospital,"Vishrantwadi, Pune",7,
-482,ACE Hospital,"Erandwane, Pune",42,40.0
-483,Kidney & Urology Super-Speciality Clinic,"Rasta Peth, Pune",2,8.0
-484,Sahyadri Hospital,"Kothrud, Pune",31,30.0
-485,Kedarnath General Hospital,"Vishrantwadi, Pune",19,24.0
-486,Medipoint Hospital,"Aundh, Pune",21,102.0
-487,Alpha Superspeciality Hospital,"Wakad, Pune",3,15.0
-488,Shree Shakti Hospital,"Pimple Saudagar, Pune",9,
-489,OHF - Om Shree Swami Samarth Hospital,"Chinchwad, Pune",5,20.0
-490,Chaitanya Hospital,"Chinchwad, Pune",18,
-491,Shreeyash Hospital,"Deccan Gymkhana, Pune",5,3.0
-492,Satyanand Hospital - Kondhwa,"Kondhwa, Pune",12,36.0
-493,Salunke Hospital,"Wadgaon Sheri, Pune",3,12.0
-494,Sai Multispeciality Hospital,"Hadapsar, Pune",4,30.0
-495,Sancheti Hospital,"Shivaji Nagar, Pune",35,200.0
-496,Poona Hospital And Research Centre,"Sadashiv Peth, Pune",63,
-497,Ashwini Hospital,"Chinchwad, Pune",1,10.0
-498,Ruby Hall Clinic,"Dhole Patil Road, Pune",132,550.0
-499,Morya Multispeciality Hospital,"Chinchwad, Pune",5,50.0
-500,Pune Netralaya,"Aundh, Pune",1,1.0
-501,AIMS Hospital,"Aundh, Pune",6,
-502,Orion Hospital,"Wakad, Pune",4,21.0
-503,Polaris Healthcare,"Wakad, Pune",10,15.0
-504,Serene Hospital,"Vishrantwadi, Pune",7,26.0
-505,Ratna Memorial Hospital,"Senapati Bapat Marg, Pune",20,75.0
-506,Om Hospital,"Bhosari, Pune",8,
-507,"Dwidal Hospital, Karve Road","Karve Nagar, Pune",4,
-508,Lokmanya Hospital,"Nigdi, Pune",1,110.0
-509,N M Wadia Institute of Cardiology,"Bund Garden, Pune",12,58.0
-510,Ameya Clinic,"Erandwane, Pune",2,20.0
-511,Sai Sneh Hospital & Diagnostic Center Pvt. Ltd,"Satara Road, Pune",25,31.0
-512,Chellaram Diabetes Hospital,"Bavdhan, Pune",10,60.0
-513,Asian Eye Hospital,"Dhole Patil Road, Pune",3,10.0
-514,Giriraj Hospital & Intensive Care Unit,"Baramati, Pune",27,
-515,Viraj Eye Hospital,"Kharadi, Pune",1,
-516,Kataria Hospital,"Yerwada, Pune",2,20.0
-517,Meera Hospital,"Camp, Pune",5,
-518,Mahaveer Super Speciality Eye Hospital and Laser Centre,"Camp, Pune",1,2.0
-519,Sahyadri Hospital,"Bibvewadi, Pune",33,31.0
-520,Aditya Birla Memorial Hospital,"Chinchwad, Pune",1,
-521,Bhalerao Ent Hospital,"Akurdi, Pune",5,
-522,Usha Hospital,"Hadapsar, Pune",1,8.0
-523,Sahyadri Hospital,"Bopodi, Pune",43,
-524,Lifeline Speciality Hospital,"Wagholi, Pune",13,
-525,Shetiya Hospital And Komal Nursing Home,"Vishrantwadi, Pune",6,25.0
-526,Kelkar Nursing Home,"Deccan Gymkhana, Pune",4,4.0
-527,Sanjeevan Hospital,"Karve Nagar, Pune",23,105.0
-528,"Shrigiri Hospital & Heart Care Centre, Gadital","Hadapsar, Pune",7,
-529,Mantri Hospital,"Erandwane, Pune",2,10.0
-530,KEM Hospital,"Rasta Peth, Pune",95,
-531,Bharti Children & Cardio Diabetic Hospital,"Pimple Saudagar, Pune",2,15.0
-532,Kohakade Hospital,"Wagholi, Pune",2,51.0
-533,Aditya Birla Memorial Hospital,"Chinchwad, Pune",32,500.0
-534,Kothari Accident Hospital,"Swargate, Pune",1,
-535,Medipoint Hospital,"Chandan Nagar, Pune",5,50.0
-536,Sunil Wankhede Memorial Hospital,"Dehu Road, Pune",2,15.0
-537,Sahydree Hospital,"Erandwane, Pune",10,
-538,Mantri Hospital,"Ghorpadi, Pune",8,
-539,Vinayak Hospital,"Warje, Pune",2,20.0
-540,Dhanashree Hospital,"Chinchwad, Pune",13,50.0
-541,Deendayal Memorial Hospital,"FC Road, Pune",4,30.0
-542,Niramay Hospital,"Wadgaon Sheri, Pune",4,15.0
-543,Dr Prakash Bhambure Clinic,"Satara Road, Pune",1,100.0
-544,Cloudnine Hospital,"Shivaji Nagar, Pune",20,18.0
-545,Agarwal Maternity & General Hospital,"Chandan Nagar, Pune",10,
-546,Lifepoint Multispeciality Hospital,"Wakad, Pune",7,100.0
-547,Mai Mangeshkar Hospital,"Warje, Pune",18,50.0
-548,Aastha Hospital,"Chinchwad, Pune",3,25.0
-549,Suraj Hospital,"Market Yard, Pune",4,15.0
-550,Chitale E.N.T Hospital,"Sadashiv Peth, Pune",7,2.0
-551,Pioneer Hospital ,"Talegaon, Pune",8,
-552,Lunkad Hospital,"Yerwada, Pune",5,4.0
-553,Shri Sai Hospital,"Alandi Devachi, Pune",10,
-554,Dr. Karne Accident And Orthopedic Hospital,"Swargate, Pune",2,23.0
-555,Bakshi Hospital,"Kothrud, Pune",1,7.0
-556,Shreeyash Multispeciality Hospital,"Sinhagad Road, Pune",3,20.0
-557,Vatsalya Mother & Child Care,"Bhosari, Pune",5,20.0
-558,Lokmanya Hospital,"Swargate, Pune",1,50.0
+466,Lotus Multispeciality Hospital,"Pimple Saudagar, Pune",11,40.0
+467,Columbia Asia Hospital,"Kharadi, Pune",18,50.0
+468,Apollo Jehangir Hospital,"Bund Garden, Pune",44,
+469,Maharashtra Medical Foundation - Joshi Hospital,"Shivaji Nagar, Pune",37,110.0
+470,Orchid Hospital,"Lohegaon, Pune",3,60.0
+471,Inlaks and Budhrani Hospital,"Koregaon Park, Pune",56,
+472,Niramaya Hospital,"Chinchwad, Pune",14,
+473,Harsh Hospital,"Market Yard, Pune",2,15.0
+474,National Institute Of Ophthalmology,"Shivaji Nagar, Pune",4,16.0
+475,Dhanwantari Hospital,"Nigdi, Pune",19,30.0
+476,Hiremath Hospital,"Chinchwad, Pune",2,15.0
+477,Krishna Hospital,"Kothrud, Pune",17,40.0
+478,Sahyadri Hospital,"Hadapsar, Pune",45,20.0
+479,Surya Mother & Child Super Speciality Hospital,"Wakad, Pune",16,100.0
+480,Vinod Memorial Multispeciality Hospital,"Vishrantwadi, Pune",7,
+481,ACE Hospital,"Erandwane, Pune",42,40.0
+482,Kidney & Urology Super-Speciality Clinic,"Rasta Peth, Pune",2,8.0
+483,Sahyadri Hospital,"Kothrud, Pune",31,30.0
+484,Kedarnath General Hospital,"Vishrantwadi, Pune",19,24.0
+485,Medipoint Hospital,"Aundh, Pune",21,102.0
+486,Alpha Superspeciality Hospital,"Wakad, Pune",3,15.0
+487,Shree Shakti Hospital,"Pimple Saudagar, Pune",9,
+488,OHF - Om Shree Swami Samarth Hospital,"Chinchwad, Pune",5,20.0
+489,Chaitanya Hospital,"Chinchwad, Pune",18,
+490,Shreeyash Hospital,"Deccan Gymkhana, Pune",5,3.0
+491,Satyanand Hospital - Kondhwa,"Kondhwa, Pune",12,36.0
+492,Salunke Hospital,"Wadgaon Sheri, Pune",3,12.0
+493,Sai Multispeciality Hospital,"Hadapsar, Pune",4,30.0
+494,Sancheti Hospital,"Shivaji Nagar, Pune",35,200.0
+495,Poona Hospital And Research Centre,"Sadashiv Peth, Pune",63,
+496,Ashwini Hospital,"Chinchwad, Pune",1,10.0
+497,Ruby Hall Clinic,"Dhole Patil Road, Pune",132,550.0
+498,Morya Multispeciality Hospital,"Chinchwad, Pune",5,50.0
+499,Pune Netralaya,"Aundh, Pune",1,1.0
+500,AIMS Hospital,"Aundh, Pune",6,
+501,Orion Hospital,"Wakad, Pune",4,21.0
+502,Polaris Healthcare,"Wakad, Pune",10,15.0
+503,Serene Hospital,"Vishrantwadi, Pune",7,26.0
+504,Ratna Memorial Hospital,"Senapati Bapat Marg, Pune",20,75.0
+505,Om Hospital,"Bhosari, Pune",8,
+506,"Dwidal Hospital, Karve Road","Karve Nagar, Pune",4,
+507,Lokmanya Hospital,"Nigdi, Pune",1,110.0
+508,N M Wadia Institute of Cardiology,"Bund Garden, Pune",12,58.0
+509,Ameya Clinic,"Erandwane, Pune",2,20.0
+510,Sai Sneh Hospital & Diagnostic Center Pvt. Ltd,"Satara Road, Pune",25,31.0
+511,Chellaram Diabetes Hospital,"Bavdhan, Pune",10,60.0
+512,Asian Eye Hospital,"Dhole Patil Road, Pune",3,10.0
+513,Giriraj Hospital & Intensive Care Unit,"Baramati, Pune",27,
+514,Viraj Eye Hospital,"Kharadi, Pune",1,
+515,Kataria Hospital,"Yerwada, Pune",2,20.0
+516,Meera Hospital,"Camp, Pune",5,
+517,Mahaveer Super Speciality Eye Hospital and Laser Centre,"Camp, Pune",1,2.0
+518,Sahyadri Hospital,"Bibvewadi, Pune",33,31.0
+519,Aditya Birla Memorial Hospital,"Chinchwad, Pune",1,
+520,Bhalerao Ent Hospital,"Akurdi, Pune",5,
+521,Usha Hospital,"Hadapsar, Pune",1,8.0
+522,Sahyadri Hospital,"Bopodi, Pune",43,
+523,Lifeline Speciality Hospital,"Wagholi, Pune",13,
+524,Shetiya Hospital And Komal Nursing Home,"Vishrantwadi, Pune",6,25.0
+525,Kelkar Nursing Home,"Deccan Gymkhana, Pune",4,4.0
+526,Sanjeevan Hospital,"Karve Nagar, Pune",23,105.0
+527,"Shrigiri Hospital & Heart Care Centre, Gadital","Hadapsar, Pune",7,
+528,Mantri Hospital,"Erandwane, Pune",2,10.0
+529,KEM Hospital,"Rasta Peth, Pune",95,
+530,Bharti Children & Cardio Diabetic Hospital,"Pimple Saudagar, Pune",2,15.0
+531,Kohakade Hospital,"Wagholi, Pune",2,51.0
+532,Aditya Birla Memorial Hospital,"Chinchwad, Pune",32,500.0
+533,Kothari Accident Hospital,"Swargate, Pune",1,
+534,Medipoint Hospital,"Chandan Nagar, Pune",5,50.0
+535,Sunil Wankhede Memorial Hospital,"Dehu Road, Pune",2,15.0
+536,Sahydree Hospital,"Erandwane, Pune",10,
+537,Mantri Hospital,"Ghorpadi, Pune",8,
+538,Vinayak Hospital,"Warje, Pune",2,20.0
+539,Dhanashree Hospital,"Chinchwad, Pune",13,50.0
+540,Deendayal Memorial Hospital,"FC Road, Pune",4,30.0
+541,Niramay Hospital,"Wadgaon Sheri, Pune",4,15.0
+542,Dr Prakash Bhambure Clinic,"Satara Road, Pune",1,100.0
+543,Cloudnine Hospital,"Shivaji Nagar, Pune",20,18.0
+544,Agarwal Maternity & General Hospital,"Chandan Nagar, Pune",10,
+545,Lifepoint Multispeciality Hospital,"Wakad, Pune",7,100.0
+546,Mai Mangeshkar Hospital,"Warje, Pune",18,50.0
+547,Aastha Hospital,"Chinchwad, Pune",3,25.0
+548,Suraj Hospital,"Market Yard, Pune",4,15.0
+549,Chitale E.N.T Hospital,"Sadashiv Peth, Pune",7,2.0
+550,Pioneer Hospital ,"Talegaon, Pune",8,
+551,Lunkad Hospital,"Yerwada, Pune",5,4.0
+552,Shri Sai Hospital,"Alandi Devachi, Pune",10,
+553,Dr. Karne Accident And Orthopedic Hospital,"Swargate, Pune",2,23.0
+554,Bakshi Hospital,"Kothrud, Pune",1,7.0
+555,Shreeyash Multispeciality Hospital,"Sinhagad Road, Pune",3,20.0
+556,Vatsalya Mother & Child Care,"Bhosari, Pune",5,20.0
+557,Lokmanya Hospital,"Swargate, Pune",1,50.0
+558,Healing Touch Hospital,"Pimple Saudagar, Pune",5,

@@ -24,7 +24,7 @@ def make_dataframe(links):                   #returns the dataframe containing c
     df2,df3,df4,df5 = pd.DataFrame([]),pd.DataFrame([]),pd.DataFrame([]),pd.DataFrame([])
     
     for city,city_name in zip(cities_links,cities):
-            print(city_name)
+            print(city_name)                 #to check the status of the execution
             for city_page in city:
                 city_page_html = urllib.request.urlopen(city_page).read()
                 city_page_soup = bs4.BeautifulSoup(city_page_html,'lxml')

@@ -5,7 +5,7 @@ import bs4
 
 #INITIAL PARAMETERS
 cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune'] 
-pages_per_city = 10                         #pages per city required to scrap from Practo                                    
+pages_per_city = 10                         #pages per city required to be scrapped from Practo                                    
 hosp_per_page = 10
 
 

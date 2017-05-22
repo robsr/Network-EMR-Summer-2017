@@ -55,7 +55,7 @@ def make_dataframe(links):                   #returns the dataframe containing c
                 hosp_urls = [link.get('href') for link in link_tags]
                 beds = []
                 for url in hosp_urls:
-                    try:                                                          #handling exception when # of beds are not available
+                    try:           
                         hosp_html = urllib.request.urlopen(url).read()
                         hosp_soup = bs4.BeautifulSoup(hosp_html,'lxml')
                         
@@ -63,7 +63,7 @@ def make_dataframe(links):                   #returns the dataframe containing c
                         string = div_tags[0].text
                         bedno = int(''.join(c for c in string if c.isdigit()))
                         beds.append(bedno)
-                        
+                    # handling exception when # of beds are not available    
                     except IndexError:
                         beds.append(np.NaN)
                 

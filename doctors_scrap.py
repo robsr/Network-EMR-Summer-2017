@@ -73,7 +73,7 @@ for city in cities_links:
                 
                 #City
                 hosp_loc_temp = hosp_page_soup.find('h2',attrs={'class':'clinic-location'}).text   #tag containing hospital's Location
-                df6_temp = [hosp_name_temp]*len(df1_temp)              
+                df6_temp = [hosp_loc_temp]*len(df1_temp)              
                 df6 = df6.append(df6_temp)
                 
 

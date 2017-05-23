@@ -2,12 +2,13 @@ import pandas as pd
 import urllib
 import bs4
 import re
+import numpy as np
 
 #INITIAL PARAMETERS
 #cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune']
-cities = ['Bangalore','Delhi'] 
-pages_per_city = 1                         #pages per city required to be scrapped from Practo                                    
-hosp_per_page = 10                         #max no. of hospitals in a practo webpage
+cities = ['Chandigarh'] 
+pages_per_city = 3                         #pages per city required to be scrapped from Practo                                    
+hosp_per_page = 10  #number changed                       #max no. of hospitals in a practo webpage
 
 def make_links(cities):                      #function returns the list of links of all the hospitals
     cities_list = ['https://www.practo.com/'+city+'/hospitals' for city in cities]
@@ -61,24 +62,28 @@ for city in cities_links:
                     dr_name = doc_page_soup.find('h1').get('title')
                     dr_names.append(dr_name)
                     
-                    #doctor speciality and experience(in years)
+                    #doctor speciality and experience(in years) 
                     dr_exp_string = doc_page_soup.find('h2',attrs={'class':'doctor-specialties'}).text
                     dr_exp_string = dr_exp_string.replace('\n','')
                     dr_exp_string = dr_exp_string.replace('\t','')
-                    
+
                     strings = dr_exp_string.split(',')
                     result = re.findall(r'[0-9]+', strings[len(strings)-1])
                     result_int = map(int,result)
                     result_int = [int(string) for string in result_int]
                     exp_yrs.append(result_int)
                     
-#                    strings = strings[:len(strings)-1]
-#                    strings = [string.replace(' ','') for string in strings]
-#                
-#                    spec_string = strings[0]
-#                    for string in strings[1:]:
-#                        spec_string = spec_string + ', ' + string
-#                    spec_strings.append(spec_string)        
+                    strings = strings[:len(strings)-1]
+                    strings = [string.replace(' ','') for string in strings]
+                
+                    if len(strings) != 0 :
+                        spec_string = strings[0]
+                        for i in range(1,len(strings)):
+                            spec_string = spec_string + ', ' + strings[i]
+                        spec_strings.append(spec_string)
+
+                    else :
+                        spec_strings.append(np.NaN)        
                     
                     #doctor qualifications
                     dr_qual_string = doc_page_soup.find('p',attrs={'class':'doctor-qualifications'}).text
@@ -93,8 +98,8 @@ for city in cities_links:
                 df2_temp = pd.DataFrame(exp_yrs)
                 df2 = df2.append(df2_temp)
                 
-#                df3_temp = pd.DataFrame(spec_strings)
-#                df3 = df3.append(df3_temp)
+                df3_temp = pd.DataFrame(spec_strings)
+                df3 = df3.append(df3_temp)
                 
                 df4_temp = pd.DataFrame(dr_qual_strings)
                 df4 = df4.append(df4_temp)
@@ -108,12 +113,14 @@ for city in cities_links:
 
 
 
-#df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-#print(len(list(range(pages_per_city*hosp_per_page*len(cities)))))
-#df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-#df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-#df5.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-#
-#df = pd.concat([df2,df3,df4,df5], axis=1)
-#df.columns = [['NAME','EXPERIENCE(years)','HOSPITAL NAME','SPECIALIZATION','CITY']]
+df1.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+df5.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+
+df = pd.concat([df1,df2,df5,df3,df4], axis=1)
+df.columns = [['NAME','EXPERIENCE(years)','HOSPITAL NAME','SPECIALIZATION','QUALIFICATIONS']]
+
+df.to_csv('docters.csv',header=True)
 

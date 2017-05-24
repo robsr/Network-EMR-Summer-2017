@@ -6,11 +6,11 @@ import numpy as np
 
 #INITIAL PARAMETERS
 #cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune']
-cities = ['Chandigarh'] 
-pages_per_city = 3                         #pages per city required to be scrapped from Practo                                    
-hosp_per_page = 10  #number changed                       #max no. of hospitals in a practo webpage
+cities = ['Bangalore'] 
+pages_per_city = 1                         #pages per city required to be scrapped from Practo                                    
+#hosp_per_page = 10  #number changed                       #max no. of hospitals in a practo webpage
 
-def make_links(cities):                      #function returns the list of links of all the hospitals
+def make_links(cities):                      #function returns the list of links of all city including pages
     cities_list = ['https://www.practo.com/'+city+'/hospitals' for city in cities]
     city_links_final = []
     for city_link in cities_list:
@@ -37,6 +37,7 @@ def verified_doc_links(hosp_page_soup):     #function that returns verified doct
 
 cities_links = make_links(cities)
 df1,df2,df3,df4,df5 = pd.DataFrame([]),pd.DataFrame([]), pd.DataFrame([]), pd.DataFrame([]), pd.DataFrame([])
+a=0
 
 for city in cities_links:
         for city_page in city:
@@ -52,6 +53,7 @@ for city in cities_links:
                 
                 verified_links = verified_doc_links(hosp_page_soup)
                 no_of_ver_doctors = len(verified_links)
+                a+=no_of_ver_doctors
                 dr_names, dr_qual_strings, dr_exp_strings, exp_yrs, spec_strings = [],[],[],[],[]
                 
                 for ver_doc_link in verified_links:    
@@ -106,18 +108,24 @@ for city in cities_links:
                 
                 #hospital name
                 hosp_name_temp = hosp_page_soup.find('h1').text            #tag containing hospital name
-                df5_temp = [hosp_name_temp]*no_of_ver_doctors              #repeating hospital name to make a dataframe
+                df5_temp = pd.DataFrame([hosp_name_temp]*no_of_ver_doctors)              #repeating hospital name to make a dataframe
                 df5 = df5.append(df5_temp)
 
                 
 
 
 
-df1.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
-df5.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+#df1.reset_index(list(range(pages_per_city*(len(a_tags))*len(cities))),drop=True, inplace=True)
+#df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+#df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+#df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+#df5.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+print (a)
+df1.reset_index(list(range(a)),drop=True, inplace=True)
+df2.reset_index(list(range(a)),drop=True, inplace=True)
+df3.reset_index(list(range(a)),drop=True, inplace=True)
+df4.reset_index(list(range(a)),drop=True, inplace=True)
+df5.reset_index(list(range(a)),drop=True, inplace=True)
 
 df = pd.concat([df1,df2,df5,df3,df4], axis=1)
 df.columns = [['NAME','EXPERIENCE(years)','HOSPITAL NAME','SPECIALIZATION','QUALIFICATIONS']]

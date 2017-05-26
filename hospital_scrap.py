@@ -5,7 +5,7 @@ import bs4
 
 #INITIAL PARAMETERS
 cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune'] 
-pages_per_city = 10                         #pages per city required to be scrapped from Practo                                    
+pages_per_city = 1000                         #pages per city required to be scrapped from Practo                                    
 hosp_per_page = 10
 
 
@@ -16,7 +16,6 @@ def make_links(cities):                      #function returns the list of links
         city_all_links = [(city_link+'?page='+str(page)) for page in range(1,pages_per_city+1)]
         city_links_final.append(city_all_links)    
     return city_links_final
-
 
 def make_dataframe(links):                   #returns the dataframe containing columns of name,city,location,# of doctors, # of beds
     cities_links = links
@@ -31,6 +30,8 @@ def make_dataframe(links):                   #returns the dataframe containing c
     
                 #Hospital NAMES
                 names = [str(hospital.text)[:len(str(hospital.text))-17] for hospital in city_page_soup.find_all('h2')[1:]]
+                if(names==[]):          #Condition to take all inputs
+                    break
                 df2_temp = pd.DataFrame(names)
                 df2 = df2.append(df2_temp)
                 

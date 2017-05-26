@@ -8,7 +8,6 @@ cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune
 pages_per_city = 1000                         #pages per city required to be scrapped from Practo                                    
 hosp_per_page = 10
 
-
 def make_links(cities):                      #function returns the list of links of all the hospitals
     cities_list = ['https://www.practo.com/'+city+'/hospitals' for city in cities]
     city_links_final = []
@@ -71,7 +70,6 @@ def make_dataframe(links):                   #returns the dataframe containing c
                 df5_temp = pd.DataFrame(beds)
                 df5 = df5.append(df5_temp)
             
-                
     df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
     df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
     df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
@@ -81,15 +79,7 @@ def make_dataframe(links):                   #returns the dataframe containing c
     df.columns = [['HOSPITAL NAME','LOCATION','NO. OF DOCTORS','NO. OF BEDS']]
     return df
 
-
 # MAIN PROGRAMME
 city_links = make_links(cities)
 df = make_dataframe(city_links)
 df.to_csv('hospitals.csv',header=True)
-
-
-
-
-
-
-

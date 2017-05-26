@@ -70,11 +70,8 @@ def make_dataframe(links):                   #returns the dataframe containing c
                 
                 df5_temp = pd.DataFrame(beds)
                 df5 = df5.append(df5_temp)
+            
                 
-                #EMR
-                #revenue/sales
-                #other financial details
-    
     df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
     df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
     df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)

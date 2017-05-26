@@ -89,11 +89,3 @@ def make_dataframe(links):                   #returns the dataframe containing c
 city_links = make_links(cities)
 df = make_dataframe(city_links)
 df.to_csv('hospitals.csv',header=True)
-
-
-
-
-
-
-
-

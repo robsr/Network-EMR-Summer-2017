@@ -4,9 +4,9 @@ import urllib
 import bs4
 
 #INITIAL PARAMETERS
-cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune'] 
-pages_per_city = 1000                         #pages per city required to be scrapped from Practo                                    
-hosp_per_page = 10
+cities = ['Bangalore','Chandigarh','Chennai','Delhi','Hyderabad','Kolkata','Pune','Mumbai', 'Ahmedabad', 'Surat', 'Lucknow', 'Patna', 'Visakhapatnam', 'Indore', 'Noida', 'Jaipur'] 
+pages_per_city = 1000                         #webpages per city(set to a very large number to cover all pages)                                     
+hosp_per_page = 10                            #there are 10 hospitals per webpage on PRACTO except the last page
 
 def make_links(cities):                      #function returns the list of links of all the hospitals
     cities_list = ['https://www.practo.com/'+city+'/hospitals' for city in cities]
@@ -24,12 +24,13 @@ def make_dataframe(links):                   #returns the dataframe containing c
     for city,city_name in zip(cities_links,cities):
             print(city_name)                 #to check the status of the execution
             for city_page in city:
+                print('page=',city_page)     #to check the status i.e. page number of the city
                 city_page_html = urllib.request.urlopen(city_page).read()
                 city_page_soup = bs4.BeautifulSoup(city_page_html,'lxml')
     
                 #Hospital NAMES
                 names = [str(hospital.text)[:len(str(hospital.text))-17] for hospital in city_page_soup.find_all('h2')[1:]]
-                if(names==[]):          #Condition to take all inputs
+                if(names==[]):             #Condition as there are diff numbers of hospitals on the last page of city
                     break
                 df2_temp = pd.DataFrame(names)
                 df2 = df2.append(df2_temp)
@@ -82,4 +83,14 @@ def make_dataframe(links):                   #returns the dataframe containing c
 # MAIN PROGRAMME
 city_links = make_links(cities)
 df = make_dataframe(city_links)
-df.to_csv('hospitals.csv',header=True)
+df.dropna(inplace=True)                                           #dropping the rows which has missing values
+df = df.astype({'NO. OF DOCTORS':'int64', 'NO. OF BEDS':'int64'})
+
+df1 = df.sort_values(by='NO. OF DOCTORS', ascending=False)       #sorting by #of doctors
+df2 = df.sort_values(by='NO. OF BEDS', ascending=False)          #sorting by #of beds
+
+df1.reset_index(list(range(df1.shape[0])),drop=True, inplace=True)
+df2.reset_index(list(range(df2.shape[0])),drop=True, inplace=True)
+
+df1.to_csv('hosp_sortby_drs.csv',header=True)
+df2.to_csv('hosp_sortby_beds.csv',header=True)

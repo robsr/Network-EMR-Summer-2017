@@ -2073,3 +2073,864 @@
 2071,Vighnaharta Hospital,"Daund, Pune",,
 2072,Om Hospital Bavdhan,"Bavdhan, Pune",,
 2073,Avdhoot Hospital,"Baramati, Pune",,
+2074,Suchak Hospital,"Malad, Mumbai",8.0,60.0
+2075,Hinduja Hospital,"Mahim, Mumbai",148.0,50.0
+2076,Dr. LH Hiranandani Hospital,"Powai, Mumbai",187.0,50.0
+2077,Fortis Hospital,"Mulund West, Mumbai",117.0,261.0
+2078,Lilavati Hospital and Research Centre,"Bandra West, Mumbai",197.0,
+2079,Godrej Memorial Hospital,"Vikhroli, Mumbai",105.0,110.0
+2080,Parakh Hospital,"Ghatkopar East, Mumbai",83.0,80.0
+2081,Joy Hospital,"Chembur, Mumbai",8.0,
+2082,Breach Candy Hospital,"Breach Candy, Mumbai",136.0,65.0
+2083,Om Sai Baba Hospital,"Chembur East, Mumbai",7.0,15.0
+2084,Bhatia  Hospital,"Tardeo, Mumbai",205.0,209.0
+2085,Kokilaben Dhirubhai Ambani Hospital,"Andheri West, Mumbai",42.0,
+2086,S L Raheja Fortis Hospital,"Mahim, Mumbai",158.0,140.0
+2087,Wockhardt Hospital,"Mira Road, Mumbai",48.0,
+2088,Shushrusha Citizens' Co-operative Hospital,"Shivaji Park, Mumbai",132.0,
+2089,Jaslok Hospital,"Peddar Road, Mumbai",27.0,364.0
+2090,Juvekars Nursing Home,"Chembur, Mumbai",2.0,
+2091,Bhaktivedanta Hospital,"Mira Road, Mumbai",40.0,
+2092,BSES MG Hospital,"Andheri West, Mumbai",65.0,100.0
+2093,Swastik Hospital,"Chembur East, Mumbai",22.0,
+2094,Saraogi Hospital,"Malad West, Mumbai",3.0,15.0
+2095,Lifewave Hospital,"Malad East, Mumbai",11.0,15.0
+2096,Surya Mother and Child Super Speciality Hospital,"Santacruz West, Mumbai",48.0,70.0
+2097,Apex Hospital,"Borivali West, Mumbai",42.0,
+2098,Dr Agashe's Maternity And Surgical Nursing Home,"Kurla West, Mumbai",2.0,20.0
+2099,Masina Hospital ,"Byculla, Mumbai",121.0,232.0
+2100,Sanjeevani Surgical & General Hospital,"Malad East, Mumbai",22.0,
+2101,Holy Spirit Hospital,"Andheri East, Mumbai",32.0,300.0
+2102,Aastha Health Care,"Mulund West, Mumbai",19.0,50.0
+2103,The Childrens Hospital Mumbai,"Malad West, Mumbai",14.0,12.0
+2104,Axis Multispecialty Hospital,"Andheri West, Mumbai",19.0,20.0
+2105,Raksha Hospital,"Malad West, Mumbai",8.0,35.0
+2106,Tata Memorial Hospital ,"Parel, Mumbai",14.0,
+2107,National Hospital,"Borivali East, Mumbai",5.0,
+2108,Asian Heart Hospital,"Bandra East, Mumbai",23.0,
+2109,Ramakrishna Mission Hospital,"Khar West, Mumbai",46.0,
+2110,Bhartiya Arogya Nidhi Hospital,"Juhu, Mumbai",17.0,5.0
+2111,Belle Vue Multispeciality Hospital,"Andheri, Mumbai",23.0,
+2112,Srijan The Fertility Centre & Women Care Hospital,"Borivali West, Mumbai",1.0,15.0
+2113,Aditi Hospital,"Mulund West, Mumbai",6.0,4.0
+2114,Smt B C J General Hospital ,"Santacruz West, Mumbai",32.0,
+2115,Shree Krishna Hospital,"Borivali East, Mumbai",9.0,21.0
+2116,Kohinoor Hospital,"Kurla West, Mumbai",1.0,175.0
+2117,Guru Nanak Hospital,"Bandra East, Mumbai",37.0,120.0
+2118,Powai Polyclinic & Hospital,"Powai, Mumbai",10.0,30.0
+2119,Niron Hospital,"Santacruz East, Mumbai",22.0,50.0
+2120,Dr. Jonwal's Niramay Ayush Panchkarm Health Institute & Research Hospital,"Kandivali West, Mumbai",4.0,15.0
+2121,Hegde Hospital ,"Chembur, Mumbai",3.0,14.0
+2122,Criti Care Multi Speciality Hospital & Research Centre,"Andheri West, Mumbai",39.0,100.0
+2123,Irla Nursing Home & Polyclinic,"Vileparle West, Mumbai",4.0,16.0
+2124,Shalom Medicare Pvt Ltd,"Bhayandar East, Mumbai",16.0,25.0
+2125,Shree Hospital,"Chembur, Mumbai",4.0,28.0
+2126,Mukund Hospital,"Andheri East, Mumbai",8.0,
+2127,Endocrine and Diabetes Clinic,"Borivali West, Mumbai",3.0,20.0
+2128,Ankur Hospital,"Kandivali West, Mumbai",4.0,15.0
+2129,Mangal Anand Hospital,"Chembur, Mumbai",11.0,38.0
+2130,Maruti Nursing Home,"Mulund East, Mumbai",4.0,15.0
+2131,Hira Mongi Navneet Hospital,"Mulund West, Mumbai",47.0,5.0
+2132,Narurkar ENT Hospital,"Chembur East, Mumbai",1.0,2.0
+2133,Bombay Hospital & Medical Research Centre,"Marine Lines, Mumbai",224.0,900.0
+2134,New Sanjeevani Hospital,"Malad East, Mumbai",15.0,
+2135,Saifee Hospital,"Charni Road, Mumbai",170.0,256.0
+2136,Tandon Hospital,"Chembur East, Mumbai",4.0,11.0
+2137,Eye care centre,"Malad West, Mumbai",1.0,10.0
+2138,Arogyam Hospital,"Kanjurmarg, Mumbai",2.0,15.0
+2139,Sujay Hospital,"Vileparle West, Mumbai",21.0,50.0
+2140,Ojas Eye Hospital,"Bandra West, Mumbai",4.0,25.0
+2141,Kandivili Hitvardhak Mandal Hospital,"Kandivali West, Mumbai",13.0,
+2142,S.R Mehta Hospital,"Sion East, Mumbai",37.0,
+2143,Agarwal General Hospital & Polyclinic,"Malad East, Mumbai",9.0,
+2144,DNA Multispeciality Hospital ,"Kandivali East, Mumbai",2.0,15.0
+2145,Aditya Jyot Eye Hospital,"Wadala, Mumbai",12.0,
+2146,Dr Panchamiyas Hi Tech Orthopaedic And Surgical Hospital,"Kandivali West, Mumbai",7.0,
+2147,Dr Indu’s Newborn & Childcare Centre,"Andheri West, Mumbai",4.0,
+2148,Dr. Mendadkar's Children Hospital,"Kurla East, Mumbai",1.0,
+2149,Janhvi Nursing Home Pvt Ltd.,"Malad West, Mumbai",6.0,15.0
+2150,Satyam Hospital,"Ghatkopar West, Mumbai",11.0,
+2151,Lotus Eye Hospital's Trust,"Juhu, Mumbai",9.0,
+2152,Gokhale Eye Hospital,"Dadar West, Mumbai",1.0,
+2153,Life Care Hospital - Mira Road,"Mira Road, Mumbai",7.0,
+2154,Sanket Hospital,"Borivali West, Mumbai",2.0,9.0
+2155,Karuna Hospital,"Borivali West, Mumbai",25.0,50.0
+2156,Shree Samarth Nursing Home,"Matunga, Mumbai",2.0,18.0
+2157,Womens Hospital,"Khar West, Mumbai",2.0,
+2158,Dr. L.H.Hiranandani Hospital,"Powai, Mumbai",1.0,
+2159, Kulkarni Hospital & ICU,"Jogeshwari East, Mumbai",9.0,
+2160,Diamond Hospital,"Jogeshwari West, Mumbai",5.0,20.0
+2161,Mallika Hospital,"Jogeshwari West, Mumbai",3.0,30.0
+2162,Anand Hospital,"Mira Road, Mumbai",2.0,15.0
+2163,Sona Hospital And Medical Centre,"Santacruz East, Mumbai",17.0,15.0
+2164,Dr. Subodh Mehta Medical Center,"Khar West, Mumbai",22.0,
+2165,Aashna Nursing Home,"Andheri, Mumbai",13.0,10.0
+2166,Matrushri Hospital,"Kandivali West, Mumbai",5.0,
+2167,Seven Eleven Hospital,"Mira Road, Mumbai",22.0,150.0
+2168, Nagher Samaj Hospital,"Ghatkopar West, Mumbai",2.0,15.0
+2169,Madhu Hospital,"Bhandup West, Mumbai",9.0,25.0
+2170,Wockhardt Hospital,"Mumbai Central, Mumbai",9.0,
+2171,New Noor Hospital,"Kurla West, Mumbai",10.0,5.0
+2172,Aryan Hospital & Medical Centre ,"Kurla East, Mumbai",19.0,
+2173,Prakash Jyot Hospital & I.C.C.U,"Govandi, Mumbai",3.0,20.0
+2174,Phoenix Hospital,"Kandivali West, Mumbai",4.0,
+2175,Shreeji Hospital,"Kandivali East, Mumbai",4.0,
+2176,Jain Hospital,"Goregaon West, Mumbai",2.0,5.0
+2177,Pooja Hospital & Polyclinic,"Goregaon West, Mumbai",7.0,
+2178,Sneh Nursing Home,"Andheri, Mumbai",2.0,4.0
+2179,Shalyak Hospital,"Jogeshwari East, Mumbai",11.0,28.0
+2180,Farids Hospital ,"Mira Road, Mumbai",11.0,
+2181,Rushabh Hospital,"Chembur, Mumbai",1.0,10.0
+2182,Sushrut Hospital and Research Center,"Chembur East, Mumbai",9.0,
+2183,Sanghvi Hospital,"Andheri West, Mumbai",4.0,5.0
+2184,Cloudnine Hospital,"Malad West, Mumbai",48.0,
+2185,Asha Maternity And General Hospital,"Malad East, Mumbai",6.0,30.0
+2186,Inlaks General Hospital,"Chembur East, Mumbai",7.0,
+2187,City Hospital-kurla,"Kurla West, Mumbai",2.0,50.0
+2188,Kokan Hospital,"Jogeshwari East, Mumbai",4.0,21.0
+2189,Yashwant Maternity Hospital,"Vikhroli, Mumbai",3.0,
+2190,Bakul Parekh Children's Hospital,"Ghatkopar East, Mumbai",2.0,50.0
+2191,H J Doshi Ghatkopar Hindu Sabha Hospital,"Ghatkopar West, Mumbai",6.0,
+2192,Medicare Hospital (Bone And Joint Center),"Andheri East, Mumbai",6.0,
+2193,Dr. Yadav Hospital,"Nalasopara West, Mumbai",1.0,16.0
+2194,Speciality ENT Hospital,"Kandivali East, Mumbai",3.0,4.0
+2195,Lifelline Hospital,"Goregaon East, Mumbai",5.0,
+2196,Sunridges Speciality Hospital,"Vileparle West, Mumbai",2.0,30.0
+2197,Samartha Hospital,"Mira Road, Mumbai",2.0,10.0
+2198,Pandya Surgical & Maternity Hospital,"Borivali, Mumbai",4.0,8.0
+2199,Benzer Nursing Home,"Andheri West, Mumbai",7.0,15.0
+2200,Purnima Hospital,"Borivali East, Mumbai",9.0,
+2201,Samarth Hospital,"Vikhroli West, Mumbai",2.0,
+2202,Excel ENT Hospital,"Ghatkopar East, Mumbai",7.0,3.0
+2203,Rukhmani Hospital,"Grant Road, Mumbai",16.0,
+2204,Criticare Hospital,"Andheri East, Mumbai",1.0,100.0
+2205,ARK Hospital,"Andheri West, Mumbai",9.0,20.0
+2206,Sai Baba Hospital,"Bhayandar East, Mumbai",5.0,34.0
+2207,Lifeline Group of Hospitals,"Malad West, Mumbai",18.0,
+2208,Paramount General Hospital & I.C.C.U,"Andheri East, Mumbai",4.0,
+2209,Sunny Hospital,"Chembur, Mumbai",1.0,
+2210,Bathia Hospital And Eye Clinic,"Borivali West, Mumbai",10.0,
+2211,Maru Hospital,"Parel, Mumbai",33.0,20.0
+2212,Hinduja HealthCare Surgical Hospital,"Khar West, Mumbai",4.0,
+2213,Hitankshi Nursing Home,"Mira Road, Mumbai",6.0,15.0
+2214,Thakur Hospital,"Dadar West, Mumbai",8.0,
+2215,Kapadia Multispeciality Hospital,"Goregaon West, Mumbai",1.0,30.0
+2216,Ashwini Accident Hospital,"Mahim, Mumbai",3.0,10.0
+2217,Sanjeevanee Hospital,"Dadar East, Mumbai",2.0,15.0
+2218,Sobti Hospital,"Matunga, Mumbai",3.0,7.0
+2219,Worli Hospital For Women,"Worli, Mumbai",8.0,8.0
+2220,Atlantis Hospital,"Malad West, Mumbai",6.0,20.0
+2221, Abhinav Sushrut Hospital,"Dahisar East, Mumbai",2.0,
+2222,Ruby Hospital - A Venture of Arogyam Hospital,"Bhandup West, Mumbai",12.0,15.0
+2223,Oscar Multispeciality Hospital,"Kandivali West, Mumbai",7.0,75.0
+2224,Parakh Hospital,"Ghatkopar, Mumbai",1.0,80.0
+2225,Arya Women's Hospital,"Kandivali West, Mumbai",1.0,
+2226,Apex Multi Speciality Hospital ,"Sakinaka, Mumbai",2.0,18.0
+2227,Care & Cure Maternity And Nursing Home,"Powai, Mumbai",1.0,
+2228,Ashok Hospital,"Dahisar East, Mumbai",6.0,12.0
+2229,Sitla Hospital,"Chembur, Mumbai",2.0,
+2230,Prasanna Aarogya Hospital & ICU,"Mulund West, Mumbai",6.0,
+2231,Zenith Hospital,"Malad, Mumbai",5.0,100.0
+2232,Nimani Hospital,"Malad West, Mumbai",1.0,
+2233,Spring Life IVF & Fertility Centre,"Parel, Mumbai",1.0,9.0
+2234,Nihal Nursing Home,"Powai, Mumbai",6.0,
+2235,SAS Hospital,"Bhandup West, Mumbai",1.0,25.0
+2236,Mehta International Eye Institute,"Colaba, Mumbai",1.0,3.0
+2237,Masrani Hospital For Women,"Andheri, Mumbai",19.0,15.0
+2238,Surana Sethia Hospital and Research Center,"Chembur, Mumbai",5.0,75.0
+2239,Dhanwantari Hospital and Research Centre,"Shivaji Park, Mumbai",2.0,
+2240,Shah Nursing Home ,"Matunga, Mumbai",1.0,8.0
+2241,Swastik Nursing Home,"Ghatkopar West, Mumbai",10.0,10.0
+2242,Anand Multi Speciality Hospital,"Dahisar East, Mumbai",2.0,
+2243,Dr. Farid's Hospital,"Mira Road, Mumbai",1.0,15.0
+2244,Dr LH Hiranandani Hospital,"Powai, Mumbai",3.0,
+2245,Kiran Care & Cure Hospital,"Andheri East, Mumbai",6.0,
+2246,SMT Laxmiben Dharmshi Karsn Gala Eye Hospital ,"Vileparle East, Mumbai",1.0,
+2247,Parekh Eye Hospital,"Bandra, Mumbai",3.0,3.0
+2248,Surana Hospital,"Bhayandar, Mumbai",12.0,15.0
+2249,Somaiya Hospital,"Sion East, Mumbai",17.0,
+2250,Pikale Hospital,"Mahim, Mumbai",4.0,10.0
+2251,Eye Solutions - The complete eye hospital,"Cumballa Hill, Mumbai",2.0,
+2252,Kirti Nursing Home,"Kandivali West, Mumbai",1.0,
+2253,Jeevan Maternity & General Hospital,"Malad East, Mumbai",5.0,30.0
+2254,Platinum Hospital,"Mulund East, Mumbai",17.0,100.0
+2255,Vinayak Maternity And General Hospital,"Malad West, Mumbai",5.0,
+2256,Pancholi Hospital,"Ghatkopar East, Mumbai",11.0,20.0
+2257,Sarla Hospital,"Santacruz West, Mumbai",4.0,35.0
+2258,Pushpaa Hospital,"Andheri West, Mumbai",2.0,15.0
+2259,Manisha's Sparshad Nursing Home,"Bhandup, Mumbai",3.0,15.0
+2260,Suvidha Hospital & Polyclinic,"Goregaon West, Mumbai",1.0,15.0
+2261,Endoscopy Asia,"Sion West, Mumbai",37.0,80.0
+2262,Apollo Spectra Hospital,"Chembur, Mumbai",1.0,16.0
+2263,Chandrajyoti Children and General Hospital,"Ghatkopar West, Mumbai",2.0,18.0
+2264,Ashwini Nursing Home & IVF Centre,"Dadar East, Mumbai",1.0,6.0
+2265,Kanchi Nursing Home,"Goregaon East, Mumbai",9.0,16.0
+2266,Sailee Hospital,"Borivali West, Mumbai",6.0,
+2267,Sushrusha Hospital - Mira Road,"Mira Road, Mumbai",3.0,
+2268,Shroff Eye Clinic,"Marine Drive, Mumbai",3.0,
+2269,Shroff Eye Hospital,"Bandra West, Mumbai",1.0,
+2270,Shreeji Hospital,"Ghatkopar West, Mumbai",3.0,15.0
+2271,Ashirwad Maternity & Nursing Home,"Bhandup West, Mumbai",2.0,16.0
+2272,Raghu Kamal Hospital,"Malad West, Mumbai",8.0,
+2273,DNA Multispeciality Hospital,"Kandivali East, Mumbai",8.0,
+2274,Hamzah Multispeciality Hospital ,"Mira Road, Mumbai",1.0,
+2275,Nefrons Hospital,"Mulund West, Mumbai",10.0,10.0
+2276,Shree Hospital,"Mulund, Mumbai",2.0,20.0
+2277,Sangita Maternity Surgical & Diagnostic Centre,"Andheri West, Mumbai",11.0,15.0
+2278,FourCare Hospital,"Vileparle East, Mumbai",1.0,6.0
+2279,Aarti Chetraj Khadka Nursing Home,"Bhandup West, Mumbai",9.0,
+2280,Belle Vue Nursing Home,"Andheri West, Mumbai",2.0,25.0
+2281,Gupta Nursing Home,"Malad West, Mumbai",4.0,
+2282,Datt Maternity & Surgical Home,"Goregaon West, Mumbai",1.0,15.0
+2283,Rathod Orthopaedic Hospital,"Borivali West, Mumbai",5.0,5.0
+2284,Prime Hospital - Malad West,"Marve, Mumbai",5.0,15.0
+2285,Shree Sai Clinic & Late Parvati Shankar Rao Chavan Memorial Hospital,"Goregaon West, Mumbai",11.0,
+2286,Saidhan Hospital ICCU & Eye Care,"Mulund East, Mumbai",7.0,
+2287,Sai Hospital,"Chembur, Mumbai",1.0,
+2288,J P Hospital,"Andheri East, Mumbai",1.0,
+2289,Universal Eye Clinic,"Wadala, Mumbai",2.0,2.0
+2290,Roshni Eye Hospital,"Andheri West, Mumbai",3.0,
+2291,Sai Hospital-Thane,"Mulund, Mumbai",17.0,25.0
+2292,Mohit Hospital,"Borivali East, Mumbai",1.0,25.0
+2293,Sai Lee Hospital,"Borivali, Mumbai",5.0,
+2294,Laxmi Maternity Home,"Chembur, Mumbai",9.0,
+2295,Modi Hospital ,"Mulund, Mumbai",11.0,25.0
+2296,St Mary Hospital,"Malad East, Mumbai",2.0,
+2297,Life Care Hospital,"LBS Marg, Mumbai",1.0,
+2298,Shiv Om Hospital,"Mira Road, Mumbai",1.0,20.0
+2299,Bhavna Maternity & Nursing Home,"Ghatkopar West, Mumbai",3.0,5.0
+2300,Shreeji Kripa Nursing Home,"Borivali, Mumbai",3.0,8.0
+2301,Shree Siddhivinayak Urology & Multispeciality Hospital,"Dombivli East, Mumbai",2.0,
+2302,Atullok Hospital,"Vikhroli East, Mumbai",1.0,15.0
+2303,Unique Hospital,"Andheri West, Mumbai",1.0,15.0
+2304,Babasaheb Gawde Hospital,"Vileparle East, Mumbai",9.0,65.0
+2305,Cansure Centre,"Mulund West, Mumbai",2.0,17.0
+2306,The Vein Center - Sushrut Hospital,"Andheri East, Mumbai",2.0,5.0
+2307,Nayak Medicare - Nursing Home,"Chembur East, Mumbai",13.0,
+2308,M S Maternity & General Hospital ,"Bhandup West, Mumbai",7.0,
+2309,R.G Stone Hospital,"Mulund West, Mumbai",3.0,
+2310,Dr Shah's Garbhasanskar Hospital,"Dadar, Mumbai",2.0,6.0
+2311,Lotus Multispecialty Hospital,"Borivali West, Mumbai",2.0,25.0
+2312,Parel Midtown Imaging Hospital,"Parel, Mumbai",1.0,
+2313,Smt Sushilaben R Mehta & Sir Kikabhai Hospital,"Sion, Mumbai",13.0,
+2314,Noble Hospital,"Ghatkopar West, Mumbai",5.0,
+2315,Regent Hospital,"Mira Road, Mumbai",1.0,50.0
+2316,Powai Polyclinic Hospital,"Powai, Mumbai",26.0,
+2317,Jain ENT Hospital,"Mira Road, Mumbai",16.0,
+2318,Phoenix Hospital,"Borivali West, Mumbai",5.0,
+2319,Nirmala Hospital,"Mahalaxmi, Mumbai",2.0,27.0
+2320,Dr. Gujar's Maternity and Surgical Hospital,"Mulund East, Mumbai",2.0,8.0
+2321,"Dept. Of Advance Physiotherapy & Sports Rehab, Saifee Hospital","Borivali West, Mumbai",1.0,
+2322,Riddhi Vinayak Hospital,"Malad West, Mumbai",2.0,60.0
+2323,Marve Nursing Home,"Malad West, Mumbai",2.0,15.0
+2324,Shruti Nursing Home,"Bandra, Mumbai",1.0,11.0
+2325,Lotus Multi Speciality Hospital,"Bhandup West, Mumbai",1.0,15.0
+2326,Harish Nursing Home,"Lower Parel, Mumbai",5.0,9.0
+2327,Asmira Hospital,"Sakinaka, Mumbai",3.0,10.0
+2328,Lakshmi Nursing Home,"Mulund West, Mumbai",5.0,18.0
+2329,Riddhi Nursing Home,"Borivali West, Mumbai",76.0,8.0
+2330,Gayatri Maternity & General Nursing Home,"Goregaon East, Mumbai",2.0,
+2331,Matushree Hospital,"Kandivali West, Mumbai",54.0,14.0
+2332,Thunga Hospital,"Malad West, Mumbai",1.0,140.0
+2333,Yashada Maternity & Surgical Home  ,"Goregaon East, Mumbai",3.0,18.0
+2334,Kohinoor Hospital,"Kurla West, Mumbai",9.0,
+2335,Oyster Hospital,"Goregaon West, Mumbai",14.0,
+2336,Apollo Spectra Hospitals,"Tardeo, Mumbai",2.0,50.0
+2337,Namaha Healthcare,"Kandivali West, Mumbai",1.0,60.0
+2338,Womens Hospital,"Andheri West, Mumbai",1.0,12.0
+2339,Zen Multispeciality Hospital,"Chembur, Mumbai",1.0,110.0
+2340,Cumballa Hill Hospital and Heart Institute,"Kemps Corner, Mumbai",8.0,51.0
+2341,Asian Cancer Institute,"Sion East, Mumbai",6.0,80.0
+2342,Hope The Nursing Home,"Grant Road, Mumbai",3.0,18.0
+2343,Seema Multispeciality Hospital,"Nalasopara West, Mumbai",1.0,30.0
+2344,Bhavsar Nursing Home & ICCU,"Bhandup West, Mumbai",3.0,25.0
+2345,Aastha Maternity & Surgical Nursing Home,"Lal baug, Mumbai",1.0,10.0
+2346,Zynova Heart Hospital,"Ghatkopar West, Mumbai",1.0,25.0
+2347,Sharan Hospital,"Ghatkopar West, Mumbai",16.0,
+2348,Priyank Nursing Home,"Prabhadevi, Mumbai",5.0,7.0
+2349,Agarwal Children Hospital,"Bandra East, Mumbai",1.0,
+2350,Sneha Hospital,"Bhayandar East, Mumbai",11.0,11.0
+2351,Aasha  Fertility Centre,"Borivali West, Mumbai",1.0,12.0
+2352,Take Care Hospital,"Mira Road, Mumbai",2.0,
+2353,Cloudnine Clinic,"Andheri West, Mumbai",1.0,100.0
+2354,Chandorkar Hospital,"Borivali, Mumbai",1.0,6.0
+2355,Mangal Murti Hospital,"Borivali West, Mumbai",15.0,30.0
+2356,World Gastroenterology Institute,"Andheri West, Mumbai",2.0,30.0
+2357,Jogeshwari Hospital,"Jogeshwari West, Mumbai",1.0,14.0
+2358,Jayashree Nurshing Home,"Kandivali West, Mumbai",6.0,10.0
+2359,Lion Kartar Singh Hospital,"Andheri West, Mumbai",2.0,20.0
+2360,Sunita hospital,"Andheri East, Mumbai",1.0,
+2361,Lifecare Hospital,"Kandivali East, Mumbai",2.0,18.0
+2362,Sai Hospital,"Antop Hill, Mumbai",1.0,25.0
+2363,Ruby Hospital,"Jogeshwari West, Mumbai",1.0,26.0
+2364,Sai Ganga Hospital,"Bhayandar East, Mumbai",1.0,20.0
+2365,Globus Hospital,"Nalasopara East, Mumbai",1.0,23.0
+2366,Nova IVI Fertility,"Chembur, Mumbai",1.0,
+2367,Ramlok ENT Hospital,"Bhayandar West, Mumbai",1.0,20.0
+2368,Arth Hospital,"Nalasopara East, Mumbai",1.0,20.0
+2369,Dr. Sherekar's Hospital,"Santacruz, Mumbai",1.0,10.0
+2370,Antop Hill Hospital,"Antop Hill, Mumbai",2.0,10.0
+2371,Sanjeevani Maternity,"Mira Road, Mumbai",4.0,10.0
+2372,Mannat Hospital,"Govandi, Mumbai",1.0,18.0
+2373,Ayush Hospital,"Kandivali, Mumbai",1.0,13.0
+2374,Patni Hospital,"Goregaon, Mumbai",1.0,15.0
+2375,Amey Surgical Nursing Home,"Kanjurmarg, Mumbai",4.0,9.0
+2376,Atharva Hospital,"Kandivali East, Mumbai",1.0,15.0
+2377,Apex Hospital,"Govandi, Mumbai",1.0,10.0
+2378,JAI DEVI NURSING HOME,"Nalasopara East, Mumbai",1.0,15.0
+2379,Sahara Nursing Home,"Govandi, Mumbai",5.0,12.0
+2380,KLS Memorial Hospital,"Vileparle West, Mumbai",1.0,5.0
+2381,Jupiter Hospital & Diagnostic Centre,"Trombay, Mumbai",2.0,
+2382,Mahavir Nursing Home,"Govandi, Mumbai",1.0,20.0
+2383,Santrupti Hospital And Maternity Care,"Chunabhatti, Mumbai",3.0,8.0
+2384,Seven Star Multispeciality Hospital,"Kandivali East, Mumbai",2.0,100.0
+2385,Sarodev Hospital,"Kandivali East, Mumbai",5.0,10.0
+2386,Siddhivinayak Hospital,"Kandivali East, Mumbai",2.0,6.0
+2387,"Jagannath Maternity, Surgical & General Hospital","Govandi, Mumbai",1.0,20.0
+2388,Dr. Das Hospital & ICCU,"Chembur East, Mumbai",9.0,45.0
+2389,Le Nest Hospital,"Malad West, Mumbai",2.0,15.0
+2390,Prime Hospital,"Goregaon East, Mumbai",2.0,10.0
+2391,V Care Hospital and ICU,"Kurla East, Mumbai",5.0,17.0
+2392,SHREEDHAR HOSPITAL,"Dadar, Mumbai",2.0,6.0
+2393,Central Hospital,"Sakinaka, Mumbai",11.0,20.0
+2394,Global Nursing Home,"Ghatkopar, Mumbai",1.0,30.0
+2395,Dr Tambe's Children Hospital,"Vikhroli East, Mumbai",17.0,9.0
+2396,Govandi Nursing Home,"Govandi, Mumbai",1.0,12.0
+2397,Amrut Nursing Home,"Ghatkopar West, Mumbai",1.0,15.0
+2398,SRV Hospital,"Goregaon West, Mumbai",5.0,45.0
+2399,Shobhana Hospital,"Bhayandar East, Mumbai",1.0,11.0
+2400,Rane Hospital,"Chembur, Mumbai",2.0,
+2401,Aryan Hospital,"Kurla East, Mumbai",1.0,
+2402,Agarwal Nursing Home,"Bandra West, Mumbai",1.0,9.0
+2403,St Elizabeth's Hospital,"Malabar Hill, Mumbai",1.0,
+2404,Sahu Eye Hospital,"Malad West, Mumbai",1.0,
+2405,Eye Life,"Khar West, Mumbai",7.0,
+2406,Al-Hasan Children Hospital,"Nalasopara West, Mumbai",2.0,13.0
+2407,Sri Siddhivinayak Hospital & Research Centre,"Mira Road, Mumbai",1.0,
+2408,Saraswati Hospital,"Kandivali East, Mumbai",2.0,
+2409,Shastri Nursing Home,"Santacruz East, Mumbai",1.0,15.0
+2410, Saraswati Hospital,"Malad West, Mumbai",2.0,
+2411,Sadhu Kamal Eye Hospital,"Lamington Road, Mumbai",1.0,2.0
+2412,Surlata Hospital Foetal Medicine Consultancy Services,"Mahim, Mumbai",1.0,
+2413,Dr. Patel Nursing Home,"Andheri West, Mumbai",21.0,
+2414,Small And Exotic Animal Hospital,"Kandivali West, Mumbai",1.0,
+2415,Paramount Hospital,"Andheri East, Mumbai",2.0,
+2416,Desai Hospital & Maternity Centre,"Dadar West, Mumbai",2.0,10.0
+2417,Nair Hospital,"Dadar East, Mumbai",2.0,
+2418,Shanti Nursing Home,"Vikhroli, Mumbai",1.0,
+2419,Pramukhswami Eye Hospital,"Chunabhatti, Mumbai",15.0,
+2420,Saidhan Eye Hospital ,"Mulund East, Mumbai",1.0,4.0
+2421, Braham Sabha Hospital,"Girgaon, Mumbai",1.0,
+2422,Atharva Hospital & Research Center,"Sion East, Mumbai",1.0,20.0
+2423,Durga Nursing Home,"Andheri East, Mumbai",2.0,16.0
+2424,Orbit Eye Hospital,"Jogeshwari, Mumbai",4.0,25.0
+2425,Punamiya Hospital,"Dadar West, Mumbai",10.0,
+2426,Tara Neo-Surg hospital,"Ghatkopar East, Mumbai",2.0,
+2427,Prakash Nursing Home,"Nalasopara West, Mumbai",1.0,14.0
+2428,Balaji Hospital,"Andheri East, Mumbai",4.0,
+2429,Tate Hospital,"Nalasopara West, Mumbai",1.0,
+2430,Savant Hospital Maternity & Nursing Home,"Jogeshwari, Mumbai",1.0,
+2431,Ashirwad Childrens & Surgical Hospital & ICU,"Andheri, Mumbai",1.0,
+2432,Dentline,"Gamdevi, Mumbai",7.0,
+2433,Siddhant Children's hospital,"Kandivali East, Mumbai",1.0,
+2434,Sai Aashirwad Hospital,"Bhayandar East, Mumbai",1.0,
+2435,Suryakiran Multispecialty Hospital,"Kandivali East, Mumbai",8.0,
+2436,Dr. Karvir's Pruthvi Hospital & Endoscopy Center,"Palghar, Mumbai",1.0,10.0
+2437,Brahma Kumaris' Global Hospital and Research Center,"Andheri West, Mumbai",1.0,20.0
+2438,Dhanwantary Hospital and ICU,"Mulund West, Mumbai",1.0,
+2439,Pearl Hospital,"Borivali West, Mumbai",1.0,
+2440,Puranik Hospital,"Malad West, Mumbai",1.0,10.0
+2441,Dr. Praful Lokhande's Shantiniketan Hospital,"Ghatkopar West, Mumbai",1.0,50.0
+2442,Dr. Dragos Lifeline Hospital,"Mira Road, Mumbai",2.0,
+2443,Krishnadeep Hospital,"Nalasopara West, Mumbai",1.0,4.0
+2444,Aadarsh Nursing Home,"Ghatkopar West, Mumbai",6.0,20.0
+2445,Gayatri Maternity & General Nursing Home- Malad East,"Goregaon East, Mumbai",7.0,
+2446,Shree ENT Nursing Home,"Vileparle East, Mumbai",1.0,5.0
+2447,Dr. Dipti's physiotherapy centre,"Mira Road, Mumbai",3.0,20.0
+2448,Dr. Palep Priyank Nursing Home,"Prabhadevi, Mumbai",2.0,
+2449,Aditya Hospital,"Ghatkopar West, Mumbai",1.0,
+2450,Rushabh Eye Hospital & Laser Centre Pvt. Ltd.,"Chembur, Mumbai",1.0,10.0
+2451,Mahavir Medical Research Centre,"Khar West, Mumbai",2.0,25.0
+2452,Dr. Vaidya Eye Hospital,"Andheri West, Mumbai",4.0,20.0
+2453,Disha Hospital,"Ghatkopar West, Mumbai",3.0,5.0
+2454,L C Manek Polyclinic And Nursing Home,"Chembur East, Mumbai",1.0,11.0
+2455,Aashirwad Hospital,"Andheri West, Mumbai",1.0,6.0
+2456,Dr. Gandhi Nursing Home,"Dadar, Mumbai",1.0,15.0
+2457,Ashwini Hospital,"Mulund West, Mumbai",1.0,
+2458,Lotus hospital,"Govandi, Mumbai",1.0,18.0
+2459,"Dental Dept., S L Raheja (a Fortis Associate) Hospital","Mahim, Mumbai",1.0,
+2460,Pooja Hospital,"Goregaon, Mumbai",1.0,
+2461,Microcare Hospital,"Wadala, Mumbai",1.0,
+2462,Mandar Nursing Home,"Bandra West, Mumbai",1.0,9.0
+2463,Sports Med Hospital,"Parel, Mumbai",1.0,
+2464,Dr. Gupte Surgical Hospital,"Khar West, Mumbai",1.0,
+2465,Vikas Nursing Home,"Govandi, Mumbai",1.0,21.0
+2466,Surana Hospital And Research Center,"Malad West, Mumbai",4.0,
+2467,Sadguru Hospital,"Goregaon West, Mumbai",1.0,15.0
+2468,Aryan Hospital & ICU,"Mazgaon, Mumbai",1.0,
+2469,Om Shanti Nursing Home,"Vikhroli East, Mumbai",1.0,7.0
+2470,Shree Siddhivinayak Hospital,"Bhayandar East, Mumbai",1.0,
+2471,KLS Hospital,"Vileparle West, Mumbai",1.0,
+2472,CEDS Eye Hospital,"Bandra West, Mumbai",3.0,4.0
+2473,Dr. Kulin Shah's Clinic,"Ghatkopar East, Mumbai",1.0,
+2474,Dr. Chhabildas Sanghvi Eye Hospital & Medical Centre,"Malad West, Mumbai",1.0,
+2475,Manav Dental Hospital,"Kurla East, Mumbai",1.0,
+2476,Sahu Eye Hospital,"Kandivali West, Mumbai",3.0,
+2477,Pratik Hospital & Maternity Home,"Kandivali West, Mumbai",2.0,
+2478,Bhojraj Chanrai Sankara Eye Hospital,"Malad West, Mumbai",1.0,
+2479,Amplifon - Borivali,"Borivali West, Mumbai",1.0,
+2480,MIB Hospital ,"Borivali West, Mumbai",1.0,
+2481,Shah Life Line Hospital,"Mira Road, Mumbai",1.0,
+2482,Samadhan Hospital,"Sion West, Mumbai",3.0,4.0
+2483,Dr. Pukale Maternity and Nursing Home,"Bhandup West, Mumbai",1.0,9.0
+2484,Lion Hospital,"Dahisar, Mumbai",1.0,
+2485,Bakson's Homoeopathic Centre for Allergy,"Mulund, Mumbai",1.0,
+2486,SRCC Children's Hospital,"Worli, Mumbai",1.0,
+2487,Dr. Kulkarni Hospital & Intensive Care Unit,"Jogeshwari East, Mumbai",1.0,
+2488,MM Hospital,"Borivali West, Mumbai",1.0,
+2489,Advanced Multispeciality Hospitals,"Vileparle West, Mumbai",3.0,
+2490,Life Line Medicare Hospital Pvt.Ltd,"Kandivali East, Mumbai",1.0,
+2491,Bhatia Hospital,"Grant Road, Mumbai",1.0,
+2492,Shree Surgical and General Nursing Home,"Vileparle East, Mumbai",1.0,8.0
+2493,Dr. J. M. Purandare Hospital,"Shivaji Park, Mumbai",1.0,20.0
+2494,Shalom Hospital,"Bhayandar East, Mumbai",1.0,
+2495,Prathamesh Maternity & Nursing Home,"Bandra East, Mumbai",1.0,
+2496,Gita Dental Hospital ,"Bhayandar East, Mumbai",1.0,
+2497,Sanjeevani Hospital,"Andheri East, Mumbai",1.0,
+2498,"Dr Ashvith Shetty's Clinic, Hiranandani hospital","Powai, Mumbai",1.0,240.0
+2499,R K Hospital,"Santacruz East, Mumbai",1.0,
+2500,Orbit Hospital,"Mulund East, Mumbai",1.0,12.0
+2501,Mahavir Orthopaedic & Gerneral Hospital,"Mulund, Mumbai",1.0,
+2502,Surya Hospital,"Santacruz, Mumbai",2.0,
+2503,Gayatri Hospital,"Goregaon East, Mumbai",1.0,
+2504,Sai Hospital,"Sion, Mumbai",1.0,
+2505,Sujay Hospital And Research Center,"Juhu, Mumbai",1.0,30.0
+2506,Motiben Delvi Hospital,"Grant Road, Mumbai",3.0,
+2507,Vivek Nursing Home,"Ghatkopar West, Mumbai",1.0,20.0
+2508,Surya Hospital,"Andheri, Mumbai",1.0,15.0
+2509,Aastha Hospital,"Kandivali West, Mumbai",1.0,
+2510,Motiben Dalvi Hospital Pvt OPD,"Malabar Hill, Mumbai",1.0,
+2511,Dr. Kapadia's Maternity and General Hospital,"Malad, Mumbai",1.0,12.0
+2512,Noor Hospital,"Govandi, Mumbai",2.0,
+2513,VN Desai Municipal General Hospital,"Santacruz East, Mumbai",2.0,
+2514,Hira Surgical Nursing Home,"Goregaon East, Mumbai",1.0,7.0
+2515,Ashirwad Criticalcare Hospital,"Mulund West, Mumbai",1.0,
+2516,Care Hospital,"Kurla, Mumbai",1.0,
+2517,Atlantis Hospital,"Malad West, Mumbai",1.0,
+2518,Khushi Maternity & Nursing Home,"Goregaon East, Mumbai",1.0,9.0
+2519,Kumar Clinic,"Khar West, Mumbai",1.0,
+2520,Dhanvantari Hospital,"Andheri West, Mumbai",1.0,12.0
+2521,Apex Hospital,"Borivali West, Mumbai",4.0,5.0
+2522,Vsudha Hospital,"Goregaon East, Mumbai",1.0,
+2523,Sai Hospital,"Chembur East, Mumbai",1.0,
+2524,spandan hospital,"Mulund East, Mumbai",1.0,
+2525,Amplifon - Andheri West,"Andheri West, Mumbai",1.0,
+2526,BSES Global Hospital,"Andheri West, Mumbai",1.0,
+2527,Atlantis Max Hospital,"Kandivali West, Mumbai",1.0,
+2528,Pramukh Swami Eye Hospital,"Matunga, Mumbai",1.0,25.0
+2529,Cikale Hospital,"Mahim, Mumbai",1.0,
+2530,Raj Hospital,"Mulund, Mumbai",1.0,
+2531,Surya Hospital,"Andheri West, Mumbai",1.0,
+2532,Sir J J Group of Hospitals and Grant Medical College,"Nagpada, Mumbai",1.0,
+2533,Balgi Hospital,"Andheri West, Mumbai",1.0,
+2534,Purandare Hospital,"Girgaon, Mumbai",1.0,
+2535,RG Stone Urology & Laparoscopy Hospital,"Andheri West, Mumbai",2.0,
+2536,Gayathri Hospital (Spine And Pain Medicine),"Mira Road, Mumbai",1.0,
+2537,Kaveri Hospital,"Andheri East, Mumbai",1.0,
+2538,Dr. Varsha Parekh Maternity & Surgical Hospital,"Chembur East, Mumbai",1.0,17.0
+2539,Bhayander Criticare Hospital,"Bhayandar East, Mumbai",1.0,35.0
+2540,Mangalmurti Hospital,"Bhayandar East, Mumbai",1.0,15.0
+2541,City Hospital,"Jogeshwari West, Mumbai",1.0,20.0
+2542,Sai Siddhi Hospital,"Kandivali East, Mumbai",1.0,
+2543,Life Hospital,"Govandi, Mumbai",1.0,
+2544,Jai Hind Hospital,"Chembur, Mumbai",1.0,
+2545,Punamiya Hospital,"Dadar West, Mumbai",7.0,20.0
+2546,Jeevan Jyoti hospital,"Govandi, Mumbai",2.0,
+2547,Ribha Nursing and Maternity Home,"Andheri West, Mumbai",10.0,5.0
+2548,Advanced Multispeciality Hospital,"Vileparle, Mumbai",1.0,
+2549,B.S.E.S. Hospital,"Andheri West, Mumbai",2.0,
+2550,Platinum Hospital,"Mumbai, Mumbai",26.0,
+2551,r k hospital,"Santacruz, Mumbai",31.0,
+2552,Lifeline Multi Speciality Hospital,"Gota, Ahmedabad",21.0,20.0
+2553,Columbia Asia Hospital,"Thaltej, Ahmedabad",16.0,
+2554,Sanjivani Super Speciality Hospital,"Vastrapur, Ahmedabad",13.0,
+2555,Swaram ENT Hospital,"Ghatlodia, Ahmedabad",1.0,
+2556,Shilp Hospital,"Paldi, Ahmedabad",6.0,10.0
+2557,Anand Multi Speciality Hospitals Pvt. Ltd.,"Shahibag, Ahmedabad",2.0,
+2558,Dr. Jivraj Mehta Smarak Health Foundation,"Vasna, Ahmedabad",12.0,220.0
+2559,Shubham Superspeciality Hospital,"Naranpura Vistar, Ahmedabad",10.0,
+2560,HCG Multi Specialty Hospital,"Ellisbridge, Ahmedabad",22.0,
+2561,Adwait ICU And Multispeciality Hospital,"Bopal, Ahmedabad",3.0,
+2562,Jayyush Hospital,"Ghatlodia, Ahmedabad",2.0,
+2563,Akshar Hospital ,"Vejalpur, Ahmedabad",16.0,
+2564,Aarsh Children's Orthopedic Hospital,"Satellite, Ahmedabad",1.0,
+2565,Parimal Hospital,"Maninagar, Ahmedabad",1.0,
+2566,Uma Multispeciality Hospital,"Naroda, Ahmedabad",1.0,18.0
+2567,Sterling Hospital,"Memnagar, Ahmedabad",16.0,
+2568,Rajasthan Hospitals,"Shahibag, Ahmedabad",8.0,
+2569,Samvedana Psychiatric Hospital & Research Institute,"Ashram Road, Ahmedabad",1.0,
+2570,Shreeji Orthopaedic & ENT Hospital,"Gurukul Road, Ahmedabad",2.0,
+2571,Zydus Hospital,"Thaltej, Ahmedabad",10.0,550.0
+2572,Smt. Shobhadevi Ent Hospital,"Naroda Road, Ahmedabad",2.0,
+2573,Akshar Multispeciality Hospital,"Vastral, Ahmedabad",1.0,15.0
+2574,Swari ENT Hospital,"Gandhi Ashram, Ahmedabad",6.0,
+2575,CIMS Hospital,"Sola, Ahmedabad",1.0,372.0
+2576,Parekha Hospital,"Satellite Road, Ahmedabad",2.0,
+2577,Vraj Psychiatry Hospital,"Sabarmati, Ahmedabad",2.0,5.0
+2578,OHM Hospital,"Ghatlodia, Ahmedabad",2.0,
+2579,Shri Mahavir Mutispeciality Hospital,"Sola, Ahmedabad",2.0,
+2580,Cutis Hospital,"Ghatlodia, Ahmedabad",1.0,14.0
+2581,Jagmohan Hospital,"Navrangpura, Ahmedabad",1.0,
+2582,BAPS Yogiji Maharaj Hospital,"Shahibag, Ahmedabad",1.0,
+2583,Tulip Womens Hospital,"Satellite, Ahmedabad",2.0,
+2584,Vismay Childcare Hospital,"Satellite, Ahmedabad",3.0,
+2585,Prabhujyot Hospital And Surgical Institute,"Paldi, Ahmedabad",3.0,
+2586,Nova IVI Fertility,"Navrangpura, Ahmedabad",1.0,15.0
+2587,Kotdawala Hospital & Dental Clinic,"Navrangpura, Ahmedabad",2.0,
+2588,Saviour Hospital,"Navrangpura, Ahmedabad",1.0,
+2589,Anand Surgical Hospital,"Naroda, Ahmedabad",1.0,
+2590,Shashwat Chidren Hospital,"Chandkheda, Ahmedabad",1.0,
+2591,Apollo Hospital,"Ahmedabad, Ahmedabad",1.0,
+2592,Apollo Hospitals,"Bhat, Ahmedabad",1.0,
+2593,M B Patel Hospital,"Vastral, Ahmedabad",1.0,
+2594,Devasya Kidney Hospital,"Nava Vadaj, Ahmedabad",1.0,50.0
+2595,Parekh Fracture & Orthopaedic Hospital,"Paldi, Ahmedabad",2.0,
+2596,Shreyas Multispeciality Dental Hospital,"Naranpura Vistar, Ahmedabad",1.0,
+2597,Patel ENT Hospital,"Ctm Char Rasta, Ahmedabad",1.0,
+2598,Babycare Hospital,"Thaltej, Ahmedabad",1.0,
+2599,Shree Eye and Dental Hospital,"Sola, Ahmedabad",1.0,
+2600,Wellspring IVF & Women's Hospital,"Satellite, Ahmedabad",1.0,
+2601,Shrey Hospital,"Navrangpura, Ahmedabad",1.0,
+2602,Sudarshan Eye Hospital,"Bopal, Ahmedabad",2.0,
+2603,Karunesh Neuro & Spine Surgical Hospital,"Bapunagar, Ahmedabad",1.0,10.0
+2604,Krishna Shalby Hospital,"Bopal, Ahmedabad",1.0,
+2605,Ahmedabad Piles Fistula Hospital,"Paldi, Ahmedabad",1.0,10.0
+2606,Shalin Eye Care Hospital,"Stadium Marg, Ahmedabad",1.0,
+2607,Jani Women's Hospital,"Navrangpura, Ahmedabad",1.0,
+2608,Navkar ENT Hospital,"Paldi, Ahmedabad",1.0,5.0
+2609,CIMS Cancer Centre,"Sola, Ahmedabad",2.0,
+2610,Navkar Hospital,"Bopal, Ahmedabad",1.0,
+2611,"Aarna Super Speciality Hospital,","Paldi, Ahmedabad",1.0,
+2612,Narayana Multispeciality Hospital,"Rakhial, Ahmedabad",1.0,
+2613,Chintan Hospital,"Bopal, Ahmedabad",1.0,
+2614,Sterling Hospital Obgyn Dept/ Shraddha Hospital,"Satellite, Ahmedabad",1.0,
+2615,Shree Sai Children Hospital,"Chandkheda, Ahmedabad",1.0,
+2616,Aayush Surgical Hospital,"Gurukul Road, Ahmedabad",2.0,
+2617,Aahna Eye Care Hospital,"Sabarmati, Ahmedabad",1.0,
+2618,Sal Hospital,"Thaltej, Ahmedabad",3.0,
+2619,Parekh Hospital,"Satellite, Ahmedabad",7.0,
+2620,Ashish Child Hospital,"Ellisbridge, Ahmedabad",1.0,
+2621,Sola General hospital,"Sola, Ahmedabad",2.0,
+2622,Relief Surgical Hospital,"Ahmedabad, Ahmedabad",1.0,
+2623,Kaizen Hospital,"Memnagar, Ahmedabad",2.0,
+2624,Sterling Hospital Obgyn Dept/ Shraddha Hospital,"Satellite, Ahmedabad",1.0,
+2625,Shree Sai Children Hospital,"Chandkheda, Ahmedabad",1.0,
+2626,Aayush Surgical Hospital,"Gurukul Road, Ahmedabad",2.0,
+2627,Aahna Eye Care Hospital,"Sabarmati, Ahmedabad",1.0,
+2628,Sal Hospital,"Thaltej, Ahmedabad",2.0,
+2629,Parekh Hospital,"Satellite, Ahmedabad",1.0,
+2630,Ashish Child Hospital,"Ellisbridge, Ahmedabad",1.0,
+2631,Sola General hospital,"Sola, Ahmedabad",1.0,
+2632,Naveli Bariatric & Laproscopy and Maternity Hospital,"Bhatar, Surat",1.0,
+2633,Udhna Hospital Pvt. Ltd.,"Udhna, Surat",1.0,40.0
+2634,Kidney Care Superspeciality Urology Hospital,"Adajan Dn, Surat",1.0,
+2635,Vatsalya Hospital,"Parvat, Surat",1.0,24.0
+2636,Nandanvan Surgical Hospital,"Varachha Road, Surat",1.0,15.0
+2637,Shruti ENT Hospital,"Udhna, Surat",1.0,
+2638,Pahal Kidney Hospital,"Laldarwaja, Surat",1.0,
+2639,Sharvi Medical Hospital,"Adajan Dn, Surat",2.0,
+2640,Aamanya Hospital,"Adajan Dn, Surat",2.0,15.0
+2641,Matruvarsha Hospital,"Mandvi SR, Surat",2.0,15.0
+2642,Foram Hospital,"Rander, Surat",1.0,16.0
+2643,Shreeji Clinic & Nursing Home,"Sachin, Surat",1.0,15.0
+2644,Welcare Hospital,"Palanpur Nd, Surat",1.0,15.0
+2645,Harihar E.N.T Hospital,"Majura Gate, Surat",1.0,
+2646,Aditya Hospital,"Katargam, Surat",1.0,
+2647,Sriji Hospital,"Adajan Dn, Surat",2.0,16.0
+2648,Maatre Hospital,"L.P. Savani, Surat",1.0,15.0
+2649,Sai Medical Hospital And Maternity Home,"L.P. Savani, Surat",1.0,15.0
+2650,Abhidhara Hospital,"Amroli, Surat",2.0,15.0
+2651,Olive Hospital,"Adajan Dn, Surat",1.0,15.0
+2652,Mayya Maternity Hospital,"Amroli, Surat",1.0,10.0
+2653,Rvushi Children Hospital,"Laldarwaja, Surat",3.0,40.0
+2654,Madhuram Multispeciality Hospital & ICU,"Palanpur Nd, Surat",2.0,18.0
+2655,Aarogyam Hospital And Maternity Home,"Pandesara, Surat",1.0,
+2656,Shivam Hospital,"Parvat, Surat",1.0,
+2657,Saidharm Eye Hospital,"Katargam, Surat",1.0,2.0
+2658,Aarushi Orthopaedic Hospital,"Amroli, Surat",1.0,15.0
+2659,Kadhiwala Orthopaedic Hospital,"Nanpura, Surat",5.0,
+2660,Shubham Hospital,"L.P. Savani, Surat",1.0,16.0
+2661,Mother Hospital & Maternity Home,"Mota Varachha, Surat",1.0,20.0
+2662,Nupoor Maternity Home & Sonography Clinic,"Pal Bhatha, Surat",1.0,7.0
+2663,Shree Pandav Multispeciality Hospital,"Amroli, Surat",2.0,15.0
+2664,Mamta Hospital,"Adajan Dn, Surat",1.0,16.0
+2665,Anand Hospital,"Varachha Road, Surat",1.0,7.0
+2666,Pinkle Hospital,"Haripura, Surat",1.0,18.0
+2667,Eva Hospital,"Adajan Dn, Surat",1.0,15.0
+2668,Patel Hospital And Health Centre,"Sarthana Jakatnaka, Surat",1.0,
+2669,Netrajyot Eye Hospital,"Udhna, Surat",1.0,
+2670,Nikhil Children Hospital,"Adajan Dn, Surat",1.0,
+2671,Sun Shine Global Hospital,"Dumas, Surat",1.0,
+2672,Rhythm Hospital,"Katargam, Surat",1.0,
+2673,"Eye Q Super Speciality Eye Hospitals, Udhna West","Udhna, Surat",1.0,
+2674,Desai's Orthopaedic Hospital,"Adajan Dn, Surat",1.0,16.0
+2675,Nihar Hospital,"Adajan Dn, Surat",1.0,15.0
+2676,Eye Q Desai Super Speciality Eye Hospital,"Rander, Surat",1.0,
+2677,Om Imaging Centre & E.N.T Hospital,"Amroli, Surat",1.0,5.0
+2678,Wings Hospital,"Adajan Dn, Surat",1.0,
+2679,Khushi Hospital,"Godadara, Surat",1.0,14.0
+2680,Cedar Gastro Centre & Infertility Clinic,"Majura Gate, Surat",1.0,
+2681,Shubham Hospital,"Malekpor, Surat",1.0,
+2682,Savani Surgical Hospital,"Varachha Road, Surat",1.0,15.0
+2683,Ashutosh Hospital,"Surat, Surat",1.0,
+2684,Dhanwantari Ayurveda & Panchkarma Hospital,"Puna, Surat",1.0,
+2685,Piplod Multispeciality Hospital and  Prasuti Gruh,"Pipodara, Surat",1.0,
+2686,Pathik Hospital,"Udhna, Surat",1.0,
+2687,Shreyas Ano-rectal hospital & research Centre,"Athwalines, Surat",1.0,
+2688,Star Hospital,"Sagrampura Putli, Surat",1.0,
+2689,Unique Hospitals,"Udhna, Surat",2.0,100.0
+2690,Shree Mahavir Hospital,"Nanpura, Surat",1.0,
+2691,Shree Ayurveda Hospital,"Varachha Road, Surat",2.0,2.0
+2692,Civil Hospital,"Majura Gate, Surat",30.0,
+2693,Aditya Orthopaedic Hospital,"Singanpore, Surat",1.0,
+2694,Ashutosh Multispeciality Hospital,"Majura Gate, Surat",3.0,
+2695,Agarwal Clinic," City Light Town, Surat",2.0,
+2696,Shree Nandan Eye Hospital,"Varachha Road, Surat",1.0,6.0
+2697,Sri Gopal Hospital,"Katargam, Surat",3.0,21.0
+2698,Max Hospital,"Godadara, Surat",2.0,20.0
+2699, Vivek Children Hospital,"L.P. Savani, Surat",3.0,21.0
+2700,Ankur Hospital,"Varachha Road, Surat",2.0,8.0
+2701,The Mother Hospital,"Mota Varachha, Surat",1.0,
+2702,Radius Joint Surgery Hospital,"Gomtinagar, Lucknow",2.0,25.0
+2703,Rajendra Nagar Hospital,"Rajendranagar, Lucknow",5.0,13.0
+2704,Nirvan Hospital,"Indira Nagar, Lucknow",15.0,50.0
+2705,Medox Hospital,"Jankipuram, Lucknow",1.0,40.0
+2706,Shriram Memorial Hospital,"Indira Nagar, Lucknow",1.0,
+2707,Adarsh Hospital and welfare center,"Ashiyana, Lucknow",1.0,15.0
+2708,Adarsh Hospital,"Jankipuram Extension, Lucknow",1.0,25.0
+2709,St. Joseph's Hospital,"Gomtinagar, Lucknow",1.0,180.0
+2710,Jwala Hospital,"Indira Nagar, Lucknow",1.0,15.0
+2711,Dhanraj Hospital,"Mahanagar, Lucknow",3.0,10.0
+2712,Skin And Hair Hospital,"Hazratganj, Lucknow",1.0,
+2713,Neera Hospital,"Mahanagar, Lucknow",1.0,160.0
+2714,Devishiv Hospital,"Mahanagar, Lucknow",1.0,25.0
+2715,Raghvansh Hospital,"Kalyanpur, Lucknow",1.0,5.0
+2716,Gomti Hospital & Maternity Centre,"Chowk, Lucknow",1.0,10.0
+2717,Pooja Nursing Home,"Paharpur, Lucknow",1.0,10.0
+2718,Vivekananda Polyclinic & Institute Of Medical Sciences,"Niralanagar, Lucknow",3.0,350.0
+2719,Sewa Hospital and Research Centre,"Aliganj, Lucknow",1.0,
+2720,Priya Nursing Home,"Indira Nagar, Lucknow",1.0,
+2721,Vatsalya Hospital,"Gomtinagar, Lucknow",3.0,
+2722,Lucknow Unani Hospital,"Mahanagar, Lucknow",1.0,2.0
+2723,Child Care Nursing Home,"Amberganj, Lucknow",2.0,
+2724,PANKAJ E.N.T. HOSPITAL,"Alambagh, Lucknow",1.0,
+2725,Health Point Hospital,"Thakurganj, Lucknow",1.0,15.0
+2726,Sahara Hospital,"Gomtinagar, Lucknow",1.0,
+2727,"Eye Q Super Speciality Eye Hospitals, Vijaynagar","Krishna Nagar, Lucknow",1.0,
+2728,Satyam Nursing Home,"Aishbagh, Lucknow",2.0,
+2729,Rajdhani Hospital,"Sgpgi, Lucknow",2.0,
+2730,Career Medical College & Hospital,"Ghaila, Lucknow",1.0,
+2731,Shree Pran Nath Ji Chikitsalaya,"Kalyanpur, Lucknow",1.0,
+2732,Lucknow Metro Hospital,"Gomtinagar, Lucknow",2.0,
+2733,Globe Hospital,"Alamnagar, Lucknow",1.0,
+2734,Urmila Hospital,"Fazullaganj, Lucknow",1.0,
+2735,Harsh Hospital,"Sector-c Sitapur Rd, Lucknow",2.0,
+2736,Vishal Hospital And Heart Center,"Jankipuram, Lucknow",1.0,
+2737,Life Care Hospital,"Sector-c Sitapur Rd, Lucknow",1.0,10.0
+2738,New Lucknow Hospital,"Aliganj sector C, Lucknow",1.0,
+2739,Rajaram Hospital,"Alambagh, Lucknow",1.0,
+2740,Alamnagar Hospital,"Alamnagar, Lucknow",1.0,
+2741,Lucknow Hospital,"Krishna Nagar, Lucknow",1.0,
+2742,Medwell Hospital,"Hazratganj, Lucknow",2.0,
+2743,Nishat Hospital,"Lalbagh, Lucknow",1.0,
+2744,Jagrani Hospital,"Kalyanpur, Lucknow",1.0,
+2745,SKD Hospital,"Krishna Nagar, Lucknow",1.0,
+2746,BBD College Of Dental Sciences,"Lucknow, Lucknow",1.0,
+2747,Sambhav Naturecure Hospital,"Gomtinagar, Lucknow",1.0,
+2748,New Lucknow Hospital,"Aliganj sector C, Lucknow",2.0,
+2749,Rajaram Hospital,"Alambagh, Lucknow",1.0,
+2750,Alamnagar Hospital,"Alamnagar, Lucknow",1.0,
+2751,Lucknow Hospital,"Krishna Nagar, Lucknow",1.0,
+2752,Shrinivas Hospital,"Kankarbagh, Patna",1.0,50.0
+2753,Ortho World,"Kankarbagh, Patna",1.0,50.0
+2754,State Cancer Institute,"Sheikhpura, Patna",1.0,400.0
+2755,Divya Arogyam Nature Cure Hospital,"Ashiananagar, Patna",1.0,
+2756,Chakore Nursing Home,"Rajendra Nagar, Patna",4.0,
+2757,Raj Diabetic care and Research Centre,"Kankarbagh, Patna",6.0,
+2758,Sinha Skin Hospital,"Punaichak, Patna",1.0,
+2759,Raj Retina & Eye Care Centre,"Patna, Patna",1.0,5.0
+2760,Mahavir Vatsalya Aspataal,"Kurji Md. Pur, Patna",14.0,120.0
+2761,Avadh Eye Hospital,"Kankarbagh, Patna",6.0,20.0
+2762,Oshodhara Mother and Child Hospital Pvt Ltd,"Kankarbagh, Patna",1.0,20.0
+2763,Sinha Skin Hospital,"Chiraiyatand, Patna",1.0,
+2764,Magadh Hospital- Patna,"Rajendra Nagar, Patna",16.0,
+2765,Balaji Hospital,"Sri Krishnapuri, Patna",1.0,
+2766,Sudha Nursing Home,"Pachhim Darwaza, Patna",8.0,
+2767,Hari Narayan Memorial Surgical & meternity Center ,"Danapur Cantt, Patna",18.0,
+2768,Hope Child Care Hospital,"Kankad Bagh, Patna",1.0,
+2769,Lilawati Hospital,"Pahari, Patna",1.0,
+2770,Nalanda Maternity Centre,"Patna, Patna",1.0,
+2771,Sri Satya Sai  maternity Home,"Tripolia, Patna",18.0,
+2772,Padmasri Hospital And IVF Centre,"Akkayyapalem, Visakhapatnam",2.0,
+2773,Waltair Multicare Hospital,"Waltair R S, Visakhapatnam",13.0,5.0
+2774,Omni RK Super Speciality Hospital,"Ram Nagar, Visakhapatnam",1.0,
+2775,Talasila Super Speciality Dental Hospital,"Gajuwaka, Visakhapatnam",1.0,5.0
+2776,Joint Surgery Specialist,"Arilova, Visakhapatnam",1.0,
+2777,Krishna Children's Hospital,"Akkayyapalem, Visakhapatnam",1.0,2.0
+2778,Omni-RK Hospital,"Rampuram, Visakhapatnam",1.0,
+2779,Ujhwal Hospitals,"Madhurawada, Visakhapatnam",4.0,100.0
+2780,Usha Hospital,"Maharani Peta, Visakhapatnam",1.0,
+2781,Mamata Hospital,"Gajuwaka, Visakhapatnam",1.0,
+2782,Seven Hills Hospitals,"Waltair R S, Visakhapatnam",1.0,
+2783,Life Line Hospital,"Seethammadhara, Visakhapatnam",1.0,
+2784,Vijetha Hospital,"Maharani Peta, Visakhapatnam",1.0,100.0
+2785,MyCure Hospital - Zila Parishad Junction,"Maharani Peta, Visakhapatnam",1.0,56.0
+2786,Aditya Homoeo Hospital,"Kancharapalem, Visakhapatnam",1.0,
+2787,Vijay Super Specialty Dental Hospital,"Dwarakanagar, Visakhapatnam",1.0,
+2788,Varma Hospital,"Sriharipuram, Visakhapatnam",1.0,
+2789,MyCure Hospital - Jagdamba Junction,"Maharani Peta, Visakhapatnam",1.0,100.0
+2790,Sunitha Nursing Home,"Visakhapatnam, Visakhapatnam",2.0,
+2791,SMS Dental Hospital,"Dondapudi, Visakhapatnam",1.0,
+2792,Sri Surya Dental Hospital,"Maharani Peta, Visakhapatnam",4.0,
+2793,Saroja Hospital,"Akkayyapalem, Visakhapatnam",3.0,
+2794,Bharathi Hospital,"Maharani Peta, Visakhapatnam",1.0,
+2795,Radha Krishna Pavan Nursing Home,"Sriharipuram, Visakhapatnam",7.0,3.0
+2796,Apollo Hospitals Health City,"Arilova, Visakhapatnam",1.0,
+2797,Jyothi Nursing Home,"Maddilapalem, Visakhapatnam",1.0,
+2798,kala hospital,"Dwarakanagar, Visakhapatnam",2.0,
+2799,Sri Laxmi Nursing Home,"Dabagardens, Visakhapatnam",5.0,
+2800,Vijaya Hospitals,"N A D, Visakhapatnam",1.0,
+2801,Sri krishna Orthopaedic Hospital,"Gajuwaka, Visakhapatnam",1.0,
+2802,Sai Sathya Hospital,"Arilova, Visakhapatnam",1.0,
+2803,Krishna Hospital,"Maharani Peta, Visakhapatnam",1.0,40.0
+2804,HCG-Pinnacle Cancer Hospital,"Arilova, Visakhapatnam",1.0,
+2805,Sai Bharadwaja Ayurvedic Hospital,"MVP Colony, Visakhapatnam",1.0,
+2806,Laxmi Orthopedic hospital ,"Anakapalle, Visakhapatnam",1.0,
+2807,Sai Bharadwaja Ayurvedic Hospital,"Kurmannapalem, Visakhapatnam",2.0,
+2808,Ujwal Hospital,"Madhurawada, Visakhapatnam",1.0,
+2809,Navaratnam - Kesava Rao Charitable Health Centre,"Gajuwaka, Visakhapatnam",1.0,
+2810,M S R Hospital Surgical And Laparoscopic Centre,"Sriharipuram, Visakhapatnam",1.0,5.0
+2811,Apollo Hospitals,"Vijay Nagar, Indore",1.0,
+2812,Nihar Netralaya,"Malharganj, Indore",5.0,
+2813,CHL Hospital,"LIG Colony, Indore",1.0,250.0
+2814,Choithram Hospital & Research Centre,"Manikbagh, Indore",27.0,200.0
+2815,Child Care Hospital,"Tilak Nagar, Indore",84.0,
+2816,Shalby Hospital,"Old Palasia, Indore",5.0,200.0
+2817,Ashadeep Hospital,"Vijay Nagar, Indore",25.0,25.0
+2818,One Centre for Gynaecological Excellence,"Vijay Nagar, Indore",14.0,10.0
+2819,Angel Hospital,"Bengali Square, Indore",44.0,
+2820,Centre for Sight,"Sapna Sangeeta, Indore",10.0,
+2821,Shakuntala Devi Hospital And Research Centre,"Bengali Square, Indore",9.0,
+2822,Dr. Hardia Eye Hospital,"Chhavni, Indore",29.0,
+2823,Greater Kailash Hospital,"Old Palasia, Indore",27.0,
+2824,Neoretina Hospital,"AB Road, Indore",11.0,
+2825,Medanta Superspeciality Hospital,"Vijay Nagar, Indore",18.0,150.0
+2826,Akole Nursing Home,"Indore Pardesipura, Indore",3.0,
+2827,Apollo Hospitals,"Vijay Nagar, Indore",10.0,
+2828,Gokuldas Open Heart Hospital,"Indore Tukoganj, Indore",1.0,
+2829,Gokuldas Hospital,"Indore Tukoganj, Indore",6.0,
+2830,Medicare Hospital & Research Centre,"Old Palasia, Indore",1.0,
+2831,Nirmal Eye Hospital,"Pipliyahana, Indore",5.0,
+2832,Jeevan Jyoti Eye Hospital,"AB Road, Indore",1.0,
+2833,Centre for Sight,"Vijay Nagar, Indore",2.0,
+2834,Shiv Parvati Memorial Charitable Hospital,"Chhavni, Indore",10.0,
+2835,Kailash Hospital,"Sector 27, Noida",1.0,325.0
+2836,Max Hospital,"Sector 19, Noida",11.0,20.0
+2837,Yatharth Wellness Hospital & Trauma Centre,"Greater Noida, Noida",8.0,157.0
+2838,Metro Multispeciality Hospital,"Sector 11, Noida",42.0,207.0
+2839,Noida Medicare Centre Ltd.,"Sector 30, Noida",12.0,
+2840,Fortis Hospital,"Sector 62, Noida",11.0,75.0
+2841,Apollo Hospitals,"Sector 26, Noida",3.0,700.0
+2842,Surbhi Hospital,"Sector 35, Noida",1.0,200.0
+2843,Bhardwaj Hospital & Healthcare,"Sector 29, Noida",11.0,
+2844,Sumitra Hospital,"Sector 35, Noida",23.0,50.0
+2845,ICare Eye Hospital,"Sector 26, Noida",6.0,10.0
+2846,Astha Hospital,"Greater Noida, Noida",2.0,
+2847,Ganapati Hospital And Maternity Center,"Sector 108, Noida",22.0,5.0
+2848,Jaypee Hospital,"Greater Noida West, Noida",2.0,50.0
+2849,Dr. Akash Garg Clinic,"Sector 22, Noida",2.0,34.0
+2850,J S Hospital,"Sector 135, Noida",1.0,100.0
+2851,Yatharth Wellness Superspeciality Hospital,"Sector 110, Noida",1.0,340.0
+2852,Max Multispeciality Hospital,"Greater Noida, Noida",9.0,114.0
+2853,Green City Hospital,"Greater Noida, Noida",1.0,50.0
+2854,AIMS Hospital,"Greater Noida, Noida",3.0,50.0
+2855,Amrapali Hospital,"Greater Noida, Noida",1.0,100.0
+2856,Samvedana Physiotherapy & Rehabilitation Centre @ Samvedana Hospital,"Sector 48, Noida",1.0,100.0
+2857,Life Care Hospital,"Sector 61, Noida",1.0,50.0
+2858,Tripathi Hospital,"Sector 119, Noida",1.0,50.0
+2859,IndoGulf Hospital & Diagnostics,"Sector 19, Noida",1.0,50.0
+2860,Jaypee Hospital,"Sector 128, Noida",2.0,1200.0
+2861,SJM Super Speciality Hospital,"Sector 63, Noida",1.0,125.0
+2862,Prayag Hospital,"Sector 41, Noida",9.0,35.0
+2863,Prakash Hospital ,"Sector 33, Noida",1.0,
+2864, Prakash Hospital,"Sector 33, Noida",14.0,120.0
+2865,MITR Hospitals,"Sector 35, Noida",2.0,100.0
+2866,Metro Hospitals & Heart Institute,"Sector 12, Noida",2.0,110.0
+2867,Satya Medical Centre,"Sector 34, Noida",7.0,50.0
+2868,Felix Hospital,"Sector 137, Noida",3.0,150.0
+2869,Vinayak Hospital,"Sector 27, Noida",1.0,50.0
+2870,Sharma Medicare Hospital,"Greater Noida, Noida",1.0,120.0
+2871,Ivory Hospital,"Sector 36, Noida",13.0,
+2872,Manas Hospital,"Sector 34, Noida",2.0,82.0
+2873,Dipakshi Multispeciality Hospital,"Sector 33, Noida",6.0,100.0
+2874,New Hospital,"Sector 50, Noida",31.0,
+2875,Kumar Hospital,"Greater Noida, Noida",6.0,30.0
+2876,Vidya Hospital,"Dadri, Noida",1.0,100.0
+2877,Santura Hospital,"Greater Noida, Noida",2.0,20.0
+2878,Bakson's Homoeopathic Centre for Allergy,"Sector 18, Noida",2.0,
+2879,Bakson's Homoeopathic Medical College and Hospital,"Greater Noida, Noida",2.0,
+2880,NMC Hospital,"Sector 30, Noida",1.0,
+2881,"Kailash Hospital, Greater Noida","Greater Noida, Noida",1.0,
+2882,Om Hospital,"Noida, Noida",3.0,
+2883,Dipakshi Multispeciality Hospital,"Sector 33, Noida",3.0,100.0
+2884,New Hospital,"Sector 50, Noida",1.0,
+2885,Bhandari Hospital,"Gopalpura, Jaipur",1.0,100.0
+2886,Shree Sumangal Poly Clinic & Hospital,"Durgapura, Jaipur",1.0,10.0
+2887,Chandrabhan Hospital And Maternity Center,"Sodala, Jaipur",1.0,15.0
+2888,Narayana Multispeciality Hospital,"Amer, Jaipur",1.0,290.0
+2889,Physiotherapy Healing Centre,"Vidhyadhar Nagar, Jaipur",1.0,
+2890,Agarwal Hospital & Fertility Centre,"Vaishali Nagar, Jaipur",1.0,15.0
+2891,Salasar Child Hospital,"Dehar Ka Balaji, Jaipur",1.0,10.0
+2892,Apollo Spectra Hospitals,"C Scheme, Jaipur",2.0,40.0
+2893,Goyal General Hospital,"Sodala, Jaipur",1.0,25.0
+2894,Metro Mas Hospital,"Mansarovar, Jaipur",4.0,
+2895,Manipal Hospital,"Vidhyadhar Nagar, Jaipur",1.0,251.0
+2896,Fortis Escorts Hospital,"Malviya Nagar, Jaipur",1.0,
+2897,Dana Shivam Hospital,"Vidhyadhar Nagar, Jaipur",1.0,100.0
+2898,Monilek Hospital and Research Centre,"Jawahar Nagar, Jaipur",1.0,100.0
+2899,K.M.S. Hospital,"Tilak Nagar, Jaipur",1.0,34.0
+2900,Om Mother N Child Hospital,"Murlipura, Jaipur",1.0,25.0
+2901,ASG Eye Hospitals,"Mansarovar, Jaipur",1.0,
+2902,Dr. N M Saboo Memorial Hospital & Research Hospital,"Murlipura, Jaipur",2.0,20.0
+2903,Poddar Hospital,"Chandpole Bazar, Jaipur",1.0,
+2904,Santokba Durlabhji Memorial Hospital,"Bhawani, Jaipur",1.0,
+2905,Royal Eye Care Hospital,"Adarsh Nagar, Jaipur",1.0,25.0
+2906,Capital Urology Hospital,"Panch Batti, Jaipur",1.0,
+2907,Bansal Hospital,"Shyam Nagar, Jaipur",1.0,15.0
+2908,Chirayu Hospital,"Boraj, Jaipur",1.0,
+2909,Dr Saraswat Dental Hospital,"Vaishali Nagar, Jaipur",1.0,
+2910,Zenana Hospital,"Chandpole Bazar, Jaipur",1.0,
+2911,Antra Hospital,"Jawahar Nagar, Jaipur",2.0,15.0
+2912,Dhanwantri Hospital,"Mansarovar, Jaipur",1.0,
+2913,Babylon Children's Hospital,"Adarsh Nagar, Jaipur",,
+2914,Satellite Hospital,"Bani Park, Jaipur",,
+2915,Centre For Sight,"Malviya Nagar, Jaipur",,
+2916,Sarvopari Dental and ENT Hospital,"Jagatpura, Jaipur",,10.0
+2917,J. P. Eye Hospital,"Lal Kothi, Jaipur",,
+2918,The Royal Orthopaedic Hospital,"Lal Kothi, Jaipur",,
+2919,Raj Nursing Home,"Jhotwara, Jaipur",,
+2920,Herbs and Hakeem Unani Hospital,"Shastri Nagar, Jaipur",,
+2921,Lal Kothi Hospital,"Lal Kothi, Jaipur",,15.0
+2922,Soni dental Hospital,"Jhotwara, Jaipur",,
+2923,Nalini Hospital,"Jawahar Nagar, Jaipur",,
+2924,R A G Hospital,"Vaishali Nagar, Jaipur",,
+2925,Vaishali Hospital,"Vaishali Nagar, Jaipur",,
+2926,Jaipur hospital ,"Mahaveer Nagar, Jaipur",,
+2927,Gopinath Hospital,"Pratap Nagar Housing Board, Jaipur",,
+2928,Asopa hospital,"Ajmer Road, Jaipur",,
+2929,Critical Care and Trauma Hospital,"Jagatpura, Jaipur",,
+2930,Cocoon Hospotal,"Durgapura, Jaipur",,
+2931,Mahapura Dental Hospital,"Ajmer Road, Jaipur",,
+2932,Soni dental Hospital,"Jhotwara, Jaipur",,
+2933,Nalini Hospital,"Jawahar Nagar, Jaipur",,
+2934,R A G Hospital,"Vaishali Nagar, Jaipur",,

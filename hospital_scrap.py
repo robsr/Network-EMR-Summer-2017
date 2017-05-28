@@ -71,7 +71,7 @@ def make_dataframe(links):                   #returns the dataframe containing c
                 df5_temp = pd.DataFrame(beds)
                 df5 = df5.append(df5_temp)
             
-    df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
+    df2.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)  
     df3.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
     df4.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
     df5.reset_index(list(range(pages_per_city*hosp_per_page*len(cities))),drop=True, inplace=True)
@@ -94,3 +94,6 @@ df2.reset_index(list(range(df2.shape[0])),drop=True, inplace=True)
 
 df1.to_csv('hosp_sortby_drs.csv',header=True)
 df2.to_csv('hosp_sortby_beds.csv',header=True)
+
+df1.to_pickle('df_sort_drs.pickle')                              #to store both data frames in pickles
+df1.to_pickle('df_sort_beds.pickle')

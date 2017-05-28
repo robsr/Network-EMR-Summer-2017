@@ -83,7 +83,6 @@ def make_dataframe(links):                   #returns the dataframe containing c
 # MAIN PROGRAMME
 city_links = make_links(cities)
 df = make_dataframe(city_links)
-df.to_pickle('df.pickle')
 df.dropna(inplace=True)                                           #dropping the rows which has missing values
 df = df.astype({'NO. OF DOCTORS':'int64', 'NO. OF BEDS':'int64'})
 
@@ -95,3 +94,6 @@ df2.reset_index(list(range(df2.shape[0])),drop=True, inplace=True)
 
 df1.to_csv('hosp_sortby_drs.csv',header=True)
 df2.to_csv('hosp_sortby_beds.csv',header=True)
+
+df1.to_pickle('df_sort_drs.pickle')                              #to store both data frames in pickles
+df1.to_pickle('df_sort_beds.pickle')

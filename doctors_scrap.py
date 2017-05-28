@@ -130,5 +130,5 @@ df5.reset_index(list(range(a)),drop=True, inplace=True)
 df = pd.concat([df1,df2,df5,df3,df4], axis=1)
 df.columns = [['NAME','EXPERIENCE(years)','HOSPITAL NAME','SPECIALIZATION','QUALIFICATIONS']]
 
-df.to_csv('docters.csv',header=True)
+df.to_csv('doctors.csv',header=True)
 

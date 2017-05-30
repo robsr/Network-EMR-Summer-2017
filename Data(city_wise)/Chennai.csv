@@ -1,0 +1,408 @@
+,HOSPITAL NAME,LOCATION,NO. OF DOCTORS,NO. OF BEDS,LINKS
+0,Dr. Mehta's Hospitals,"Chetpet, Chennai",67.0,27.0,https://www.practo.com/chennai/hospital/dr-mehta-s-hospital-1-chetpet
+1,Apollo Speciality Hospital,"Vanagaram, Chennai",50.0,50.0,https://www.practo.com/chennai/hospital/apollo-speciality-hospitals-vanagaram
+2,Dr. Rabindrans Health Care Centre,"Ambattur, Chennai",12.0,60.0,https://www.practo.com/chennai/hospital/dr-rohit-k-rabindran-health-care-centre-ambattur
+3,Parvathi Nursing Home,"KK Nagar, Chennai",6.0,25.0,https://www.practo.com/chennai/hospital/parvathi-nursing-home-kk-nagar1
+4,St.Isabel's Hospital,"Mylapore, Chennai",142.0,300.0,https://www.practo.com/chennai/hospital/st-isabel-s-hospital-mylapore
+5,Hindu Mission Hospital,"Tambaram West, Chennai",50.0,220.0,https://www.practo.com/chennai/hospital/hindu-mission-hospital-tambaram-tambaram-west
+6,Mercury Hospital,"Egmore, Chennai",3.0,30.0,https://www.practo.com/chennai/hospital/mercury-hospital-egmore
+7,Chennai Krishna Hospital,"Chromepet, Chennai",4.0,11.0,https://www.practo.com/chennai/hospital/chennai-krishna-hospital-chromepet
+8,Fortis Malar Hospital,"Adyar, Chennai",68.0,500.0,https://www.practo.com/chennai/hospital/dr-t-k-neelamekam-vadapalani
+9,Dr. Hariharan Diabetes & Heart Care Hospital,"Nanganallur, Chennai",33.0,,https://www.practo.com/chennai/hospital/dr-hariharan-diabetes-heart-care-hospital-nanganallur
+10,"Sundaram Medical Foundation, Anna Nagar","Anna Nagar, Chennai",12.0,,https://www.practo.com/chennai/hospital/sundaram-medical-foundation-anna-nagar-2-anna-nagar
+11,Radial Ortho Speciality Hospital,"Medavakkam, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/radial-ortho-speciality-hospital-medavakkam-1
+12,Sri Ramachandra Medical Centre,"Porur, Chennai",34.0,,https://www.practo.com/chennai/hospital/sri-ramachandra-medical-centre-mugalivakkam
+13,SBS Hospital,"Virugambakkam, Chennai",15.0,,https://www.practo.com/chennai/hospital/sbs-hospital-virugambhakkam
+14,Aysha Hospital,"Purasawakkam, Chennai",11.0,,https://www.practo.com/chennai/hospital/aysha-hospital-kilpauk
+15,B M Hospitals,"Nanganallur, Chennai",18.0,70.0,https://www.practo.com/chennai/hospital/bm-hospitals-nanganallur
+16,SP Hospital,"Adambakkam, Chennai",8.0,,https://www.practo.com/chennai/hospital/sp-hospital-adambakkam
+17,Mother's Speciality Hospital,"Ambattur, Chennai",4.0,,https://www.practo.com/chennai/hospital/mother-s-speciality-hospital-ambattur-1
+18,Madras ENT Research Foundation,"Raja Annamalai Puram, Chennai",13.0,,https://www.practo.com/chennai/hospital/madras-ent-research-foundation-raja-annamalai-puram
+19,KKR ENT Hospital and Research Centre,"Kilpauk, Chennai",6.0,35.0,https://www.practo.com/chennai/hospital/kkr-ent-hospital-and-research-centre-kilpauk
+20,Bethesda Hospital & Child Care Centre,"Tambaram East, Chennai",3.0,35.0,https://www.practo.com/chennai/hospital/bethesda-hospital-child-care-centre-tambaram-west
+21,Madras Medical Mission Hospital,"Mogappair, Chennai",31.0,100.0,https://www.practo.com/chennai/hospital/madras-medical-mission-hospital-mogappair-west
+22,Kedar Hospital,"Mugalivakkam, Chennai",9.0,10.0,https://www.practo.com/chennai/hospital/kedar-hospital-porur
+23,Cosh,"Tambaram, Chennai",5.0,50.0,https://www.practo.com/chennai/hospital/cosh-multispeciality-clinic-tambaram
+24,Lifeline Rigid Hospitals,"Kilpauk, Chennai",13.0,45.0,https://www.practo.com/chennai/hospital/lifeline-rigid-hospital-kilpauk-kilpauk
+25,Sri Venkateswara C M Hospital,"Nanganallur, Chennai",14.0,30.0,https://www.practo.com/chennai/hospital/sri-venkateswara-c-m-hospital-nanganallur
+26,Saraswathy Multispeciality Hospital,"Madipakkam, Chennai",15.0,50.0,https://www.practo.com/chennai/hospital/saraswathy-speciality-hospital-madipakkam
+27,Pankajam Memorial Hospital,"Nanganallur, Chennai",4.0,25.0,https://www.practo.com/chennai/hospital/pankajam-memorial-hospital-nanganallur-1
+28,Srinivas Priya Hospital,"Perambur, Chennai",4.0,75.0,https://www.practo.com/chennai/hospital/srinivas-priya-hospital-perambur
+29,Rakshith Hospital,"Valasaravakkam, Chennai",28.0,,https://www.practo.com/chennai/hospital/rakshith-hospital-valasaravakkam
+30,Girishwari Hospital,"Teynampet, Chennai",7.0,150.0,https://www.practo.com/chennai/hospital/girishwari-hospital-alwarpet
+31,Hande Medical Centre,"Nungambakkam, Chennai",15.0,20.0,https://www.practo.com/chennai/hospital/hande-medical-centre-nungambakkam-2
+32,Frontier Lifeline Hospital,"Mogappair, Chennai",9.0,120.0,https://www.practo.com/chennai/hospital/frontier-lifeline-hospital-anna-nagar
+33,Apollo Childrens Hospital,"Thousand Lights, Chennai",19.0,53.0,https://www.practo.com/chennai/hospital/apollo-childrens-hospital-thousand-lights-1
+34,Soundarapandian Bone and Joint Hospital & Research Institute,"Anna Nagar, Chennai",8.0,60.0,https://www.practo.com/chennai/hospital/soundarapandian-bone-joint-hospital-anna-nagar-1
+35,Srushti Fertility Centre & Women's Hospital,"Ramapuram, Chennai",14.0,5.0,https://www.practo.com/chennai/hospital/srushti-hospital-ramapuram-ramapuram
+36,Jayam Hospital & GFC Fertility,"Kodambakkam, Chennai",7.0,30.0,https://www.practo.com/chennai/hospital/jayam-ortho-care-kodambakkam-1-1
+37,Kauvery Hospitals,"Mylapore, Chennai",24.0,100.0,https://www.practo.com/chennai/hospital/kauvery-paediatric-cardiac-care-alwarpet
+38,Swaram Specialty Hospital,"Sholinganallur, Chennai",5.0,30.0,https://www.practo.com/chennai/hospital/swaram-specialty-hospital-sholinganallur
+39,Billroth Hospitals,"Shenoy Nagar, Chennai",42.0,600.0,https://www.practo.com/chennai/hospital/billroth-hospitals-raja-annamalai-puram1
+40,Dr Kamaraj Hospital For Men's Health,"Vadapalani, Chennai",5.0,10.0,https://www.practo.com/chennai/hospital/dr-kamaraj-hospitals-vadapalani
+41,Vadapalani Multi Speciality Hospital,"Vadapalani, Chennai",13.0,,https://www.practo.com/chennai/hospital/vadapalani-multi-speciality-hospital-vadapalani
+42,Balaji Nursing Home,"Thiruvanmiyur, Chennai",3.0,15.0,https://www.practo.com/chennai/hospital/balaji-nursing-home-thiruvanmiyur-1
+43,Sridevi Hospital,"Anna Nagar, Chennai",20.0,,https://www.practo.com/chennai/hospital/sridevi-hospital-anna-nagar
+44,The Guest Hospital,"Kilpauk, Chennai",27.0,,https://www.practo.com/chennai/hospital/the-guest-hospital-kilpauk-1
+45,Sooriya Hospital,"Saligramam, Chennai",12.0,200.0,https://www.practo.com/chennai/hospital/sooriya-hospital-saligramam-1
+46,K M Speciality & Pediatric Care,"KK Nagar, Chennai",15.0,100.0,https://www.practo.com/chennai/hospital/k-m-speciality-hospital-thiruvallur
+47,K.J.Hospital-Research & Postgraduate Center,"Chetpet, Chennai",33.0,,https://www.practo.com/chennai/hospital/k-j-hospital-research-postgraduate-center-chetpet
+48,Siva Head & Neck Hospital,"Royapettah, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/siva-ent-hospital-royapettah-1
+49,KHM Hospital,"Anna Nagar, Chennai",23.0,50.0,https://www.practo.com/chennai/hospital/khm-hospital-anna-nagar
+50,Prashanth Multispeciality Hospital,"Chetpet, Chennai",8.0,300.0,https://www.practo.com/chennai/hospital/prashanth-multispeciality-hospital-chetpet
+51,Ponmalligai Hospital,"Adambakkam, Chennai",13.0,50.0,https://www.practo.com/chennai/hospital/ponmalligai-hospital-adambakkam-1
+52,Jawahar Hospital,"Tambaram, Chennai",2.0,15.0,https://www.practo.com/chennai/hospital/jawahar-hospital-tambaram
+53,MIOT Hospital,"Manapakkam, Chennai",31.0,,https://www.practo.com/chennai/hospital/dr-s-palaniappan-miot-hospital-manapakkam
+54,Gajanan Hospitals,"Tambaram, Chennai",12.0,75.0,https://www.practo.com/chennai/hospital/gajanan-hospitals-pvt-ltd-tambaram
+55,BSS Hospital,"Mandaveli, Chennai",8.0,40.0,https://www.practo.com/chennai/hospital/bss-hospital-mandaveli
+56,Mehta Hospitals Pvt Ltd,"Chetpet, Chennai",20.0,,https://www.practo.com/chennai/hospital/dr-nazira-s-practise-chetpet
+57,Pallava Hospital,"Ashok Nagar, Chennai",2.0,30.0,https://www.practo.com/chennai/hospital/pallava-hospital-ashok-nagar
+58,City Tower Hospitals,"Anna Nagar, Chennai",1.0,52.0,https://www.practo.com/chennai/hospital/city-tower-hospitals-anna-nagar
+59,Ess Vee Hospital,"Ambattur, Chennai",6.0,,https://www.practo.com/chennai/hospital/ess-vee-hospital-ambattur
+60,Padmini Nursing Home,"Chetpet, Chennai",40.0,15.0,https://www.practo.com/chennai/hospital/padmini-nursing-home-chetpet
+61,Medindia Hospitals,"Nungambakkam, Chennai",4.0,,https://www.practo.com/chennai/hospital/medindia-hospitals-nungambakkam-1
+62,Global Hospital,"Perumbakkam, Chennai",75.0,1000.0,https://www.practo.com/chennai/hospital/global-health-city-perumbakkam1
+63,Santosham Chest Hospital,"Egmore, Chennai",6.0,50.0,https://www.practo.com/chennai/hospital/santosham-chest-hospital-egmore
+64,Dr. U. Mohan Rau Memorial Hospital,"Egmore, Chennai",2.0,30.0,https://www.practo.com/chennai/hospital/dr-u-mohan-rau-memorial-hospital-poonamalle
+65,Aswene Soundra Hospital And Research Centre,"Teynampet, Chennai",16.0,,https://www.practo.com/chennai/hospital/aswene-soundra-hospital-and-research-centre-teynampet
+66,Life Med Hospitals,"Gopalapuram, Chennai",17.0,,https://www.practo.com/chennai/hospital/life-med-hospitals-gopalapuram
+67,Swaram Poly Clinics,"Sholinganallur, Chennai",2.0,,https://www.practo.com/chennai/hospital/swaram-poly-clinics-sholinganallur
+68,Prime OBG Fertility Centre,"Thiruvanmiyur, Chennai",7.0,20.0,https://www.practo.com/chennai/hospital/prime-obg-fertility-centre-thiruvanmiyur
+69,Lakshya Fertility and Women's Centre,"Chromepet, Chennai",2.0,,https://www.practo.com/chennai/hospital/lakshya-fertility-womens-centre-chromepet
+70,Shepherd Nursing Home,"Perambur, Chennai",10.0,20.0,https://www.practo.com/chennai/hospital/shepherd-nursing-home-perambur
+71,Orthomed Hospital,"Royapettah, Chennai",8.0,60.0,https://www.practo.com/chennai/hospital/orthomed-hospital-royapettah
+72,Retteri Sri Kumaran Health Centre Private Limited,"Kolathur, Chennai",30.0,,https://www.practo.com/chennai/hospital/retteri-sri-kumaran-health-centre-private-limited-kolathur
+73,St. Thomas Hospital,"St Thomas Mount, Chennai",20.0,10.0,https://www.practo.com/chennai/hospital/st-thomas-hospital-st-thomas-mount-1-1
+74,Abhijay Hospital Pvt Ltd,"Perambur, Chennai",43.0,100.0,https://www.practo.com/chennai/hospital/abhijay-hospital-perambur-1
+75,Medicity Health Centre & Diagnostics,"Tambaram East, Chennai",10.0,,https://www.practo.com/chennai/hospital/medicity-health-centre-diagnostics-tambaram-east
+76,Amrit Hospital,"Sowcarpet, Chennai",9.0,6.0,https://www.practo.com/chennai/hospital/amrit-hospital-sowcarpet
+77,Sri PadmaPriya Hospital,"Adyar, Chennai",9.0,,https://www.practo.com/chennai/hospital/sri-padmapriya-hospital-adyar
+78,Aakash Fertility Centre & Hospital,"Vadapalani, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/aakash-fertility-centre-hospital-vadapalani-1-1
+79,Appasamy Hospital,"Arumbakkam, Chennai",27.0,85.0,https://www.practo.com/chennai/hospital/appasamy-hospital-arumbakkam
+80,Kumaran Hospital,"Kilpauk, Chennai",96.0,,https://www.practo.com/chennai/hospital/kumaran-hospital-endocrine-thyroid-clinic-thanjavur-south
+81,Hindu Mission Health Services,"Nanganallur, Chennai",5.0,50.0,https://www.practo.com/chennai/hospital/hindu-mission-health-services-nanganallur
+82,Apollo Hospital,"Greams Road, Chennai",203.0,560.0,https://www.practo.com/chennai/hospital/apollo-hospitals-greams-road-3
+83,Margaret Sidney Hospital,"Nanganallur, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/margaret-sidney-hospital-nanganallur
+84,N.N. Hospital,"Tambaram West, Chennai",2.0,4.0,https://www.practo.com/chennai/hospital/n-n-hospital-tambaram-west
+85,Sims Hospital (Srm Institutes For Medical Science),"Vadapalani, Chennai",15.0,360.0,https://www.practo.com/chennai/hospital/srm-institutes-for-medical-science-vadapalani
+86,Billroth Hospitals,"Raja Annamalai Puram, Chennai",8.0,,https://www.practo.com/chennai/hospital/billroth-hospitals-raja-annamalai-puram-1-1
+87,Apollo First Med Hospitals,"Kilpauk, Chennai",53.0,80.0,https://www.practo.com/chennai/hospital/apollo-first-med-hospital-kilpauk
+88,Firm Hospitals,"Anna Nagar, Chennai",9.0,20.0,https://www.practo.com/chennai/hospital/firm-hospitals-anna-nagar-east
+89,Swaram Hospital Kelambakkam,"Kelambakkam, Chennai",2.0,20.0,https://www.practo.com/chennai/hospital/swaram-specialty-hospital-sholinganallur-1
+90,Srushti Fertility Hospital & Womens Clinic,"Kotturpuram, Chennai",10.0,5.0,https://www.practo.com/chennai/hospital/srushti-fertility-centre-womens-clinic-kotturpuram
+91,Care & Cure Speciality Hospital (C and C Woman's Hospital),"Ayanavaram, Chennai",6.0,10.0,https://www.practo.com/chennai/hospital/care-cure-speciality-hospital-ayanavaram
+92,J V Hospital,"Kodambakkam, Chennai",4.0,30.0,https://www.practo.com/chennai/hospital/j-v-hospital-kodambakkam
+93,Selvaraman Hospital,"Anna Nagar West, Chennai",10.0,,https://www.practo.com/chennai/hospital/selvaraman-hospital-anna-nagar-west
+94,Surya Fertility Centre,"T Nagar, Chennai",1.0,2.0,https://www.practo.com/chennai/hospital/surya-fertility-centre-nungambakkam
+95,RG Stone Urology & Laparoscopy Hospital,"Saidapet, Chennai",9.0,,https://www.practo.com/chennai/hospital/rg-stone-urology-laparoscopy-hospital-saidapet
+96,Sivasundar Hospital,"Adyar, Chennai",7.0,,https://www.practo.com/chennai/hospital/sivasundar-hospital-adyar
+97,Kamakshi Memorial Hospital,"Pallikaranai, Chennai",61.0,300.0,https://www.practo.com/chennai/hospital/dr-kamakshi-memorial-hospital-4-pallikaranai-1
+98,Iswarya Women's Hospital and Fertility Center,"Adyar, Chennai",8.0,20.0,https://www.practo.com/chennai/hospital/iswarya-womens-hospital-and-fertility-center-adyar
+99,Priya Nursing Home,"Washermenpet, Chennai",8.0,50.0,https://www.practo.com/chennai/hospital/priya-nursing-home-washermenpet
+100,Prashanth Superspeciality Hospital,"Velachery, Chennai",17.0,100.0,https://www.practo.com/chennai/hospital/prashanth-super-speciality-hospital-velachery-1
+101,Raju Hospital,"T Nagar, Chennai",7.0,42.0,https://www.practo.com/chennai/hospital/dr-vinayak-s-practice-t-nagar
+102,Deepam Kidney Stone Centre,"Tambaram, Chennai",1.0,,https://www.practo.com/chennai/hospital/deepam-kidney-stone-center-tambaram
+103,K C Multispeciality Hospital,"Avadi, Chennai",6.0,,https://www.practo.com/chennai/hospital/k-c-multispeciality-hospital-avadi
+104,SKS Hospital,"Mogappair East, Chennai",4.0,10.0,https://www.practo.com/chennai/hospital/sks-hospital-anna-nagar-west
+105,A C Hospital,"Ayanavaram, Chennai",8.0,,https://www.practo.com/chennai/hospital/a-c-hospital-ayanavaram-1
+106,Apollo Hospital - Tondiarpet,"Tondiarpet, Chennai",23.0,100.0,https://www.practo.com/chennai/hospital/apollo-hospital-34
+107,Noble Hospital,"Purasawakkam, Chennai",29.0,25.0,https://www.practo.com/chennai/hospital/noble-hospital-7-purasawakkam
+108,Deepam Hospitals,"Tambaram West, Chennai",5.0,136.0,https://www.practo.com/chennai/hospital/deepam-hospital-tambaram-west-1
+109,PM Hospital,"Adyar, Chennai",9.0,,https://www.practo.com/chennai/hospital/pm-hospital
+110,Narayana Hospital,"Purasawakkam, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/narayana-hospital-purasawakkam
+111,Krishna Eye And Ent Hospital,"T Nagar, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/krishna-eye-and-ent-hospital-t-nagar
+112,Arokya Hospital,"Nesapakkam, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/arokya-hospital-nesapakkam
+113,Pallavaram Children Medical Centre,"Pallavaram, Chennai",6.0,26.0,https://www.practo.com/chennai/hospital/pallavaram-children-medical-centre-pcmc-hospital-pallavaram-1
+114,Be Well Hospital,"T Nagar, Chennai",11.0,15.0,https://www.practo.com/chennai/hospital/chennai-pain-centre-be-well-t-nagar
+115,Cloudnine Hospital,"T Nagar, Chennai",33.0,150.0,https://www.practo.com/chennai/hospital/cloud-nine-hospital-tnagar
+116,Prime Care Nursing Home,"Adambakkam, Chennai",1.0,6.0,https://www.practo.com/chennai/hospital/prime-care-nursing-home-adambakkam
+117,K.F Hospital,"Nanganallur, Chennai",19.0,,https://www.practo.com/chennai/hospital/k-f-hospital-nanganallur-1
+118,Soul Hospital,"Perambur, Chennai",3.0,,https://www.practo.com/chennai/hospital/soul-hospital-perambur
+119,Dr.Agarwal's Eye Hospital - Velachery,"Velachery, Chennai",2.0,,https://www.practo.com/chennai/hospital/dr-agarwal-s-eye-hospital-velachery-velachery
+120,Pavithra Hospital,"Kodungaiyur, Chennai",15.0,,https://www.practo.com/chennai/hospital/pavithra-hospital-kodungaiyur
+121,Sri Sai Speciality Hospital,"Thirumullaivoyal, Chennai",13.0,,https://www.practo.com/chennai/hospital/sri-sai-speciality-hospital-thirumullaivoyal-1
+122,K.V.T.Speciality Hospital,"Kodungaiyur, Chennai",12.0,,https://www.practo.com/chennai/hospital/k-v-t-speciality-hospital-kodungaiyur
+123,Malligai Hospital,"Tondiarpet, Chennai",12.0,,https://www.practo.com/chennai/hospital/malligai-hospital-tondiarpet-1
+124,Seethapathy Clinic & Hospital,"Royapettah, Chennai",8.0,,https://www.practo.com/chennai/hospital/seethapathy-clinic-hospital-royapettah-1
+125,Appasamy Krishna Hospital,"Velachery, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/appasamy-krishna-hospital-velachery
+126,Laksha Hospital,"Mylapore, Chennai",5.0,50.0,https://www.practo.com/chennai/hospital/laksha-hospital-mylapore
+127,Vijayam Hospital and Fertility Centre,"Keelkattalai, Chennai",1.0,25.0,https://www.practo.com/chennai/hospital/vijayam-hospital-fertility-centre-kilkattalai
+128,Sanjeevini Nursing Home,"Washermenpet, Chennai",2.0,,https://www.practo.com/chennai/hospital/dr-s-dhanalakshmi-washermenpet
+129,Vasnthi Orthopedic Hospital,"Arumbakkam, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/vasnthi-orthopedic-hospital-arumbakkam
+130,A.K. Hospital,"Aminjikarai, Chennai",7.0,20.0,https://www.practo.com/chennai/hospital/a-k-hospital-aminjikarai
+131,A2Z  Pregnanacy Care,"Anna Nagar East, Chennai",1.0,15.0,https://www.practo.com/chennai/hospital/chennai-multi-speciality-clinic-anna-nagar-east
+132,MV Hospital for Diabetes,"Adyar, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/mv-hospital-for-diabetes-mylapore
+133,M R Hospital,"Aminjikarai, Chennai",9.0,,https://www.practo.com/chennai/hospital/m-r-hospital-aminjikarai-1
+134,Ezhil Hospital,"Tondiarpet, Chennai",6.0,40.0,https://www.practo.com/chennai/hospital/ezhil-hospital-tondiarpet
+135,Mohan Nursing Home,"Ayanavaram, Chennai",4.0,30.0,https://www.practo.com/chennai/hospital/mohan-nursing-home-villivakkam
+136,Nirmals' Eye Hospital,"Tambaram West, Chennai",2.0,21.0,https://www.practo.com/chennai/hospital/nirmal-s-eye-care-hospital-tambaram-west
+137,Je Nesam Hospital,"Ashok Nagar, Chennai",6.0,,https://www.practo.com/chennai/hospital/je-nesam-hospital-ashok-nagar
+138,Bharani Hospital,"Saligramam, Chennai",12.0,,https://www.practo.com/chennai/hospital/bharani-hospital-saligramam-1
+139,Shadithya Hospital,"Pallavaram, Chennai",3.0,,https://www.practo.com/chennai/hospital/shadithya-hospital-pallavaram-1
+140,Pet Zone Speciality Hospital,"Alwarpet, Chennai",1.0,,https://www.practo.com/chennai/hospital/pet-zone-speciality-hospital-alwarpet
+141,Bharathiraja Hospital,"T Nagar, Chennai",6.0,200.0,https://www.practo.com/chennai/hospital/bharathiraja-superspeciality-hospital-research-centre-t-nagar
+142,Vasan Eye Care Hospital,"Saidapet, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-saidapet-saidapet
+143,Rajan Eye Care Hospital Pvt Ltd,"T Nagar, Chennai",14.0,30.0,https://www.practo.com/chennai/hospital/rajan-eye-care-hospital-t-nagar-1
+144,Teja Hospital,"Ambattur, Chennai",3.0,30.0,https://www.practo.com/chennai/hospital/teja-hospital-ambattur
+145,Dr. Agarwals Eye Hospital,"Cathedral Road, Chennai",21.0,,https://www.practo.com/chennai/hospital/dr-agarwals-eye-hospital-cathedral-road
+146,Rohit Hospital,"Thiruvottiyur, Chennai",2.0,30.0,https://www.practo.com/chennai/hospital/rohit-hospital-thiruvottiyur
+147,Shree Ayurvedic Multispeciality Hospital,"T Nagar, Chennai",6.0,10.0,https://www.practo.com/chennai/hospital/shree-ayurvedic-multispeciality-hospital-west-mambalam
+148,C M Hospital,"Medavakkam, Chennai",2.0,8.0,https://www.practo.com/chennai/hospital/24-hours-c-m-hospital-medavakkam
+149,Jyothi Siddha & Ayurveda Hospital,"Tambaram, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/jyothi-siddha-ayurveda-hospital-tambaram
+150,Suraj Hospital,"Perumbakkam, Chennai",1.0,15.0,https://www.practo.com/chennai/hospital/suraj-hospital-perumbakkam
+151,K M Multi Speciality Hospital,"Madhavaram, Chennai",5.0,,https://www.practo.com/chennai/hospital/k-m-multi-speciality-hospital-madhavaram
+152,Kensington Hospital - Kilpauk,"Kilpauk, Chennai",4.0,3.0,https://www.practo.com/chennai/hospital/kensington-hospital-kilpauk-kilpauk
+153,K M Hospital,"Kilpauk, Chennai",1.0,,https://www.practo.com/chennai/hospital/k-m-hospital-kilpauk-1
+154,Memorial Hospital,"Adyar, Chennai",5.0,30.0,https://www.practo.com/chennai/hospital/kamakshi-memorial-hospital-adyar
+155,Parvathy Hospital,"Chromepet, Chennai",10.0,50.0,https://www.practo.com/chennai/hospital/center-for-mind-tambaram-east-1
+156,Xcellent Care Hospital,"Velachery, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/sreenivas-velachery
+157,The 6th Sense Hospital,"Madipakkam, Chennai",6.0,,https://www.practo.com/chennai/hospital/the-6th-sense-hospital-nanganallur
+158,Siva Subramaniam Hospital,"Kottivakkam, Chennai",52.0,,https://www.practo.com/chennai/hospital/siva-subramaniam-hospital-kottivakkam
+159,Apollo Spectra Hospital,"Alwarpet, Chennai",2.0,24.0,https://www.practo.com/chennai/hospital/apollo-spectra-hospital-5-alwarpet
+160,Swaram Hospital Navalur,"Navalur Place, Chennai",4.0,30.0,https://www.practo.com/chennai/hospital/swaram-hospital-navalur-place
+161,Right Hospitals,"Kilpauk, Chennai",3.0,20.0,https://www.practo.com/chennai/hospital/right-hospitals-kilpauk-1
+162,Anand Hospital - Manali,"Manali, Chennai",1.0,40.0,https://www.practo.com/chennai/hospital/anand-hospital-manali-manali
+163,Christudas Hospital,"Tambaram East, Chennai",9.0,15.0,https://www.practo.com/chennai/hospital/christudas-hospital-tambaram-east-1
+164,Shifa Hospital & research centre,"Triplicane, Chennai",23.0,,https://www.practo.com/chennai/hospital/shifa-hospital-triplicane
+165,Hande Hospital,"Shenoy Nagar, Chennai",7.0,20.0,https://www.practo.com/chennai/hospital/hande-hospital-shenoy-nagar
+166,Sree Sai Krishna Hospital,"Kilpauk, Chennai",3.0,,https://www.practo.com/chennai/hospital/sree-sai-krishna-hospital-kilpauk
+167,Das Nursing Home,"Pozhichalur, Chennai",3.0,30.0,https://www.practo.com/chennai/hospital/das-nursing-home-pozhichalur
+168,Dr V Seshiah & Balaji Research Institute & Diabetes Care Centre,"Aminjikarai, Chennai",5.0,50.0,https://www.practo.com/chennai/hospital/dr-v-balaji-diabetes-care-centre-aminjikarai
+169,Nagamani Hospital,"Washermenpet, Chennai",3.0,25.0,https://www.practo.com/chennai/hospital/nagamani-hospitals-washermenpet-1
+170,GLB Hospitals,"Anna Nagar, Chennai",11.0,10.0,https://www.practo.com/chennai/hospital/glb-hospital-anna-nagar
+171,Sri Chakra Multispeciality Hospital,"Nanganallur, Chennai",4.0,,https://www.practo.com/chennai/hospital/sri-chakra-multispeciality-hospital-nanganallur
+172,K.M.Hospitals,"Kilpauk, Chennai",1.0,,https://www.practo.com/chennai/hospital/k-m-hospitals-kilpauk
+173,PVR Dental Hospital,"Nanganallur, Chennai",2.0,1.0,https://www.practo.com/chennai/hospital/pvr-dental-hospital-nanganallur
+174,N.S.Hospital,"Tambaram, Chennai",3.0,15.0,https://www.practo.com/chennai/hospital/n-s-hospital-tambaram-west-1-1
+175,Vasan Eye Care Hospital,"Tambaram, Chennai",5.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-tambaram-tambaram-west
+176,Dr. A.C Aruldas Hospital,"Perambur, Chennai",6.0,40.0,https://www.practo.com/chennai/hospital/dr-ac-aruldas-hospital-perambur
+177,Hera Hospital,"Virugambakkam, Chennai",1.0,25.0,https://www.practo.com/chennai/hospital/hera-hospital-virugambakkam
+178,G R Fertility Centre,"Adambakkam, Chennai",5.0,20.0,https://www.practo.com/chennai/hospital/g-r-hospital-adambakkam
+179,Durgabai Deshmukh Hospital & Research Centre,"Raja Annamalai Puram, Chennai",52.0,,https://www.practo.com/chennai/hospital/durgabai-deshmukh-hospital-research-centre-raja-annamalai-puram
+180,Apollo Speciality Hospitals,"OMR Road, Chennai",2.0,70.0,https://www.practo.com/chennai/hospital/apollo-speciality-hospitals-omr-road
+181,Avm Medical ENT Research Foundation Hospital,"Mylapore, Chennai",9.0,25.0,https://www.practo.com/chennai/hospital/avm-medical-ent-research-foundation-pvt-ltd-mylapore
+182,RK Nursing Home,"Chromepet, Chennai",4.0,10.0,https://www.practo.com/chennai/hospital/rajan-s-physio-clinic-chromepet-1
+183,Sugam Hospital,"Thiruvottiyur, Chennai",3.0,100.0,https://www.practo.com/chennai/hospital/sugam-hospital-thiruvottiyur
+184,M.M.Dental Care,"Alwarpet, Chennai",3.0,5.0,https://www.practo.com/chennai/hospital/mm-dental-care-alwarpet
+185,A V Hospital,"Washermenpet, Chennai",31.0,35.0,https://www.practo.com/chennai/hospital/a-v-hospital-washermenpet
+186,Vs Hospitals - Multi Speciality,"Chetpet, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/vs-hospital-multispeciality-chetpet
+187,F.O.R Ortho Hospital,"Kolathur, Chennai",1.0,,https://www.practo.com/chennai/hospital/for-ortho-hospital-kolathur-1
+188,Sen Hospital,"Perambur, Chennai",2.0,,https://www.practo.com/chennai/hospital/sen-hospital-perambur-1
+189,V Cure Hospital,"Velachery, Chennai",2.0,,https://www.practo.com/chennai/hospital/v-cure-hospital-velachery
+190,Suman Hospital,"Thiruvottiyur, Chennai",2.0,5.0,https://www.practo.com/chennai/hospital/suman-hospital-1-thiruvottiyur
+191,Hiba Hospital,"Triplicane, Chennai",8.0,15.0,https://www.practo.com/chennai/hospital/hiba-hospital-triplicane-1
+192,Srinivas Eye Hospital,"Thiruvallur, Chennai",1.0,,https://www.practo.com/chennai/hospital/srinivas-eye-hospital-thiruvallur
+193,St. Joseph multispeciality Dental Hospital,"Porur, Chennai",5.0,6.0,https://www.practo.com/chennai/hospital/st-joseph-hospital-porur-1
+194,DRJ Hospital,"Kolathur, Chennai",4.0,75.0,https://www.practo.com/chennai/hospital/drj-hospital-kolathur
+195,Deepam Eye Hospital,"Kilpauk, Chennai",9.0,,https://www.practo.com/chennai/hospital/deepam-eye-hospital-kilpauk
+196,Ramachandran's Diabetes Hospitals - Guindy,"Guindy, Chennai",6.0,,https://www.practo.com/chennai/hospital/dr-a-ramachandran-s-diabetes-hospitals-guindy-guindy
+197,Guru Raghavendra Hospitals,"KK Nagar, Chennai",6.0,,https://www.practo.com/chennai/hospital/guru-raghavendra-hospitals-kk-nagar-1
+198,M.V. Hospital for Diabetes & Diabetes Research Centre,"Royapuram, Chennai",3.0,,https://www.practo.com/chennai/hospital/m-v-hospital-for-diabetes-diabetes-research-centre-royapuram
+199,Nova IVI Fertility,"Raja Annamalai Puram, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/nova-speciality-hospital-mrc-nagar-mrc-nagar
+200,Fortis Hospital,"Vadapalani, Chennai",1.0,,https://www.practo.com/chennai/hospital/fortis-hospital-vadapalani-vadapalani-1
+201,PK Hospital,"Park Town, Chennai",4.0,44.0,https://www.practo.com/chennai/hospital/pk-hospital-tambaram-west
+202,Sankara Kidney Hospital,"Pallavaram, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/sankara-kidney-hospital-pallavaram
+203,Spot Hospital,"Kodambakkam, Chennai",6.0,30.0,https://www.practo.com/chennai/hospital/spot-hospital-kodambakkam
+204,Prashanth Dental Centre,"Velachery, Chennai",3.0,4.0,https://www.practo.com/chennai/hospital/prashanth-dental-centre-velachery
+205,Chennai Meenakshi Multispeciality Hospital,"Mylapore, Chennai",2.0,100.0,https://www.practo.com/chennai/hospital/chennai-meenakshi-multi-speciality-hospital-mylapore-1
+206,K.P Hospital,"Adambakkam, Chennai",8.0,35.0,https://www.practo.com/chennai/hospital/k-p-bone-joint-centre-adambakkam
+207,RSR'S Trinity Acute Care Hospital,"Mylapore, Chennai",8.0,50.0,https://www.practo.com/chennai/hospital/rsr-trinity-acute-care-hospital-mylapore-1
+208,MuvaHospital,"Aminjikarai, Chennai",2.0,,https://www.practo.com/chennai/hospital/mu-va-hospital-aminjikarai
+209,Eswar Medical Foundation,"Kolathur, Chennai",4.0,35.0,https://www.practo.com/chennai/hospital/eswar-medical-foundation-kolathur-3
+210,Udhi Eye Hospital,"Alwarpet, Chennai",2.0,,https://www.practo.com/chennai/hospital/udhi-eye-hospital-alwarpet
+211,Girishwari Hospitals,"Alwarpet, Chennai",1.0,,https://www.practo.com/chennai/hospital/girishwari-hospitals-alwarpet
+212,Annamalai Hospital,"West Mambalam, Chennai",6.0,10.0,https://www.practo.com/chennai/hospital/annamalai-hospital-west-mambalam
+213,Lakshmi Hospital - West Mambalam,"West Mambalam, Chennai",11.0,,https://www.practo.com/chennai/hospital/lakshmi-hospital-west-mambalam-west-mambalam
+214,Bloom Fertility & Healthcare,"Velachery, Chennai",1.0,50.0,https://www.practo.com/chennai/hospital/bloom-fertility-in-velachery-velachery-1
+215,SKS Pet Hospital,"Kottivakkam, Chennai",4.0,2.0,https://www.practo.com/chennai/hospital/sks-pet-hospital-2
+216,GG Superspeciality Hospitals,"Nungambakkam, Chennai",1.0,30.0,https://www.practo.com/chennai/hospital/prodent-palavakkam
+217,Vihaa Multispeciality Hospital,"Anna Nagar East, Chennai",3.0,75.0,https://www.practo.com/chennai/hospital/vihaa-multispeciality-hospital-anna-nagar-east
+218,Parampara Fertility & Gynaec Centre,"Kilpauk, Chennai",3.0,30.0,https://www.practo.com/chennai/hospital/parampara-fertility-and-gynaec-centre-kilpauk
+219,KKR ENT Hospital & Research Institute,"Kilpauk, Chennai",10.0,,https://www.practo.com/chennai/hospital/kkr-ent-hospital-research-institute-kilpauk-1
+220,Helios Hospitals,"Velachery, Chennai",5.0,25.0,https://www.practo.com/chennai/hospital/helios-hospitals-velachery
+221,Trauma and Orthopaedic Speciality Hospital (TOSH),"Kilpauk, Chennai",1.0,30.0,https://www.practo.com/chennai/hospital/tosh-hospitals-kilpauk
+222,USR ENT Care,"Anna Nagar, Chennai",4.0,,https://www.practo.com/chennai/hospital/rigid-life-line-hospital-avadi
+223,Motherhood Hospital Chennai,"Alwarpet, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/motherhood-hospital-chennai-alwarpet
+224,Zion Skin Hair And Aesthetic clinic,"Kilpauk, Chennai",1.0,2.0,https://www.practo.com/chennai/hospital/aarogya-non-invasive-heart-center-mogappair-west
+225,Iyyappa Hospital & Diabetic Reseach Centre,"Perambur, Chennai",1.0,,https://www.practo.com/chennai/hospital/iyappa-hospital-perambur-perambur
+226,V. S. Hospital,"Kovilambakkam, Chennai",2.0,8.0,https://www.practo.com/chennai/hospital/v-s-hospital-1-kovilambakkam
+227,Chellam Hospital,"Madambakkam, Chennai",28.0,30.0,https://www.practo.com/chennai/hospital/chellam-hospital-tambaram-east
+228,Deepam Hospitals,"Chromepet, Chennai",15.0,40.0,https://www.practo.com/chennai/hospital/deepam-hospitals-chromepet-1
+229,Vasan Dental Hospital,"Saidapet, Chennai",1.0,,https://www.practo.com/chennai/hospital/vasan-dental-hospital-saidapet
+230,Lakshya Hospital Fertility & Women's Centre,"Tambaram, Chennai",3.0,20.0,https://www.practo.com/chennai/hospital/lakshya-hospital-fertility-women-s-centre-tambaram
+231,Vellammal Hospitals,"Mogappair, Chennai",30.0,,https://www.practo.com/chennai/hospital/vellammal-hospitals-mogappair
+232,Sri Balaji Hospital,"Guindy, Chennai",2.0,55.0,https://www.practo.com/chennai/hospital/sri-balaji-hospital-4-guindy
+233,Laser and Laparoscopic Hospital,"T Nagar, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/laser-and-laparoscopic-hospital
+234,Aashara Hospital,"Anna Nagar West, Chennai",1.0,12.0,https://www.practo.com/chennai/hospital/aashara-women-and-childcare-clinic-anna-nagar-west
+235,Shivas Eye Care Hospital,"Anna Nagar, Chennai",1.0,1.0,https://www.practo.com/chennai/hospital/shivas-eye-care-anna-nagar
+236,Meru Ortho Specialty Centre,"Porur, Chennai",5.0,50.0,https://www.practo.com/chennai/hospital/meru-ortho-specialty-centre-porur
+237,Manashasthra Integrated Mind Care,"Vanagaram, Chennai",1.0,40.0,https://www.practo.com/chennai/hospital/manashasthra-vanagaram
+238,Dr.Agarwal's Eye Hospital - Ashok Nagar,"Ashok Nagar, Chennai",8.0,,https://www.practo.com/chennai/hospital/dr-agarwal-s-eye-hospital-ashok-nagar-ashok-nagar
+239,RathiMed Speciality Hospital,"Anna Nagar, Chennai",10.0,20.0,https://www.practo.com/chennai/hospital/rathimed-speciality-hospital-anna-nagar-1
+240,Anjakha Multispeciality Hospital,"Madipakkam, Chennai",75.0,30.0,https://www.practo.com/chennai/hospital/anjakha-multispeciality-hospital-madipakkam-1
+241,Apollo Spectra Hospitals,"MRC Nagar, Chennai",2.0,70.0,https://www.practo.com/chennai/hospital/apollo-spectra-hospitals-mrc-nagar
+242,Indigo Womens Center,"Anna Nagar, Chennai",89.0,6.0,https://www.practo.com/chennai/hospital/indigo-womens-center-anna-nagar
+243,Apollo Speciality Cancer Hospital,"Teynampet, Chennai",16.0,500.0,https://www.practo.com/chennai/hospital/apollo-speciality-cancer-hospital
+244,ANN Hospital,"Valasaravakkam, Chennai",4.0,50.0,https://www.practo.com/chennai/hospital/ann-hospital-valasaravakkam1
+245,Cherish Hospital,"Thirumullaivoyal, Chennai",27.0,20.0,https://www.practo.com/chennai/hospital/cherish-hospital-thirumullaivoyal-1
+246,Aditya Hospital,"Kilpauk, Chennai",2.0,,https://www.practo.com/chennai/hospital/psychiatry-anna-nagar-east
+247,GMR Hospital,"Mogappair West, Chennai",28.0,35.0,https://www.practo.com/chennai/hospital/gmr-hospital-mogappair-west
+248,S R Multispeciality Hospital,"Arumbakkam, Chennai",5.0,30.0,https://www.practo.com/chennai/hospital/s-r-multi-speciality-hospital-arumbakkam
+249,St Anthonys Hospital,"Puzhal, Chennai",17.0,,https://www.practo.com/chennai/hospital/st-anthonys-hospital-puzhal
+250,Apollo Medical Center,"Karapakkam, Chennai",27.0,100.0,https://www.practo.com/chennai/hospital/apollo-medical-center-karapakkam-1
+251,Kasthuri Hospital,"Tambaram West, Chennai",4.0,,https://www.practo.com/chennai/hospital/kasthuri-multispeciality-hospital-tambaram-west
+252,BB Hospital.,"Kolathur, Chennai",4.0,,https://www.practo.com/chennai/hospital/bb-hospital-kolathur
+253,Niranjana Hospital and Well Women Centre,"Villivakkam, Chennai",3.0,25.0,https://www.practo.com/chennai/hospital/niranjana-hospital-villivakkam
+254,Vasan Eye Care Hospital,"Neelankarai, Chennai",4.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-neelankarai
+255,Raj Nursing Home,"Mogappair East, Chennai",4.0,5.0,https://www.practo.com/chennai/hospital/raj-nursing-home-mogappair-east
+256,Agada Hospital,"T Nagar, Chennai",17.0,35.0,https://www.practo.com/chennai/hospital/agada-hospital-1-t-nagar
+257,Venkataeswara Hospitals,"Nandanam, Chennai",5.0,130.0,https://www.practo.com/chennai/hospital/venkataeswara-hospitals-nandanam-1
+258,K H Nursing Home,"Chromepet, Chennai",2.0,15.0,https://www.practo.com/chennai/hospital/k-h-nursing-home-chromepet-2
+259,The Specialists Clinic And Hospital,"KK Nagar, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/the-specialists-clinic-and-hospital-1
+260,Dr K.K. Raja's Dental and Dentofacial Centre,"St Thomas Mount, Chennai",13.0,,https://www.practo.com/chennai/hospital/dr-k-k-raja-s-dental-and-dentofacial-centre-st-thomas-mount
+261,Apollo Hospital - Sowcarpet,"Sowcarpet, Chennai",3.0,22.0,https://www.practo.com/chennai/hospital/apollo-hospital-sowcarpet-sowcarpet
+262,Chennai National Hospital,"Parrys, Chennai",5.0,120.0,https://www.practo.com/chennai/hospital/usr-ent-care-parrys
+263,Dr. Deva Multi Speciality Hospital,"Pattabiram, Chennai",28.0,10.0,https://www.practo.com/chennai/hospital/dr-deva-multi-speciality-hospital-pattabiram
+264,VS Hospitals - Centre for Advanced Surgeries and Tertiary Care,"Kilpauk, Chennai",12.0,50.0,https://www.practo.com/chennai/hospital/vs-hospitals-centre-for-advanced-surgeries-and-tertiary-care-kilpauk
+265,G K M Hospital,"Purasawakkam, Chennai",5.0,,https://www.practo.com/chennai/hospital/g-k-m-hospital-purasawakkam-1
+266,Kings Hospital,"Kolathur, Chennai",7.0,40.0,https://www.practo.com/chennai/hospital/kings-hospital-red-hills
+267,CSI Rainy Hospital,"Washermenpet, Chennai",3.0,250.0,https://www.practo.com/chennai/hospital/csi-rainy-hospital-royapuram
+268,Nichani Hosptial,"Royapuram, Chennai",9.0,50.0,https://www.practo.com/chennai/hospital/nichani-hosptial-royapuram
+269,Dr. A. Ramachandran's Diabetes Hospitals,"Egmore, Chennai",1.0,,https://www.practo.com/chennai/hospital/dr-a-ramachandran-s-diabetes-hospitals-1-egmore
+270,Visa Hospital - T Nagar,"T Nagar, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/sri-visa-hospital-t-nagar
+271,Sri Sai Sakthi Nursing Home,"MKB Nagar, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/sri-saai-sakthi-nursing-home-vyasarpadi
+272,Rathna Nursing Home,"Triplicane, Chennai",1.0,15.0,https://www.practo.com/chennai/hospital/ratna-nursing-clinic-triplicane
+273,Sri Sudharsanam Hospital,"Avadi, Chennai",3.0,,https://www.practo.com/chennai/hospital/sri-sudharsanam-hospital-avadi
+274,Ayanavaram Hospital,"Ayanavaram, Chennai",2.0,25.0,https://www.practo.com/chennai/hospital/ayanavaram-24-hrs-hospital-1-perambur
+275,Nalamm Hospital PVT. Limited,"MKB Nagar, Chennai",2.0,25.0,https://www.practo.com/chennai/hospital/nalamm-hospital-mkb-nagar
+276,K L Hospital,"Neelangarai, Chennai",23.0,30.0,https://www.practo.com/chennai/hospital/usharani-neelankarai
+277,Murugan Hospitals,"Kilpauk, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/murugan-hospital-kilpauk
+278,Mount Multispeciality Hospitals,"Adambakkam, Chennai",3.0,20.0,https://www.practo.com/chennai/hospital/mount-multispeciality-hospitals
+279,Vasan Eye Care Hospital,"Madipakkam, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-madipakkam-madipakkam
+280,Dr. Mohan's  Diabetes Specialities Centre,"Porur, Chennai",1.0,15.0,https://www.practo.com/chennai/hospital/mohan-diabetes
+281,Dr. Mohan's Diabetic Specialities Centre,"OMR Road, Chennai",1.0,15.0,https://www.practo.com/chennai/hospital/mohan-diabetes-omr-road-2
+282,"MotherHood Hospital,TTK Road Alwarpet(Next to Levis Showroom)","Adyar, Chennai",6.0,,https://www.practo.com/chennai/hospital/dermatologist-adyar
+283,NM Fertility Centre and Hospital,"Madhavaram, Chennai",1.0,25.0,https://www.practo.com/chennai/hospital/nm-fertility-centre-and-hospital-madhavaram
+284,Mind Zone,"Adyar, Chennai",1.0,70.0,https://www.practo.com/chennai/hospital/mind-zone-adyar1
+285,Dr. Mohan's Diabetic Specialities Centre,"Tambaram East, Chennai",1.0,,https://www.practo.com/chennai/hospital/dr-mohan-s-diabetic-specialities-centre-tambaram-east
+286,Dr.Agarwal's Eye Hospital - Avadi,"Avadi, Chennai",6.0,,https://www.practo.com/chennai/hospital/dr-agarwal-s-eye-hospital-avadi-avadi
+287,Vasan Eye Care Hospital,"Chromepet, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-chrompet-chromepet
+288,Vasan Eye Care Hospital,"Mogappair West, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-mogappair-mogappair
+289,Shakthi Maternity Centre,"Ayanavaram, Chennai",14.0,4.0,https://www.practo.com/chennai/hospital/shakthi-maternity-centre-ayanavaram
+290,VS Hospitals - Advanced Cancer Care,"Chetpet, Chennai",2.0,50.0,https://www.practo.com/chennai/hospital/vs-hospital-chetpet
+291,Nalam Hospital,"Porur, Chennai",3.0,,https://www.practo.com/chennai/hospital/nalam-hospital-porur
+292,KKR ENT Super Speciality Hospital,"Maduravoyal, Chennai",2.0,5.0,https://www.practo.com/chennai/hospital/kkr-ent-superspecialty-hospital-maduravoyal-maduravoyal
+293,St.Isabel's Hospital,"Mylapore, Chennai",4.0,,https://www.practo.com/chennai/hospital/dr-r-srivathsan-s-urology-practice-mylapore
+294,Vasan Eye Care Hospital - Anna Nagar,"Anna Nagar East, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-anna-nagar-anna-nagar-east
+295,SKS Pet Hospital,"Neelankarai, Chennai",2.0,2.0,https://www.practo.com/chennai/hospital/sks-pet-hospital-1
+296,People's Nursing Home,"Aminjikarai, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/people-s-nursing-home-aminjikarai
+297,ARC International Fertility And Research Centre,"Perungudi, Chennai",2.0,100.0,https://www.practo.com/chennai/hospital/arc-international-fertility-and-research-centre-perungudi
+298,Speed Hospitals - Speed Institute of Orthopaedics and Trauma.,"Arumbakkam, Chennai",1.0,,https://www.practo.com/chennai/hospital/sai-speed-medical-centre-pvt-ltd-arumbakkam
+299,Karunya Hospital,"Medavakkam, Chennai",4.0,1.0,https://www.practo.com/chennai/hospital/karunya-hospital
+300,Rakki Hospital,"Ambattur, Chennai",1.0,,https://www.practo.com/chennai/hospital/rakki-hospital-ambattur
+301,Life Care Hospital,"Pudupet, Chennai",2.0,25.0,https://www.practo.com/chennai/hospital/life-care-hospital-12
+302,Vasan Eye Care Hospital,"Alwarpet, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-alwarpet-alwarpet
+303,Vasantha Multi Speciality Hospital,"Thiruvottiyur, Chennai",1.0,30.0,https://www.practo.com/chennai/hospital/vasantha-multi-speciality-hospital
+304,E.G.Hospital,"Choolai, Chennai",1.0,2.0,https://www.practo.com/chennai/hospital/e-g-hospital
+305,New Life Fertility & IVF Centre,"Nanganallur, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/new-life-fertility-ivf-centre-nanganallur
+306,M.N.Eye Hospital,"Tondiarpet, Chennai",1.0,20.0,https://www.practo.com/chennai/hospital/m-n-eye-hospital-1-tondiarpet
+307,Medway Hospital,"Adyar, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/med-hospital
+308,RR Dental Hospital,"Vadapalani, Chennai",3.0,5.0,https://www.practo.com/chennai/hospital/rr-dental-hospital-kodambakkam
+309,Vasan Eye Care Hospital,"Valasaravakkam, Chennai",5.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-valasaravakkam-valasaravakkam
+310,Admert Hospital Pvt Ltd,"Aminjikarai, Chennai",1.0,,https://www.practo.com/chennai/hospital/admert-hospital-pvt-ltd-aminjikarai
+311,Dental Life Hospital,"Saidapet, Chennai",1.0,,https://www.practo.com/chennai/hospital/dental-life-hospital-saidapet-1-1
+312,Malar Eye Care,"Adyar, Chennai",5.0,1.0,https://www.practo.com/chennai/hospital/fortis-malar-hospital-adyar-5
+313,Vasan Eye Care Hospital - Vadapalani,"Vadapalani, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-vadapalani-vadapalani
+314,Vasan Eye Care Hospital,"Perambur, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-perambur-perambur
+315,Vasan Eye Care Hospital - Triplicane,"Triplicane, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-triplicane-triplicane
+316,BP Jain Hospital,"Pammal, Chennai",7.0,,https://www.practo.com/chennai/hospital/bp-jain-hospital-tambaram
+317,St Antony's hospital,"Madhavaram, Chennai",6.0,,https://www.practo.com/chennai/hospital/st-antony-s-hospital-madhavaram
+318,Jeyam Hospital,"Poonamalle, Chennai",1.0,,https://www.practo.com/chennai/hospital/jeyam-hospital-poonamalle
+319,Ridley Eye Hospital,"Porur, Chennai",8.0,,https://www.practo.com/chennai/hospital/ridley-eye-hospital-porur
+320,Aishwarya hospital,"Kolathur, Chennai",2.0,,https://www.practo.com/chennai/hospital/aishwarya-hospital-kolathur
+321,"Department of Prosthodontics, SBDCH","Pallikaranai, Chennai",1.0,,https://www.practo.com/chennai/hospital/department-of-prosthodontics-sbdch-pallikaranai
+322,Manam Dental Hospitals,"Maduravoyal, Chennai",3.0,,https://www.practo.com/chennai/hospital/manam-dental-hospitals-maduravoyal
+323,Ganga Hospital,"Washermenpet, Chennai",1.0,,https://www.practo.com/chennai/hospital/ganga-hospital-washermenpet
+324,Pranav Eye Care Hospital,"Mogappair West, Chennai",12.0,,https://www.practo.com/chennai/hospital/pranav-eye-care-hospital-ambattur
+325,M.N. Eye Hospital,"Tondiarpet, Chennai",1.0,,https://www.practo.com/chennai/hospital/m-n-eye-hospital-tondiarpet
+326,Vasan Eye Care Hospital,"Kilpauk, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-kilpauk-kilpauk
+327,Vasan Eye Care Hospital,"Washermenpet, Chennai",3.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-old-washermenpet-washermenpet
+328,Villivakkam Health Centre,"Villivakkam, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/villivakkam-health-centre-villivakkam
+329,Care Dental Hospital,"Villivakkam, Chennai",1.0,,https://www.practo.com/chennai/hospital/care-dental-hospital-chennai-villivakkam
+330,Vaigai ENT,"Washermenpet, Chennai",1.0,1.0,https://www.practo.com/chennai/hospital/vaigai-ent-thiruvottiyur
+331,RM Noble Hospital,"Thiruvanmiyur, Chennai",13.0,,https://www.practo.com/chennai/hospital/rm-noble-hospital-thiruvanmiyur
+332,An - Noor Eye Hospital,"Egmore, Chennai",1.0,,https://www.practo.com/chennai/hospital/an-noor-eye-hospital-1-egmore
+333,Crescent Hospital,"Royapettah, Chennai",6.0,,https://www.practo.com/chennai/hospital/crescent-hospital-royapettah-1
+334,Aalayaa Hospital,"Vadapalani, Chennai",1.0,2.0,https://www.practo.com/chennai/hospital/aalayaa-hospital-vadapalani
+335,Madha Clinic,"Triplicane, Chennai",6.0,75.0,https://www.practo.com/chennai/hospital/r-r-multi-speciality-hospital-triplicane
+336,SRM Hospital,"West Mambalam, Chennai",1.0,,https://www.practo.com/chennai/hospital/srm-hospital-west-mambalam-west-mambalam
+337,Amma Hospital,"Nungambakkam, Chennai",29.0,30.0,https://www.practo.com/chennai/hospital/amma-infertility-centre-choolaimedu
+338,An - Noor Eye Hospital,"Periyamet, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/an-noor-eye-hospital-1-mannady
+339,Vasantha Hospital,"Washermenpet, Chennai",1.0,30.0,https://www.practo.com/chennai/hospital/vasantha-hospital-washermenpet-1
+340,Hande Hospital,"Shenoy Nagar, Chennai",2.0,,https://www.practo.com/chennai/hospital/dr-arthi-gynaecology-center-shenoy-nagar
+341,Dr. Arumugam @ BR Hospitals,"KK Nagar, Chennai",2.0,,https://www.practo.com/chennai/hospital/dr-arumugam-br-hospitals-kk-nagar
+342,SKS Veterinary Hospital,"Abhiramapuram, Chennai",1.0,2.0,https://www.practo.com/chennai/hospital/sks-vet-hospital-abhiramapuram
+343,Vasan Eye Care Hospital,"Tiruvottiyur, Chennai",2.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-21-tiruvottiyur
+344,Robin Hospital,"Anna Nagar, Chennai",10.0,,https://www.practo.com/chennai/hospital/robin-hospital-1
+345,Kedar Hospital,"Iyyappanthangal, Chennai",2.0,40.0,https://www.practo.com/chennai/hospital/kedar-hospital-iyyappanthangal
+346,Saraswati Hospital,"Thiruvottiyur, Chennai",1.0,7.0,https://www.practo.com/chennai/hospital/saraswati-hospital-2-thiruvottiyur
+347,Sri Bala Nursing Home,"Perambur, Chennai",1.0,,https://www.practo.com/chennai/hospital/sri-bala-nursing-home-perambur
+348,HCG Hospital,"Mylapore, Chennai",1.0,50.0,https://www.practo.com/chennai/hospital/hcg-hospital-chennai-mylapore
+349,Trimed,"Anna Nagar East, Chennai",1.0,,https://www.practo.com/chennai/hospital/trimed-annanagar-anna-nagar-east
+350,J.K.Hospital,"Porur, Chennai",3.0,,https://www.practo.com/chennai/hospital/j-k-hospital-porur-chennai-porur
+351,S.S.Eye Hospital.,"Mannady, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/s-s-eye-hospital
+352,V Care Hospital,"Pallikaranai, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/v-care-hospital-3
+353,Dr. Rai Memorial Medical Centre,"Teynampet, Chennai",1.0,,https://www.practo.com/chennai/hospital/dr-rai-memorial-medical-centre-teynampet
+354,Miracle Advanced Reproductive Centre,"Kilpauk, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/miracle-advanced-reproductive-centre-kilpauk
+355,Womens Center,"T Nagar, Chennai",1.0,,https://www.practo.com/chennai/hospital/womens-center-gopalapuram
+356,Dhanwanthralaya Ayurveda Speciality Hospital,"Tambaram West, Chennai",1.0,,https://www.practo.com/chennai/hospital/dhanwanthralaya-ayurveda-speciality-hospital-tambaram-west
+357,Vee Care Dental,"Kottivakkam, Chennai",1.0,20.0,https://www.practo.com/chennai/hospital/vee-care-dental-kottivakkam
+358,S.R Hospitals,"Ashok Nagar, Chennai",4.0,20.0,https://www.practo.com/chennai/hospital/s-r-hospitals-jafferkhanpet
+359,Krishnakripa Ayurvedic Speciality Hospital,"Porur, Chennai",3.0,,https://www.practo.com/chennai/hospital/professor-consultant-physician-porur
+360,Apollo Cradle Women's Hospital,"Thousand Lights, Chennai",1.0,50.0,https://www.practo.com/chennai/hospital/apollo-cradle-women-s-hospital-t-nagar
+361,Dr. Kapil Mathur's Vascular Surgery Centre,"Perungudi, Chennai",1.0,,https://www.practo.com/chennai/hospital/apollo-speciality-hospital-omr-adyar
+362,Roots Dental Hospital,"Avadi, Chennai",1.0,,https://www.practo.com/chennai/hospital/roots-dental-hospital-avadi
+363,Vasan Eye Care Hospital - Madhavaram,"Madhavaram, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/vasan-eye-care-hospital-madhavaram-madhavaram
+364,Sundar Eye Hospital,"Anna Nagar, Chennai",1.0,20.0,https://www.practo.com/chennai/hospital/sundar-eye-hospital-2-anna-nagar
+365,Nalam Ayurveda Hospital,"Aminjikarai, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/nalam-ayurveda-hospital-arumbakkam
+366,RKB Hospital,"Avadi, Chennai",1.0,,https://www.practo.com/chennai/hospital/rkb-hospital-avadi
+367,Koncept Hospitals,"Kodambakkam, Chennai",1.0,5.0,https://www.practo.com/chennai/hospital/koncept-hospitals-kodambakkam
+368,Dr. Mohan’s Diabetes Specialities Centre,"Avadi, Chennai",1.0,,https://www.practo.com/chennai/hospital/dr-mohan-s-diabetes-specialities-centre
+369,Mohans Diabetes Hospital,"Anna Nagar, Chennai",2.0,,https://www.practo.com/chennai/hospital/mohans-diabetes-hospital-anna-nagar-1
+370,MU. VA Hospital,"Shenoy Nagar, Chennai",1.0,,https://www.practo.com/chennai/hospital/muva-hospital-and-speciality-hospital-shenoy-nagar
+371,INSRI SIDDHA HOSPITAL,"Madipakkam, Chennai",1.0,,https://www.practo.com/chennai/hospital/dr-p-naveen-kumar-madipakkam
+372,Hande Hospital,"Shenoy Nagar, Chennai",4.0,,https://www.practo.com/chennai/hospital/hande-hospital-shenoy-nagar-1
+373,Bethesda Hospital,"Tambaram, Chennai",1.0,,https://www.practo.com/chennai/hospital/bethesda-hospital-tambaram
+374,M.V. Centre For Diabetes,"Velachery, Chennai",1.0,2.0,https://www.practo.com/chennai/hospital/mv-hospital-for-diabetes
+375,Vijaya Hospital & Heart Foundation,"Arcot Road, Chennai",1.0,,https://www.practo.com/chennai/hospital/vijaya-hospital-heart-foundation-arcot-road
+376,White Care Dental Hospital,"Adambakkam, Chennai",1.0,,https://www.practo.com/chennai/hospital/white-care-dental-hospital-adambakkam
+377,Rajan Eye Care Hospital,"Adyar, Chennai",3.0,2.0,https://www.practo.com/chennai/hospital/rajan-eye-care-hospital-adyar
+378,Ayush Hospital,"Thiruvottiyur, Chennai",4.0,,https://www.practo.com/chennai/hospital/ayush-hospital-thiruvottiyur
+379,The Chest Clinic,"Adyar, Chennai",1.0,,https://www.practo.com/chennai/hospital/the-chest-clinic-adyar
+380,Lalitha Nursing Home,"Alwarthirunagar, Chennai",1.0,4.0,https://www.practo.com/chennai/hospital/lalitha-nursing-home
+381,Sakthi Hospital,"Royapuram, Chennai",5.0,5.0,https://www.practo.com/chennai/hospital/sakthi-hospital-2-royapuram
+382,Sathyam Dental Hospital,"Gowrivakkam, Chennai",1.0,,https://www.practo.com/chennai/hospital/sathyam-dental-clinic-gowrivakkam
+383,Padhuvai Hospital,"Madipakkam, Chennai",1.0,10.0,https://www.practo.com/chennai/hospital/padhuvai-hospital-2-madipakkam
+384,Tamil Nadu Government Multi Super Speciality Hospital,"Mount Road, Chennai",1.0,,https://www.practo.com/chennai/hospital/tamil-nadu-government-multi-super-speciality-hospital-triplicane
+385,New Hope Hospital,"Kilpauk, Chennai",1.0,,https://www.practo.com/chennai/hospital/new-hope-hospital-kilpauk
+386,Centre For Liver Disease and Transplantation,"Greams Road, Chennai",1.0,,https://www.practo.com/chennai/hospital/centre-for-liver-disease-and-transplantation-greams-road
+387,Ramani Hospital,"Ashok Nagar, Chennai",1.0,7.0,https://www.practo.com/chennai/hospital/ramani-hospital-ashok-nagar-1
+388,Dental Life Hospital - Velachery,"Velachery, Chennai",1.0,,https://www.practo.com/chennai/hospital/dental-life-hospital-velachery-velachery
+389,Sindhu Mission Hospital,"Tambaram, Chennai",1.0,,https://www.practo.com/chennai/hospital/sindhu-mission-hospital-tambaram
+390,Chamiers Day Care,"Nandanam, Chennai",1.0,,https://www.practo.com/chennai/hospital/chamiers-day-care-nandanam
+391,P.K.Child Care Hospital,"Porur, Chennai",2.0,3.0,https://www.practo.com/chennai/hospital/p-k-child-care-hospital-1-porur
+392,Kalpana Hospital,"Velachery, Chennai",1.0,1.0,https://www.practo.com/chennai/hospital/kalpana-hospital-medavakkam
+393,Nila Hospital,"Ambattur, Chennai",1.0,,https://www.practo.com/chennai/hospital/nila-hospital-ambattur
+394,Swaram Hospital,"Thiruvanmiyur, Chennai",1.0,,https://www.practo.com/chennai/hospital/swaram-hospital-thiruvanmiyur
+395,Gremaltes Hospital,"Aminjikarai, Chennai",1.0,,https://www.practo.com/chennai/hospital/gremaltes-hospital-medavakkam
+396,Rehoboth hospital,"Pattabiram, Chennai",1.0,,https://www.practo.com/chennai/hospital/rehoboth-hospital-pattabiram
+397,Be Well Hospitals Pvt. Ltd.,"Kilpauk, Chennai",1.0,,https://www.practo.com/chennai/hospital/be-well-hospitals-pvt-ltd-kilpauk
+398,AVS Hospital,"Pallikaranai, Chennai",1.0,6.0,https://www.practo.com/chennai/hospital/avs-hospital-1
+399,Vadapalani Hospital,"Vadapalani, Chennai",,5.0,https://www.practo.com/chennai/hospital/vadapalani-hospital
+400,Choolai 24hrs Hospital,"Choolai, Chennai",,35.0,https://www.practo.com/chennai/hospital/choolai-24hrs-hospital
+401,Sri Esodha Children's hospital,"Ayanavaram, Chennai",,15.0,https://www.practo.com/chennai/hospital/sri-esodha-children-s-hospital-1-1
+402,MN Eye hospital,"Kilpauk, Chennai",,,https://www.practo.com/chennai/hospital/mn-eye-hospital
+403,"Visa Hospital, OMR","OMR Road, Chennai",,,https://www.practo.com/chennai/hospital/visa-hospital-omr-omr-road
+404,Sri Sai K R S Hospital,"Ashok Nagar, Chennai",,10.0,https://www.practo.com/chennai/hospital/sri-sai-k-r-s-hospital-ashok-nagar
+405,Rishik Ortho Speciality Hospital,"Tambaram, Chennai",,,https://www.practo.com/chennai/hospital/rishik-ortho-speciality-hospital-tambaram
+406,Aishwariya Hospital,"Kolathur, Chennai",,,https://www.practo.com/chennai/hospital/aishwariya-hospital-kolathur

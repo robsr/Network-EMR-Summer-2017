@@ -1,0 +1,576 @@
+,HOSPITAL NAME,LOCATION,NO. OF DOCTORS,NO. OF BEDS,LINKS
+0,Hegde Hospital,"Madhapur, Hyderabad",6.0,30.0,https://www.practo.com/hyderabad/hospital/hegde-hospital-madhapur
+1,Care Hospital,"Nampally, Hyderabad",43.0,,https://www.practo.com/hyderabad/hospital/care-hospital-nampally-nampally
+2,Swapna Health Care,"Begumpet, Hyderabad",10.0,50.0,https://www.practo.com/hyderabad/hospital/swapna-healthcare-somajiguda-kukatpally
+3,MaxCure Hospitals,"Madhapur, Hyderabad",30.0,220.0,https://www.practo.com/hyderabad/hospital/maxcure-hospitals-madhapur-2
+4,Asian Institute Of Gastroenterology,"Somajiguda, Hyderabad",48.0,,https://www.practo.com/hyderabad/hospital/asian-institute-of-gastroenterology-somajiguda-1-1
+5,Himagiri Hospitals,"Gachibowli, Hyderabad",16.0,50.0,https://www.practo.com/hyderabad/hospital/himagiri-hospitals-gachibowli-1
+6,Columbus Hospital - Institute Of Psychiatry and Deaddiction,"Begumpet, Hyderabad",5.0,30.0,https://www.practo.com/hyderabad/hospital/columbus-hospital-begumpet-1
+7,Continental Hospitals,"Gachibowli, Hyderabad",133.0,750.0,https://www.practo.com/hyderabad/hospital/continental-hospital-gachibowli-1-663465
+8,Chetana Hospital,"Secunderabad, Hyderabad",6.0,30.0,https://www.practo.com/hyderabad/hospital/chetana-hospital-secunderabad-1
+9,Care Hospitals,"Banjara Hills, Hyderabad",125.0,200.0,https://www.practo.com/hyderabad/hospital/care-hospital-banjara-hills-banjara-hills
+10,Sai Krishna Neuro Hospital,"Kachiguda, Hyderabad",16.0,75.0,https://www.practo.com/hyderabad/hospital/sai-krishna-super-speciality-neuro-hospital-kachiguda
+11,J J Hospital,"Kalyan Nagar, Hyderabad",13.0,,https://www.practo.com/hyderabad/hospital/j-j-hospital-kalyan-nagar
+12,Anupama Hospital,"KPHB, Hyderabad",12.0,10.0,https://www.practo.com/hyderabad/hospital/anupama-hospital-kphb
+13,Star Hospitals,"Banjara Hills, Hyderabad",46.0,136.0,https://www.practo.com/hyderabad/hospital/star-hospitals-banjara-hills-3
+14,SIMS Hospital,"Serilingampally, Hyderabad",4.0,50.0,https://www.practo.com/hyderabad/hospital/sims-hospital-lingampally
+15,Magnas V ENT Hospitals,"Chaitanyapuri, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/magnas-v-ent-hospitals-dilsukh-nagar
+16,Vishnu Women & Childrens Hospital,"Chanda Nagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/vishnu-women-childrens-hospital-chanda-nagar
+17,LV Prasad,"Banjara Hills, Hyderabad",18.0,,https://www.practo.com/hyderabad/hospital/l-v-prasad-eye-institute-banjara-hills-1-1
+18,Pace Hospitals,"Begumpet, Hyderabad",17.0,100.0,https://www.practo.com/hyderabad/hospital/pace-hospitals-best-gastro-liver-kidney-centre-24x7-begumpet
+19,Preeti Urology and Kidney Hospital,"Kukatpally, Hyderabad",5.0,75.0,https://www.practo.com/hyderabad/hospital/preeti-urology-and-kidney-hospital-kphb
+20,Janapareddy Hospitals,"Sikh Village, Hyderabad",9.0,150.0,https://www.practo.com/hyderabad/hospital/janapareddy-hospitals-secunderabad
+21,Aster Prime Hospitals,"Ameerpet, Hyderabad",15.0,250.0,https://www.practo.com/hyderabad/hospital/prime-hospitals-ameerpet-1
+22,Pace Hospital,"Hitech City, Hyderabad",16.0,100.0,https://www.practo.com/hyderabad/hospital/pace-hospitals-hitech-city-hitech-city
+23,Hyderbad Kidney & Laproscopic Center,"Malakpet, Hyderabad",6.0,100.0,https://www.practo.com/hyderabad/hospital/hyderbad-kidney-center-malakpet
+24,Sunshine Hospital,"Secunderabad, Hyderabad",24.0,450.0,https://www.practo.com/hyderabad/hospital/dr-sudheer-nadimpalli-hyderabad
+25,Mamatha Hospitals,"Kukatpally, Hyderabad",7.0,120.0,https://www.practo.com/hyderabad/hospital/mamatha-hospitals-kphb
+26,Omega Hospital,"Banjara Hills, Hyderabad",25.0,150.0,https://www.practo.com/hyderabad/hospital/omega-hospital-s-banjara-hills-1
+27,Sowmya Multispecality Hospital,"Karkhana, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/sowmya-multispecality-clinic-karkhana
+28,Cygnus Institute Of Gastroenterology,"Kukatpally, Hyderabad",6.0,70.0,https://www.practo.com/hyderabad/hospital/cygnus-institute-of-gastroentrology-miyapur
+29,The Birthplace Hospital,"Banjara Hills, Hyderabad",12.0,25.0,https://www.practo.com/hyderabad/hospital/the-birthplace-hospital-banjara-hills-banjara-hills
+30,Kamineni Hospitals,"LB Nagar, Hyderabad",65.0,350.0,https://www.practo.com/hyderabad/hospital/kamineni-hospitals-lb-nagar
+31,Vanaja Hospital,"AS Rao Nagar, Hyderabad",12.0,25.0,https://www.practo.com/hyderabad/hospital/vanaja-hospital-pragathi-nagar
+32,Ramayya Pramila Urology & Laparoscopy Hospital,"Basheerbagh, Hyderabad",3.0,50.0,https://www.practo.com/hyderabad/hospital/ramayya-pramila-urollogy-laparoscopic-hospital-basheerbagh
+33,Pranaam Hospital,"Madinaguda, Hyderabad",3.0,100.0,https://www.practo.com/hyderabad/hospital/pranaam-hospital-miyapur
+34,Nice Hospital,"Masab Tank, Hyderabad",11.0,120.0,https://www.practo.com/hyderabad/hospital/nice-hospital-for-children-and-new-born-masab-tank
+35,Midas ENT Head & Neck Super Speciality Hospital,"Dilsukhnagar, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/midas-ent-head-neck-super-speciality-hospital-dilsukh-nagar
+36,Landmark Hospitals,"Nizampet, Hyderabad",21.0,100.0,https://www.practo.com/hyderabad/hospital/landmark-hospitals-kukatpally
+37,Fehmicare Hospital,"Yousufguda, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/fehmicare-hospital-yousufguda
+38,Kasturi Multispeciality Hospital,"Secunderabad, Hyderabad",6.0,50.0,https://www.practo.com/hyderabad/hospital/kasturi-multispecialityhospital-secunderabad-1
+39,Harsha Hospitals,"Kukatpally, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/harsha-hospitals-kukatpally
+40,Medwin Hospitals,"Nampally, Hyderabad",34.0,200.0,https://www.practo.com/hyderabad/hospital/medwin-hospitals-nampally-1-644441
+41,Kadimi Nursing Home,"Chanda Nagar, Hyderabad",6.0,25.0,https://www.practo.com/hyderabad/hospital/kadimi-nursing-home-chanda-nagar-2
+42,Omni Hospitals,"Kothapet, Hyderabad",23.0,250.0,https://www.practo.com/hyderabad/hospital/omni-hospital-dilsukh-nagar
+43,Krishna Children's Hospital,"Lakdikapul, Hyderabad",5.0,50.0,https://www.practo.com/hyderabad/hospital/krishna-children-s-hospital-khairatabad
+44,Vijaya Hospital,"Madinaguda, Hyderabad",10.0,,https://www.practo.com/hyderabad/hospital/vijaya-hospital-madinaguda-madinaguda
+45,Sankhya Hospitals,"Kukatpally, Hyderabad",20.0,50.0,https://www.practo.com/hyderabad/hospital/sankhya-hospitals-kukatpally
+46,Mahaveer Hospital,"Masab Tank, Hyderabad",14.0,200.0,https://www.practo.com/hyderabad/hospital/mahavir-hospital-masab-tank-1
+47,Sumana Hospital,"Kukatpally, Hyderabad",15.0,50.0,https://www.practo.com/hyderabad/hospital/sumana-hospital-kukatpally
+48,Vijay Marie Hospital,"Khairatabad, Hyderabad",13.0,200.0,https://www.practo.com/hyderabad/hospital/vijay-marie-hospital-khairatabad
+49,Vijaya Health Care,"Secunderabad, Hyderabad",3.0,100.0,https://www.practo.com/hyderabad/hospital/vijaya-health-care-secunderabad-1
+50,Lotus Children Hospitals,"Kukatpally, Hyderabad",3.0,50.0,https://www.practo.com/hyderabad/hospital/lotus-children-hospitals-kukatpally
+51,Vasavi Hospital,"Lakdikapul, Hyderabad",14.0,150.0,https://www.practo.com/hyderabad/hospital/vasavi-hospital-khairatabad
+52,Orthopedic Doctor- Raghava Hospital,"Ameerpet, Hyderabad",8.0,50.0,https://www.practo.com/hyderabad/hospital/raghava-hospital-ameerpet
+53,Aditya Hospital,"Abids, Hyderabad",39.0,,https://www.practo.com/hyderabad/hospital/aditya-hospital-abids-1
+54,Owaisi Hospital And Research Centre,"Kanchanbagh, Hyderabad",41.0,,https://www.practo.com/hyderabad/hospital/owaisi-hospital-and-research-centre-kanchanbagh
+55,Sri Sri Holistic Hospitals,"Nizampet, Hyderabad",33.0,100.0,https://www.practo.com/hyderabad/hospital/sri-sri-holistic-hospitals-1-kukatpally
+56,TKR's Ikon Hospital,"Dilsukhnagar, Hyderabad",7.0,75.0,https://www.practo.com/hyderabad/hospital/icon-hospital-dilsukh-nagar
+57,Hedge Fertility Hospital,"Moosarambagh, Hyderabad",2.0,25.0,https://www.practo.com/hyderabad/hospital/hegde-hospital-dilsukh-nagar
+58,"Kamineni Orthopaedics, Kingkoti","King Koti, Hyderabad",9.0,200.0,https://www.practo.com/hyderabad/hospital/kamineni-hospitals-hyderguda
+59,Pragna Hospitals,"Banjara Hills, Hyderabad",5.0,50.0,https://www.practo.com/hyderabad/hospital/pragna-hospitals-banjara-hills
+60,Global Hospital,"Lakdikapul, Hyderabad",25.0,100.0,https://www.practo.com/hyderabad/hospital/global-hospital-lakdikapul-1-lakdikapul
+61,Bristlecone Hospitals,"Barkatpura, Hyderabad",36.0,,https://www.practo.com/hyderabad/hospital/bristlecone-hospitals-barkatpura-1
+62,C C Shroff Memorial Hospital,"Barkatpura, Hyderabad",10.0,,https://www.practo.com/hyderabad/hospital/c-c-shroff-memorial-hospital-barkatpura
+63,Sri Raghavendra Multispeciality Hospital,"Ecil, Hyderabad",12.0,100.0,https://www.practo.com/hyderabad/hospital/raghavendra-super-speciality-hospital-ecil
+64,Ramdev Rao Memorial General Hospital,"Kukatpally, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/ramdev-rao-memorial-general-hospital-kukatpally
+65,SMT. Bhagwan Devi Hospital,"Old City, Hyderabad",4.0,50.0,https://www.practo.com/hyderabad/hospital/bhagawan-devi-hospital-old-city
+66,Durgabai Deshmukh Hospital,"Vidyanagar, Hyderabad",8.0,50.0,https://www.practo.com/hyderabad/hospital/durgabai-deshmukh-andhra-mahila-sabha-vidyanagar
+67,Aster Prime Hospitals,"Kukatpally, Hyderabad",8.0,100.0,https://www.practo.com/hyderabad/hospital/prime-hospitals-kukatpally-2
+68,Premier Hospital,"Mehdipatnam, Hyderabad",15.0,105.0,https://www.practo.com/hyderabad/hospital/premier-hospital-mehdipatnam-1
+69,Asha Hospital,"Banjara Hills, Hyderabad",12.0,200.0,https://www.practo.com/hyderabad/hospital/asha-hospital-banjara-hills
+70,Surekha Hospital,"Kompally, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/surekha-hospital-kompally
+71,Janapareddy Hospital - Mother & Child,"Kompally, Hyderabad",4.0,75.0,https://www.practo.com/hyderabad/hospital/janapareddy-hospital-kompally-mother-child-kompally
+72,Balaji Hospital,"Kompally, Hyderabad",4.0,100.0,https://www.practo.com/hyderabad/hospital/balaji-hospital-kompally
+73,Saptagiri Hospital,"Chaitanyapuri, Hyderabad",4.0,50.0,https://www.practo.com/hyderabad/hospital/saptagiri-hospital-dilsukh-nagar
+74,Eswar Eye Hospital,"Kukatpally, Hyderabad",6.0,10.0,https://www.practo.com/hyderabad/hospital/eswar-eye-hospital-kukatpally
+75,Dr. Rao's ENT Super Speciality International Hospital,"KPHB, Hyderabad",4.0,100.0,https://www.practo.com/hyderabad/hospital/dr-rao-s-ent-super-speciality-international-hospital-punjagutta-1
+76,Kirloskar Hospital,"Basheerbagh, Hyderabad",5.0,50.0,https://www.practo.com/hyderabad/hospital/kirloskar-hospital-1-basheerbagh
+77,Goodwill Hospital - Kidney And Surgical Centre,"Banjara Hills, Hyderabad",12.0,60.0,https://www.practo.com/hyderabad/hospital/goodwill-hospital-kidney-and-surgical-centre-masab-tank
+78,Vasundhara Hospital,"Moosapet, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/vasundhara-hospital-moosapet
+79,Sai Teja Hospital,"Miyapur, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/sai-teja-hospital-miyapur
+80,Sri Visista Super Speciality Ayurveda,"Punjagutta, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/sri-visista-super-speciality-ayurveda-somajiguda
+81,Indo-us Superspeciality Hospital,"Ameerpet, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/indous-hospital-ameerpet
+82,Vijaya Nursing Home,"Chanda Nagar, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/vijaya-nursing-home-chanda-nagar-1
+83,KIMS Hospital,"Kondapur, Hyderabad",32.0,150.0,https://www.practo.com/hyderabad/hospital/kims-hospitals-kondapur-1
+84,Alpha Hospital,"Charminar, Hyderabad",21.0,120.0,https://www.practo.com/hyderabad/hospital/alpha-hospital-charminar
+85,Praanadah Hospital,"Madhapur, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/praanadah-hospital-madhapur
+86,Surakshaka Multi-Speciality And Diabetes Hospitals,"KPHB, Hyderabad",11.0,,https://www.practo.com/hyderabad/hospital/suraksha-hospitals-kukatpally
+87,Tanvir Hospital,"Srinagar Colony, Hyderabad",4.0,37.0,https://www.practo.com/hyderabad/hospital/nova-speciality-surgery-jubilee-hills
+88,Apollo Hospitals,"Jubilee Hills, Hyderabad",175.0,550.0,https://www.practo.com/hyderabad/hospital/apollo-hospitals-18-jubilee-hills
+89,Basant Sahney Hospital,"West Marredpally, Hyderabad",19.0,60.0,https://www.practo.com/hyderabad/hospital/basant-sahney-hospital-west-marredpally
+90,Udai Omni Hospital,"Chapel Road, Hyderabad",12.0,70.0,https://www.practo.com/hyderabad/hospital/udai-omini-hospital-for-advancedorthopaedics-trauma-nampally
+91,Prasad Hospital ,"Nacharam, Hyderabad",13.0,100.0,https://www.practo.com/hyderabad/hospital/prasad-hospital-nacharam
+92,Remedy Hospitals,"Kukatpally, Hyderabad",1.0,80.0,https://www.practo.com/hyderabad/hospital/remedy-super-specality-hospitals-kukatpally
+93,Shalivahana Multi Speciality Hospital,"Dilsukhnagar, Hyderabad",17.0,100.0,https://www.practo.com/hyderabad/hospital/shalivahana-hospitality-dilsukh-nagar
+94,Dr. Saji D'souza's KSAC Hospital,"Punjagutta, Hyderabad",3.0,40.0,https://www.practo.com/hyderabad/hospital/dr-saji-d-souza-s-ksac-hospitals-panjagutta-1
+95,Dr. P Siva Reddy Eye Hospital,"Himayat Nagar, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/dr-p-siva-reddy-eye-hospital-narayanguda
+96,Mythri Hospital,"Chanda Nagar, Hyderabad",11.0,150.0,https://www.practo.com/hyderabad/hospital/mythri-hospital-chanda-nagar
+97,Srinivasa Hospital,"Narayanguda, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/srinivasa-hospital-narayanguda
+98,"Aravind Eye Hospital, Mehdipatnam","Mehdipatnam, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/aravind-eye-hospital-mehdipatnam-mehdipatnam
+99,Jaya Bhushan Hospitals,"Mehdipatnam, Hyderabad",2.0,25.0,https://www.practo.com/hyderabad/hospital/jaya-bhushan-hospitals-pvt-ltd-mehdipatnam
+100,Amrita ENT Head and Neck Hospital,"KPHB, Hyderabad",3.0,3.0,https://www.practo.com/hyderabad/hospital/amrita-ent-head-and-neck-hospital-kukatpally
+101,Dr Raos Super Speciality ENT Hospital,"Punjagutta, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/dr-raos-super-speciality-ent-hospital-punjagutta
+102,Manju Sudha Multi speciality ,"Dilsukhnagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/manju-sudha-multi-speciality-dilsukh-nagar
+103,Majestic Hospital,"Langer House, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/majestic-hospital-langer-house
+104,Geetha Multi Speciality Hospital,"West Marredpally, Hyderabad",15.0,100.0,https://www.practo.com/hyderabad/hospital/geetha-multi-speciality-hospital-west-marredpally
+105,Sree Netralaya Eye Hospital,"Kothapet, Hyderabad",8.0,10.0,https://www.practo.com/hyderabad/hospital/sree-netralaya-eye-hospital-laser-centre-pvt-ltd-dilsukh-nagar
+106,"Nirmala Maternity, Orthopaedic And General Hospital","Mehdipatnam, Hyderabad",1.0,30.0,https://www.practo.com/hyderabad/hospital/nirmala-maternity-orthopaedic-and-general-hospital-mehdipatnam
+107,Sai Raghavendra Orthopaedic And Multispeciality Hospital,"Bowenpally, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/sai-raghavendra-orthopaedic-and-multispeciality-hospital-bowenpally
+108,Matrix Hospital,"Ramanthapur, Hyderabad",16.0,20.0,https://www.practo.com/hyderabad/hospital/matrix-hospital-ramanthapur-1
+109,Avis Hospitals,"Jubilee Hills, Hyderabad",11.0,20.0,https://www.practo.com/hyderabad/hospital/beams-hospitals
+110,Endo Viz Hospital,"Kukatpally, Hyderabad",1.0,75.0,https://www.practo.com/hyderabad/hospital/endo-wiz-kukatpally
+111,SMS ENT And Surgical Hospital,"Himayat Nagar, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/sms-ent-and-surgical-hospital-himayat-nagar
+112,Sri Srinivasa Hospital,"Santosh Nagar, Hyderabad",5.0,51.0,https://www.practo.com/hyderabad/hospital/sri-srinivasa-hospital-santosh-nagar
+113,Ozone Hospitals,"Dilsukhnagar, Hyderabad",9.0,250.0,https://www.practo.com/hyderabad/hospital/ozone-hospitals-dilsukh-nagar-2-1
+114,Apoorva Hospital,"Mehdipatnam, Hyderabad",33.0,20.0,https://www.practo.com/hyderabad/hospital/apoorva-hospital-mehdipatnam-1
+115,Hyderabad Multispeciality Hospital,"Malakpet, Hyderabad",3.0,60.0,https://www.practo.com/hyderabad/hospital/joint-replacements-and-advanced-orthopaedics-malakpet
+116,Lotus Hospital for Women and Childrens,"Lakdikapul, Hyderabad",16.0,150.0,https://www.practo.com/hyderabad/hospital/lotus-children-s-hospital-lakdikapul
+117,Paramitha Children Hospital,"Dilsukhnagar, Hyderabad",6.0,100.0,https://www.practo.com/hyderabad/hospital/paramitha-children-hospital-dilsukh-nagar
+118,CARE HOSPITAL ( GURUNANAK ) MUSHEERABAD,"Musheerabad, Hyderabad",32.0,90.0,https://www.practo.com/hyderabad/hospital/gurunanak-care-hospital-musheerabad
+119,Elbit Polyclinics Tarnaka,"Secunderabad, Hyderabad",29.0,56.0,https://www.practo.com/hyderabad/hospital/sri-narmada-hospital-gandhinagar
+120,Nova ENT Hospital,"Somajiguda, Hyderabad",4.0,30.0,https://www.practo.com/hyderabad/hospital/nova-ent-hospital-somajiguda-1
+121,Preetam Hospitals Specialized Maternity Care,"Manikonda, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/preetam-hospitals-specialized-maternity-care-manikonda
+122,"Lakshmi Hospital for Women, Children & Multispeciality","Madinaguda, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/lakshmi-hospital-women-children-multi-specialty-madinaguda
+123,Healing Touch Hospital,"West Marredpally, Hyderabad",9.0,,https://www.practo.com/hyderabad/hospital/healing-touch-hospital-secunderabad-1
+124,Adavally Damodar Reddy Memorial Hospital - Hyderabad,"Ramanthapur, Hyderabad",9.0,,https://www.practo.com/hyderabad/hospital/a-d-r-m-hospital-ramanthapur
+125,Shreyas Multi Speciality Hospital,"Kapra, Hyderabad",13.0,,https://www.practo.com/hyderabad/hospital/shreyas-multi-speciality-hospital-kapra
+126,Sathya Kidney Centre & Super Speciality Hospitals,"Himayat Nagar, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/satya-kidney-center-himayat-nagar
+127,Shalini Hospital,"Barkatpura, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/shalini-hospital-barkatpura
+128,Challa Hospitals,"Ameerpet, Hyderabad",27.0,100.0,https://www.practo.com/hyderabad/hospital/challa-hospital-ameerpet-2
+129,Vikram Hospital,"Madhapur, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/vikram-hospital-madhapur-1
+130,BBR Super Speciality Hospital,"Balanagar, Hyderabad",26.0,175.0,https://www.practo.com/hyderabad/hospital/bbr-hospital-balanagar-1
+131,Archana Hospitals,"Madinaguda, Hyderabad",12.0,100.0,https://www.practo.com/hyderabad/hospital/archana-hospital-ent-centre
+132,Venus Hospital,"Malakpet, Hyderabad",11.0,100.0,https://www.practo.com/hyderabad/hospital/venus-multi-speciality-hospital-malakpet
+133,Sai Siva Children Hospital,"Chanda Nagar, Hyderabad",6.0,30.0,https://www.practo.com/hyderabad/hospital/sai-siva-children-hospital-chanda-nagar
+134,S V Pooja Hospital,"Hyder Nagar, Hyderabad",3.0,50.0,https://www.practo.com/hyderabad/hospital/s-v-pooja-hospital-kukatpally
+135,Rohan Hospital,"Mehdipatnam, Hyderabad",3.0,35.0,https://www.practo.com/hyderabad/hospital/rohan-hospital-vijay-nagar-colony
+136,Soorya Orthopaedic Hospital,"Ecil, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/soorya-orthopaedic-hospital-ecil
+137,Aries Maternity Hospital,"Mehdipatnam, Hyderabad",2.0,35.0,https://www.practo.com/hyderabad/hospital/aries-meternity-hospital-asif-nagar
+138,Konaseema Hospitals,"Kukatpally, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/konaseema-hospitals-kukatpally
+139,BSR ENT And Eye Hospital,"Secunderabad, Hyderabad",3.0,10.0,https://www.practo.com/hyderabad/hospital/bsr-ent-and-eye-nursing-home-secunderabad
+140,Aditya Hospital,"Uppal, Hyderabad",32.0,200.0,https://www.practo.com/hyderabad/hospital/aditya-hospitals-uppal-karkhana
+141,Xenia Hospital,"Ecil, Hyderabad",11.0,100.0,https://www.practo.com/hyderabad/hospital/xenia-hospital-ecil
+142,Sri Sai Ram Hospital,"Langer House, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/sri-sai-ram-hospital-langer-house
+143,Madhuri Hospital,"Yousufguda, Hyderabad",5.0,10.0,https://www.practo.com/hyderabad/hospital/madhuri-hospital-yousufguda-1
+144,Vivekananda Hospital,"Begumpet, Hyderabad",10.0,102.0,https://www.practo.com/hyderabad/hospital/vivekananda-hospital-begumpet-begumpet
+145,Dr Naveen Reddy's General Hospital,"Moti Nagar, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/dr-naveen-reddy-s-general-hospital-moti-nagar
+146,Kiran-swetha children hospital,"Chanda Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/kiran-swetha-children-hospital-chanda-nagar3
+147,Srikara Hospitals,"Secunderabad, Hyderabad",11.0,100.0,https://www.practo.com/hyderabad/hospital/barli-orthopaedic-clinic-kanakpura-road
+148,Orient Eye Hospital,"Mehdipatnam, Hyderabad",2.0,5.0,https://www.practo.com/hyderabad/hospital/omega-eye-hospital-mehdipatnam
+149,Shri Adithya Hospitals,"Ecil, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/shri-adithya-hospitals-dammaiguda-main-road-ecil
+150,Thatha Hospital,"Kapra, Hyderabad",19.0,100.0,https://www.practo.com/hyderabad/hospital/thatha-hospital-kapra
+151,Redefine Plastic and Cosmetic Surgery Center,"Kothapet, Hyderabad",2.0,5.0,https://www.practo.com/hyderabad/hospital/redefine-plastic-surgery-center-kothapet
+152,Shree Hospital,"Baghlingampally, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/shree-hospital-baghlingampally
+153,Secunderabad Women's Hospital,"Ranigunj, Hyderabad",1.0,25.0,https://www.practo.com/hyderabad/hospital/secunderabad-women-s-hospital-secunderabad
+154,Pavan Sai Hospital,"LB Nagar, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/pavan-sai-hospital-nagole
+155,Nethra Eye Institute(A Unit OfS owrya Hospitals),"Ameerpet, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/nethra-eye-institute-ameerpet
+156,Sainath Hospital,"Ameerpet, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/sainath-hospital-ameerpet-1
+157,Dr.Gowds Dental Hospitals,"Banjara Hills, Hyderabad",9.0,,https://www.practo.com/hyderabad/hospital/dr-gowd-s-dental-banjara-hills
+158,Matrika Hospital,"Somajiguda, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/matrika-hospital-somajiguda-1
+159,Asian Institute Of Nephrology & Urology,"Somajiguda, Hyderabad",9.0,100.0,https://www.practo.com/hyderabad/hospital/asian-institute-of-nephrology-urology
+160,Saluja Hospital,"Secunderabad, Hyderabad",9.0,50.0,https://www.practo.com/hyderabad/hospital/saluja-hospital-secunderabad
+161,Leela Hospital,"Moti Nagar, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/leela-hospital-moti-nagar
+162,G.B.R. Hospital Multispeciality,"Dilsukhnagar, Hyderabad",8.0,,https://www.practo.com/hyderabad/hospital/g-b-r-hospital-multispeciality-dilsukh-nagar
+163,Navodaya Nursing Home,"Amberpet, Hyderabad",3.0,20.0,https://www.practo.com/hyderabad/hospital/navodaya-nursing-home-nallakunta
+164,Lakshmi Sailaja Hospital,"Suchitra Circle, Hyderabad",2.0,30.0,https://www.practo.com/hyderabad/hospital/lakshmi-sailaja-hospital-suchitra-circle
+165,Sadhuram Eye Hospital,"Domalguda, Hyderabad",9.0,,https://www.practo.com/hyderabad/hospital/sadhuram-eye-hospital-domalguda
+166,Vijaya Sree Hospital,"Chanda Nagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/vijaya-sree-hospital-chanda-nagar
+167,Healix Hospitals,"Madinaguda, Hyderabad",4.0,100.0,https://www.practo.com/hyderabad/hospital/healix-hospital-madinaguda-1
+168,Human Touch Hospital ,"Attapur, Hyderabad",1.0,90.0,https://www.practo.com/hyderabad/hospital/dr-jawad-khan-orthopedic-clinic-attapur
+169,Advanced Endocrine & Diabetes Hospital & Research Center,"KPHB, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/advanced-endocrine-diabetes-hospital-and-research-center-kphb
+170,Usha Mohan Hospitals,"Attapur, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/usha-mohan-hospitals-hyderguda
+171,B. V. K. Reddy  Hospital,"Warasiguda, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/b-v-k-reddy-hospital-padmarao-nagar
+172,People's Hospital,"Pragathi Nagar, Hyderabad",4.0,5.0,https://www.practo.com/hyderabad/hospital/people-s-hospital-kukatpally
+173,Hyderabad Nursing Home,"Basheerbagh, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/hyderabad-nursing-home-basheerbagh
+174,Shilpa Nursing Home,"Miyapur, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/shilpa-nursing-home-miyapur
+175,Shenoy Nursing Home,"East Marredpally, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/shenoy-nursing-home-secunderabad
+176,KIMS - Krishna Institute of Medical Sciences,"Secunderabad, Hyderabad",163.0,1000.0,https://www.practo.com/hyderabad/hospital/krishna-institute-of-medical-sciences-kims-secunderabad
+177,Mahatma Sri Ramachandra Centenary Memorial Hospital,"Vijaynagar Colony, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/mahatma-sri-ramachandra-centenary-memorial-hospital-vijay-nagar-colony
+178,Magna Code,"Jubilee Hills, Hyderabad",6.0,5.0,https://www.practo.com/hyderabad/hospital/magnacode-jubilee-hills
+179,Oarchid Hospital,"Kothapet, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/orchid-hospital-dilsukh-nagar
+180,L K Hospital,"Malkajgiri, Hyderabad",10.0,50.0,https://www.practo.com/hyderabad/hospital/l-k-healthcare-malkajgiri
+181,Sai Sanjeevini Hospitals,"Kothapet, Hyderabad",17.0,120.0,https://www.practo.com/hyderabad/hospital/sai-sanjeevini-hospitals-kothapet
+182,Manas Eye Hospital,"Moti Nagar, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/manas-eye-hospital-moti-nagar-1
+183,Apollo Hospital,"Secunderabad, Hyderabad",5.0,150.0,https://www.practo.com/hyderabad/hospital/apollo-sugar-clinic-2-secunderabad
+184,Basavatarakam Indo American Cancer Hospital & Research Institute,"Banjara Hills, Hyderabad",26.0,,https://www.practo.com/hyderabad/hospital/basavatarakam-indo-american-cancer-hospital-research-institute-banjara-hills-1
+185,Maxivision Eye Hospital,"Somajiguda, Hyderabad",6.0,20.0,https://www.practo.com/hyderabad/hospital/maxivision-eye-hospital-somajiguda
+186,Sri Devi Maternity & Nursing Home,"Warasiguda, Hyderabad",11.0,50.0,https://www.practo.com/hyderabad/hospital/sridevi-nursing-home-warasiguda
+187,NH Malla Reddy Narayan Multispeciality Hospital,"Jeedimetla, Hyderabad",10.0,250.0,https://www.practo.com/hyderabad/hospital/narayana-health-hospital-jeedimetla
+188,Cure Multispeciality Hospital,"Padmarao Nagar, Hyderabad",3.0,10.0,https://www.practo.com/hyderabad/hospital/cure-multispeciality-hospital-padmarao-nagar
+189,GSN Hospital,"Ameerpet, Hyderabad",3.0,10.0,https://www.practo.com/hyderabad/hospital/gsn-hospital-sr-nagar1
+190,V CareMulti Speciality Hospital,"Ameerpet, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/v-caremulti-speciality-hospital-ameerpet
+191,S.V.K. Hospital,"Jeedimetla, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/s-v-k-hospital-jeedimetla
+192,Sakhi Maternity & General Care,"Vanasthalipuram, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/sakhi-maternity-general-care-vanasthalipuram
+193,Swarup Eye Centre -Banjara Hills,"Banjara Hills, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/swarup-eye-centre-banjara-hills-banjara-hills
+194,Life Line Hospital,"Chandrayangutta, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/life-line-hospital-chandrayangutta
+195,Micro Care Skin and ENT Hospital,"Jubilee Hills, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/micro-care-skin-an-ent-care-banjara-hills
+196,Russh Super Specialty Hospital,"Suchitra Circle, Hyderabad",22.0,150.0,https://www.practo.com/hyderabad/hospital/russh-hospital-1-bowenpally
+197,Seha Hospital,"Khairatabad, Hyderabad",8.0,,https://www.practo.com/hyderabad/hospital/seha-hospital-khairatabad
+198,Happy Children's Hospital,"Chanda Nagar, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/happy-children-s-hospital-chanda-nagar
+199,Haritha Hospitals,"Kothaguda, Hyderabad",10.0,30.0,https://www.practo.com/hyderabad/hospital/haritha-hospitals-kondapur
+200,Suraksha Children Hospital,"Tarnaka, Hyderabad",21.0,50.0,https://www.practo.com/hyderabad/hospital/suraksha-children-s-clinic-tarnaka
+201,Parvathi Hospital,"Secunderabad, Hyderabad",10.0,50.0,https://www.practo.com/hyderabad/hospital/parvathi-hospitals-secunderabad
+202,SLMS  Hospital,"Nagole, Hyderabad",1.0,6.0,https://www.practo.com/hyderabad/hospital/slms-hospital-nagole
+203,Yashoda Hospital,"Secunderabad, Hyderabad",51.0,500.0,https://www.practo.com/hyderabad/hospital/yashoda-hospital-19-secunderabad-1
+204,Sri Venkata Sai Nursing Home,"Dilsukhnagar, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/sri-venkata-sai-nursing-home-dilsukh-nagar
+205,Care Hospitals,"Secunderabad, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/care-hospitals-secunderabad
+206,"Radiant Hospital - Institute of Mental Health, Addiction & Rehabilitation","Banjara Hills, Hyderabad",4.0,20.0,https://www.practo.com/hyderabad/hospital/oxygen-institute-of-psychiatry-banjara-hills
+207,Geeta Clinic & Maternity Home,"Barkatpura, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/geeta-clinic-maternity-home-barkatpura-1
+208,Witus Hospital,"Habsiguda, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/witus-hospital-habsiguda
+209,Sree Maruthi Nursing Home,"West Marredpally, Hyderabad",19.0,50.0,https://www.practo.com/hyderabad/hospital/sree-maruthi-nursing-home-west-marredpally
+210,Tulasi Hospitals,"Kushaiguda, Hyderabad",3.0,100.0,https://www.practo.com/hyderabad/hospital/tulasi-hospital-kushaiguda
+211,DR A S Rao Nagar Nursing Home,"AS Rao Nagar, Hyderabad",3.0,20.0,https://www.practo.com/hyderabad/hospital/dr-a-s-rao-nagar-nursing-home-ecil
+212,Azam Hospital,"Old City, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/azam-hospital-puranapool
+213,Sai Shourya's Test Tube Baby Centre,"Kukatpally, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/sai-shourya-hospital-kphb
+214,Vijaya Marie Hospital,"Attapur, Hyderabad",1.0,6.0,https://www.practo.com/hyderabad/hospital/vijaya-marie-hospital-attapur
+215,Kaba Hospital,"Tolichowki, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/kaba-hospital-tolichowki
+216,Centre For Sight Superspeciality Eye Hospital,"Banjara Hills, Hyderabad",9.0,10.0,https://www.practo.com/hyderabad/hospital/centre-for-sight-superspeciality-eye-hospital-banjara-hills-1
+217,Livlife Hospitals,"Jubilee Hills, Hyderabad",4.0,40.0,https://www.practo.com/hyderabad/hospital/livlife-hospitals-jubilee-hills-1
+218,Ankura Children's Hospital,"Madinaguda, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/ankura-childrens-hospital-madinaguda-madinaguda
+219,Chaitaya hospital,"Vanasthalipuram, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/chaitanya-hospital-vanasthalipuram
+220,Bhavya Multispeciality Hospital,"Nagole, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/bhavya-multispeciality-hospital-nagole
+221,Prashanthi Ortho & Maternity Hospital,"Malkajgiri, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/prashanthi-ortho-maternity-hospital-malkajgiri
+222,Safe Mother & Child Hospital,"Champapet, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/safe-mother-child-hospital-champapet
+223,Vijay Hospital,"Vanasthalipuram, Hyderabad",8.0,,https://www.practo.com/hyderabad/hospital/vijay-hospital-vanasthalipuram
+224,Sridhar Multi Speciality Hospital,"Santosh Nagar, Hyderabad",3.0,100.0,https://www.practo.com/hyderabad/hospital/sridhar-multispeciality-hospital-santosh-nagar
+225,Sai Bharadwaja Advanced Ayurveda Hospital,"Erragadda, Hyderabad",5.0,10.0,https://www.practo.com/hyderabad/hospital/sai-bharadwaja-advanced-ayurveda-hospital-erragadda
+226,3M People's Hospital,"Tolichowki, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/3m-people-s-hospital-tolichowki
+227,Narmada Test Tube Baby & Laproscopy Center,"East Marredpally, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/narmada-test-tube-baby-laproscopy-center-east-marredpally
+228,Challa Dental Wing,"Ameerpet, Hyderabad",1.0,3.0,https://www.practo.com/hyderabad/hospital/challa-dental-wing-ameerpet
+229,Bhaskara Hospital,"SR Nagar, Hyderabad",4.0,10.0,https://www.practo.com/hyderabad/hospital/bhaskara-hospital-ameerpet
+230,Rise Childrens Hospital,"Attapur, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/rise-childrens-hospital-attapur
+231,GNR Multi Speciality Hospital,"Alwal, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/gnr-multi-speciality-hospital-alwal
+232,Healing Touch Hospital,"Mehdipatnam, Hyderabad",8.0,5.0,https://www.practo.com/hyderabad/hospital/khans-healing-touch-hospital-asif-nagar
+233,Neelima Hospital,"Erragadda, Hyderabad",14.0,70.0,https://www.practo.com/hyderabad/hospital/neelima-hospital-moti-nagar
+234,Wellness Hospital,"Ameerpet, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/wellness-hospital-ameerpet
+235,St. Theresa Hospital,"Erragadda, Hyderabad",11.0,150.0,https://www.practo.com/hyderabad/hospital/st-theresa-hospital-erragadda-1
+236,Vasan Eye Hospital,"Begumpet, Hyderabad",12.0,20.0,https://www.practo.com/hyderabad/hospital/vasan-eye-clinic-begumpet-begumpet
+237,Fernandez Hospital,"Hyderguda, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/narmada-children-s-hospital-hyderabad
+238,Jayakrishna Hospital,"Ramanthapur, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/shree-jayakrishna-hospital-ramanthapur
+239,Sri Sai Kamala Hospital,"Dilsukhnagar, Hyderabad",13.0,50.0,https://www.practo.com/hyderabad/hospital/sri-sai-kamala-hospital-dilsukh-nagar
+240,Pulse Hospital,"Padmarao Nagar, Hyderabad",1.0,51.0,https://www.practo.com/hyderabad/hospital/pulse-hospital-padmarao-nagar
+241,People's Health Care Hospital,"Secunderabad, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/people-s-health-care-hospital-secunderabad
+242,Mantra Kerali Ayurvedic Hospital,"Saroor Nagar, Hyderabad",26.0,5.0,https://www.practo.com/hyderabad/hospital/mantra-kerali-ayurvedic-hospital-champapet
+243,Sri Sai Balaji Hospital,"Nagole, Hyderabad",5.0,15.0,https://www.practo.com/hyderabad/hospital/sri-sai-balaji-hospital-lb-nagar
+244,Poulomi Hospital,"Kapra, Hyderabad",1.0,120.0,https://www.practo.com/hyderabad/hospital/poulomi-hospital-kapra
+245,Sai Preethi Life Line Hospital & Diagnostics,"Mehdipatnam, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/sai-preethi-life-line-hospital-diagnostics-mehdipatnam
+246,Krishna Hospital,"Karmanghat, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/krishna-hospital-karmanghat
+247,New National Hospital,"Santosh Nagar, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/new-national-hospital-yakutpura
+248,Mahesh Hospital  And Research Foundation,"Himayat Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/mahesh-hospital-and-research-foundation-himayat-nagar-1
+249,Siva Eye Hospital,"Dilsukhnagar, Hyderabad",5.0,10.0,https://www.practo.com/hyderabad/hospital/shiva-eye-clinic-dilsukh-nagar
+250,Lazarus Hospital,"Khairatabad, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/lazarus-hospital-khairatabad
+251,KIMS Bibi Hospital,"Malakpet, Hyderabad",1.0,150.0,https://www.practo.com/hyderabad/hospital/bibi-cancer-hospital-malakpet
+252,Bristle Cone Hospital,"Barkatpura, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/bristle-cone-hospital-barkatpura
+253,Maxivision Super Speciality Eye Hospital,"Madhapur, Hyderabad",8.0,,https://www.practo.com/hyderabad/hospital/maxivision-super-speciality-eye-hospital-madhapur
+254,Sigma Hospital ,"Jeedimetla, Hyderabad",1.0,150.0,https://www.practo.com/hyderabad/hospital/sigma-hospital-hyderabad
+255,Aware Global Hospital,"Sagar Road, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/aware-global-hospital-sagar-road
+256,Sowmya Childrens Hospital,"SR Nagar, Hyderabad",2.0,25.0,https://www.practo.com/hyderabad/hospital/sowmya-childrens-hospital-sr-nagar
+257,Raghavendra Orthopaedic and Multispeciality Hospital,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/raghavendra-orthopedic-and-multi-speciality-hospital-secunderabad
+258,Kishan Rao Hospital,"Tilak Nagar, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/kishan-rao-hospital-tilak-nagar
+259,Ananda Hospital,"LB Nagar, Hyderabad",57.0,10.0,https://www.practo.com/hyderabad/hospital/ananda-hospital-lb-nagar
+260,Vascular Care Centre,"Raj Bhavan Road, Hyderabad",8.0,10.0,https://www.practo.com/hyderabad/hospital/vascular-care-centre-raj-bhavan-road
+261,Yashoda Hospital,"Malakpet, Hyderabad",11.0,500.0,https://www.practo.com/hyderabad/hospital/yashoda-hospitals-malakpet-2
+262,Apple Hospitals,"Yakutpura, Hyderabad",8.0,50.0,https://www.practo.com/hyderabad/hospital/apple-multi-speciality-hospital-yakutpura
+263,Little Stars Children's Hospital,"Panjagutta, Hyderabad",13.0,100.0,https://www.practo.com/hyderabad/hospital/little-stars-childrens-hospital-panjagutta
+264,Swapna Healthcare - Miyapur,"Miyapur, Hyderabad",8.0,50.0,https://www.practo.com/hyderabad/hospital/swapna-health-care-kukatpally
+265,"Ankura Hospitals, Begumpet","Begumpet, Hyderabad",3.0,80.0,https://www.practo.com/hyderabad/hospital/ankura-hospitals-begumpet-begumpet
+266,Krishnaveni Hospital,"Hayathnagar, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/krishnaveni-hospital-hayathnagar
+267,Madhava Multispeciality Hospital,"Secunderabad, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/madhava-multispeciality-hospital-secunderabad
+268,Abhinav Orthopaedic Hospital,"Dilsukhnagar, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/abhinav-orthopaedic-hospital-dilsukh-nagar
+269,Nimra Hospital,"Falaknuma, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/nimra-multispeciality-hospital-falaknuma
+270,Pushpa Maternity And Nursing Home,"Malakpet, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/pushpa-maternity-and-nursing-home-malakpet
+271,Sri Bhargavi Hospital,"Moti Nagar, Hyderabad",7.0,15.0,https://www.practo.com/hyderabad/hospital/sri-bhargavi-hospital-moti-nagar
+272,Tilaknagar Hospital,"Amberpet, Hyderabad",4.0,25.0,https://www.practo.com/hyderabad/hospital/tilak-nagar-hospital-tilak-nagar
+273,Navjeevan Hospitals,"Secunderabad, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/navjeevan-hospitals-secunderabad
+274,"MANKINDD - The Gastro, Liver & Pancreas Centre","Himayat Nagar, Hyderabad",2.0,25.0,https://www.practo.com/hyderabad/hospital/mankindd-gastro-liver-pancreas-centre-himayat-nagar
+275,Marvel Maternity And Nursing Home,"Chandrayangutta, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/marvel-maternity-and-nursing-home-chandrayangutta
+276,Legend Hospital,"Hayathnagar, Hyderabad",10.0,20.0,https://www.practo.com/hyderabad/hospital/legend-hospital-hayathnagar-1
+277,Shreyas Hospital ,"Ecil, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/shreyas-hospital-kapra
+278,Mohammedi Memorial Hospital,"Attapur, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/mohammedi-memorial-hospital-kishanbagh
+279,Ankura Children's Hospitals,"AS Rao Nagar, Hyderabad",4.0,100.0,https://www.practo.com/hyderabad/hospital/ankura-hospitals-as-rao-nagar-as-rao-nagar-1
+280,Maxi Vision Super Speciality Eye Hospital,"Dilsukhnagar, Hyderabad",4.0,15.0,https://www.practo.com/hyderabad/hospital/maxivision-hospital-dilsukh-nagar
+281,Sri Ramakrishna Hospital,"Kachiguda, Hyderabad",4.0,15.0,https://www.practo.com/hyderabad/hospital/sri-ramakrishna-hospital-maternity-speciality-nursing-home-kachiguda
+282,Sri Balaji Nursing Home,"Uppal, Hyderabad",1.0,30.0,https://www.practo.com/hyderabad/hospital/sri-balaji-nursing-home-uppal
+283,Sri Tirumala Maternity & Nursing Home,"Vidyanagar, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/sri-venkataramana-nursing-home-padmarao-nagar
+284,M M Hospital & Maternity Centre,"Mehdipatnam, Hyderabad",2.0,30.0,https://www.practo.com/hyderabad/hospital/m-m-hospital-maternity-centre-mehdipatnam
+285,ADRM Multispeciality Hospital,"Ramanthapur, Hyderabad",5.0,,https://www.practo.com/hyderabad/hospital/adrm-multispeciality-hospital-ramanthapur
+286,Saicharan Hospital,"Ramanthapur, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/saicharan-hospital-ramanthapur
+287,G.S.R Hospitals,"Saidabad, Hyderabad",3.0,,https://www.practo.com/hyderabad/hospital/g-s-r-hospitals-saidabad
+288,Suncity Nursing Home,"Langer House, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/suncity-nursing-home-langer-house
+289,Saaol Heart Center,"Himayat Nagar, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/saaol-heart-centre-himayat-nagar
+290,Unik Care Hospital,"Mallepally, Hyderabad",47.0,20.0,https://www.practo.com/hyderabad/hospital/unik-care-hospital-mallepally
+291,Swetha Hospital,"Khairatabad, Hyderabad",1.0,12.0,https://www.practo.com/hyderabad/hospital/swetha-hospital-khairatabad
+292,Sri Nitya Hospitals,"Vanasthalipuram, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/sri-nitya-hospitals-vanasthalipuram
+293,Bhaskara Hospital,"Jeedimetla, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/bhaskara-hospital-jeedimetla
+294,Citizens Specialty Hospitals,"Lingampally, Hyderabad",7.0,250.0,https://www.practo.com/hyderabad/hospital/citizens-hospital-lingampally-4
+295,Vijaya Vamsi Hospital,"Somajiguda, Hyderabad",14.0,10.0,https://www.practo.com/hyderabad/hospital/vijaya-vamsi-hospital-punjagutta
+296,Apollo Hospitals,"Jubilee Hills, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/apollohospitals-jubilee-hills-1
+297,Princess Durru Shehvar Hospital - Porani Haveli,"Charminar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/princess-durru-shehvar-hospital-porani-haveli-charminar
+298,Swapna Hospital,"Dilsukhnagar, Hyderabad",14.0,59.0,https://www.practo.com/hyderabad/hospital/swapna-hospitals-dilsukh-nagar-1
+299,Datta Saanvi Hospitals,"Old Bowenpally, Hyderabad",1.0,25.0,https://www.practo.com/hyderabad/hospital/datta-saanvi-hospitals-secunderabad
+300,Jeevan Sai Hospital,"Vanasthalipuram, Hyderabad",53.0,15.0,https://www.practo.com/hyderabad/hospital/jeevan-sai-hospital-vanasthalipuram
+301,Sri Venkateswara Ayurvedic Hospital,"Yousufguda, Hyderabad",5.0,10.0,https://www.practo.com/hyderabad/hospital/sri-venkateswara-ayurvedic-hospital-yousufguda
+302,Kamineni Hospitals,"King Koti, Hyderabad",1.0,150.0,https://www.practo.com/hyderabad/hospital/kamineni-hospitals-hyderguda-1
+303,Aarogya Hospital,"Nampally, Hyderabad",3.0,30.0,https://www.practo.com/hyderabad/hospital/aarogya-hospital-hyderabad
+304,Yashoda Hospital,"Somajiguda, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/yashoda-hospital-19-somajiguda-1
+305,Zoi Hospitals,"Somajiguda, Hyderabad",1.0,104.0,https://www.practo.com/hyderabad/hospital/zoi-hospitals-somajiguda-2
+306,Hyderabad Urology And Andrology Center,"Kothapet, Hyderabad",1.0,25.0,https://www.practo.com/hyderabad/hospital/hyderabad-urology-and-andrology-center-kothapet
+307,Abhaya BBC Children Hopsital,"Vidyanagar, Hyderabad",32.0,,https://www.practo.com/hyderabad/hospital/abhaya-bbc-children-hopsital-vidyanagar
+308,"Dr. Sreedhar's Kidney, Gyn and IVF Hospital","Mehdipatnam, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/dr-sreedhar-s-kidney-gyn-and-ivf-hospital-mehdipatnam
+309,Mother  And  Child Clinic,"Malakpet, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/mother-and-child-clinic-malakpet
+310,Githa Nature Cure & Yoga Hospital,"Kothapet, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/githa-nature-cure-yoga-hospital-dilsukh-nagar
+311,Thumbay Hospital New Life,"Malakpet, Hyderabad",5.0,150.0,https://www.practo.com/hyderabad/hospital/thumbay-hospital-new-life-malakpet
+312,KS Hospital,"Old Bowenpally, Hyderabad",21.0,,https://www.practo.com/hyderabad/hospital/ks-hospital-old-bowenpally
+313,Venus Mother & Child Hospital,"Lal Bazaar, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/venus-hospital-trimulgherry
+314,Amrutha Hospital,"Vidyanagar, Hyderabad",38.0,10.0,https://www.practo.com/hyderabad/hospital/amrutha-hospital-vidyanagar
+315,New Life Line Multi speciality Hospital,"Kapra, Hyderabad",4.0,25.0,https://www.practo.com/hyderabad/hospital/new-life-line-multi-speciality-hospital-kapra
+316,Virinchi Hospitals,"Banjara Hills, Hyderabad",1.0,600.0,https://www.practo.com/hyderabad/hospital/virinchi-hospitals-banjara-hills-1
+317,Sudha Hospitals,"Malkajgiri, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/sudha-hospitals-malkajgiri
+318,Maxcure Hospitals,"Saifabad, Hyderabad",7.0,200.0,https://www.practo.com/hyderabad/hospital/maxcure-hospitals-1-adarsh-nagar
+319,Srinivasa Hospital,"Hayathnagar, Hyderabad",1.0,30.0,https://www.practo.com/hyderabad/hospital/srinivasa-hospital-1-hayathnagar
+320,Nandini Hospitals,"Sainikpuri, Hyderabad",3.0,30.0,https://www.practo.com/hyderabad/hospital/nandini-hospitals-sainikpuri
+321,Prerana Hospital ,"Kukatpally, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/prerana-hospital-kukatpally
+322,Navodaya Hospitals,"Secunderabad, Hyderabad",9.0,50.0,https://www.practo.com/hyderabad/hospital/navodaya-hospital-for-women-and-children-paradise
+323,SVK Hospital,"Jeedimetla, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/svk-hospital-jeedimetla
+324,Raksha Hospital,"LB Nagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/raksha-hospital-lb-nagar
+325,Susheela Hospital,"Ramanthapur, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/susheela-hospital-ramanthapur
+326,Vignesh Nursing Home,"Kukatpally, Hyderabad",25.0,30.0,https://www.practo.com/hyderabad/hospital/vignesh-nursing-home-kukatpally-1
+327,Sushrutha Hospital,"SR Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sushrutha-hospital-sr-nagar
+328,Sunrich Hospital,"Erragadda, Hyderabad",11.0,,https://www.practo.com/hyderabad/hospital/sunrich-hospital-erragadda
+329,Bhagyalatha Hospital - Eye Unit,"Vanasthalipuram, Hyderabad",12.0,15.0,https://www.practo.com/hyderabad/hospital/bhagyalatha-hospital-eye-unit-vanasthalipuram
+330,Srikara Hospitals,"Miyapur, Hyderabad",2.0,200.0,https://www.practo.com/hyderabad/hospital/srikara-hospitals-mythri-nagar-madinaguda-miyapur-miyapur
+331,Retreat Hospital,"Malakpet, Hyderabad",5.0,20.0,https://www.practo.com/hyderabad/hospital/retreat-hospital-malakpet
+332,Sharada Eye Care,"Vanasthalipuram, Hyderabad",43.0,,https://www.practo.com/hyderabad/hospital/sharada-eye-care-vanasthalipuram
+333,Swasa Hospital,"Himayat Nagar, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/swasa-hospital-himayat-nagar
+334,Neelima Hospital,"Sanath Nagar, Hyderabad",1.0,150.0,https://www.practo.com/hyderabad/hospital/neelima-hospitals-sanath-nagar
+335,Konark Hospital,"Jeedimetla, Hyderabad",11.0,100.0,https://www.practo.com/hyderabad/hospital/konark-hospital-3-jeedimetla
+336,Lahari Super Speciality Dental Hospital,"Nizampet, Hyderabad",20.0,,https://www.practo.com/hyderabad/hospital/lahari-super-speciality-dental-hospital-kukatpally
+337,"Dental & Maxillofacial Surgery Centre , Apollo DRDO Hospital","Kanchanbagh, Hyderabad",3.0,,https://www.practo.com/hyderabad/hospital/apollo-dental-and-maxillofacial-surgery-centre-kanchanbagh
+338,Olive Hospital,"Mehdipatnam, Hyderabad",12.0,100.0,https://www.practo.com/hyderabad/hospital/olive-hospital-mehdipatnam-3-mehdipatnam
+339,Vasan Eye Care (Dilsukh Nagar),"Dilsukhnagar, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/vasan-eye-care-dilsukh-nagar-dilsukh-nagar
+340,Sudha Nursing Home,"Safilguda, Hyderabad",7.0,25.0,https://www.practo.com/hyderabad/hospital/sudha-nursing-home-1-ecil
+341,Medisys Hospitals,"LB Nagar, Hyderabad",2.0,250.0,https://www.practo.com/hyderabad/hospital/medisys-hospitals-lb-nagar-1
+342,Apollo Spectra Hospital,"Kothaguda, Hyderabad",5.0,21.0,https://www.practo.com/hyderabad/hospital/apollo-spectra-hospital-6-kothaguda
+343,Smile Miles Dental Hospital,"Begumpet, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/smile-miles-dental-hospital-begumpet-1
+344,Birthright By Rainbow,"Banjara Hills, Hyderabad",6.0,150.0,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-4-banjara-hills
+345,Rainbow Children's Hospital,"Madhapur, Hyderabad",4.0,25.0,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-5-madhapur-2
+346,Swathi Hospital,"Banjara Hills, Hyderabad",4.0,30.0,https://www.practo.com/hyderabad/hospital/swathi-hospital-banjara-hills
+347,Centre for Sight - Kukatpally,"Kukatpally, Hyderabad",9.0,,https://www.practo.com/hyderabad/hospital/center-for-sight-kukatpally
+348,Birthright By Rainbow,"Vikrampuri Colony, Hyderabad",5.0,60.0,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-birthright-by-rainbow-vikrampuri-colony
+349,Rainbow Children's Hospital,"Hyder Nagar, Hyderabad",6.0,80.0,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-5-hyder-nagar
+350,Femina Womens Hospital,"Banjara Hills, Hyderabad",3.0,50.0,https://www.practo.com/hyderabad/hospital/femina-women-s-hospital-banjara-hills
+351,Birthright By Rainbow,"Madhapur, Hyderabad",8.0,,https://www.practo.com/hyderabad/hospital/rainbow-children-s-clinic-rainbow-birthright-clinic-madhapur
+352,Pumega Hospital	,"Erragadda, Hyderabad",15.0,,https://www.practo.com/hyderabad/hospital/pumega-hospital-erragadda
+353,Rise Children Hospital ,"Mehdipatnam, Hyderabad",7.0,100.0,https://www.practo.com/hyderabad/hospital/rise-children-hospital-mehdipatnam-1
+354, Vivek Hospital ,"Saidabad, Hyderabad",57.0,,https://www.practo.com/hyderabad/hospital/vivek-hospital-saidabad-1
+355,Innova Hospital And Research Centre,"Tarnaka, Hyderabad",13.0,100.0,https://www.practo.com/hyderabad/hospital/innova-hospital-tarnaka-1
+356,Max Vision Eye Hospital,"Kukatpally, Hyderabad",7.0,10.0,https://www.practo.com/hyderabad/hospital/max-vision-eye-hospital-kukatpally
+357,Induss Hospital,"Dilsukhnagar, Hyderabad",35.0,100.0,https://www.practo.com/hyderabad/hospital/induss-hospital-dilsukh-nagar
+358,American Oncology Institute,"Lingampally, Hyderabad",8.0,50.0,https://www.practo.com/hyderabad/hospital/american-oncology-institute-lingampally
+359,Rainbow Children's Hospital,"Vikrampuri Colony, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-5-vikrampuri-colony
+360,The Deccan Hospital,"Somajiguda, Hyderabad",1.0,200.0,https://www.practo.com/hyderabad/hospital/the-deccan-hospital-somajiguda
+361,Rainbow Children's Hospital,"Banjara Hills, Hyderabad",1.0,70.0,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-5-banjara-hills
+362,Birthright By Rainbow,"Kondapur, Hyderabad",43.0,40.0,https://www.practo.com/hyderabad/hospital/birthright-by-rainbow-kondapur-1-kondapur
+363,Apollo Hospital,"Hyderguda, Hyderabad",14.0,200.0,https://www.practo.com/hyderabad/hospital/apollo-sugar-clinic-2-hyderguda
+364,Birthright By Rainbow,"Hyder Nagar, Hyderabad",17.0,80.0,https://www.practo.com/hyderabad/hospital/rainbow-children-s-hospital-birthright-by-rainbow-hyder-nagar
+365,Dathu Ayurvedam,"KPHB, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/dattu-ayurvedam-hyderabad
+366,Add Life Hospitals,"Kukatpally, Hyderabad",9.0,15.0,https://www.practo.com/hyderabad/hospital/add-life-hospital-kukatpally
+367,Disha Childrens Hospital,"Vanasthalipuram, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/disha-childrens-hospital-nagole
+368,Woodlands Hospital,"Barkatpura, Hyderabad",6.0,100.0,https://www.practo.com/hyderabad/hospital/woodlands-hospital-kachiguda
+369,Apollo Clinics,"Jubilee Hills, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/apollo-clinics-jubilee-hills-1
+370,OMNI Hospitals,"Kukatpally, Hyderabad",7.0,150.0,https://www.practo.com/hyderabad/hospital/orthopaedic-oncology-kukatpally
+371,Maxi Vision Super Speciality Eye Hospitals,"Santosh Nagar, Hyderabad",5.0,10.0,https://www.practo.com/hyderabad/hospital/maxivision-hospital-santosh-nagar
+372,Care Hospitals,"Gachibowli, Hyderabad",9.0,250.0,https://www.practo.com/hyderabad/hospital/care-hospitals-gachibowli
+373,Ramya Nursing Home,"Old Bowenpally, Hyderabad",11.0,15.0,https://www.practo.com/hyderabad/hospital/ramya-nursing-home-bowenpally-1
+374,MaxCure Suyosha Woman & Child Hospital,"Hitech City, Hyderabad",5.0,100.0,https://www.practo.com/hyderabad/hospital/maxcure-suyosha-woman-child-hospital-hitech-city
+375,Sunitha Children's Hospital,"Sagar Road, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/sunitha-children-s-hospital-champapet
+376,Sigma Hospitals,"Dilsukhnagar, Hyderabad",4.0,50.0,https://www.practo.com/hyderabad/hospital/sigma-hospitals-dilsukh-nagar
+377,Seha Hospital,"Lakdikapul, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/seha-ark-family-health-education-society-lakdikapul
+378,Nikhil Hospitals,"Srinagar Colony, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/nikhil-hospitals-banjara-hills
+379,Oakridge Hospitals,"Madhapur, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/oakridge-hospitals-madhapur
+380,Apple Multi Speciality Hospital,"Tolichowki, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/apple-multi-speciality-hospital-tolichowki
+381,Srinivasa Hospital,"Narayanguda, Hyderabad",2.0,100.0,https://www.practo.com/hyderabad/hospital/srinivasa-hospital-3-narayanguda
+382,Indo US Diabetes Research Center & Multi Specialty Hospital,"Malakpet, Hyderabad",1.0,140.0,https://www.practo.com/hyderabad/hospital/indo-us-multi-speciality-hospital-malakpet
+383,Sri Tirumala Maternity And Nursing Home,"Warasiguda, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/sri-tirumala-maternity-and-nursing-home-warasiguda
+384,Dr. N. Usha Chaderghat Hospital,"Malakpet, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/dr-n-usha-chaderghat-hospital-malakpet
+385,Prashamsa Hospital,"Alwal, Hyderabad",9.0,20.0,https://www.practo.com/hyderabad/hospital/prashamsa-hospital-alwal-1
+386,Ushodaya Hospital,"Kishanbagh, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/ushodaya-hospital-kishanbagh
+387,Sai Teja Hospital,"Saroor Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sai-teja-hospital-2-dilsukh-nagar
+388,Dr Akram Ali Nursing Home,"Santosh Nagar, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/dr-akram-ali-nursing-home-santosh-nagar
+389,Freedom Multi Speciality And Chest Hospital,"LB Nagar, Hyderabad",6.0,15.0,https://www.practo.com/hyderabad/hospital/freedom-multi-speciality-and-chest-hospital
+390,Medilife Hospital,"Mallepally, Hyderabad",14.0,4.0,https://www.practo.com/hyderabad/hospital/medilife-hospital-mallepally
+391,Dr. Mohan's Diabetes Specialities Centre,"Domalguda, Hyderabad",1.0,8.0,https://www.practo.com/hyderabad/hospital/dr-mohan-s-diabetes-specialities-centre-domalguda
+392,Kakatiya Hospital,"Gachibowli, Hyderabad",1.0,30.0,https://www.practo.com/hyderabad/hospital/kakatiya-hospital-hitech-city
+393,Rays Lifestyle Hospital,"Banjara Hills, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/rays-life-style-hospital-banjara-hills
+394,Doctors Hospital,"Chaitanyapuri, Hyderabad",1.0,25.0,https://www.practo.com/hyderabad/hospital/doctors-hospital-dilsukh-nagar
+395,Child Care Children Hospital,"Jeedimetla, Hyderabad",2.0,6.0,https://www.practo.com/hyderabad/hospital/child-care-children-hospital-jeedimetla
+396,Win Vision Eye Hospitals,"Begumpet, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/win-vision-eye-hospital-begumpet
+397,Supraja Hospitals,"Nagole, Hyderabad",2.0,100.0,https://www.practo.com/hyderabad/hospital/supraja-hospital-1-nagole
+398,Sterling Super Speciality Hospitals,"Trimulgherry, Hyderabad",1.0,150.0,https://www.practo.com/hyderabad/hospital/sterling-super-speciality-hospital-trimulgherry
+399,Chenna Reddy Hospital,"Chanda Nagar, Hyderabad",5.0,10.0,https://www.practo.com/hyderabad/hospital/chenna-reddy-hospital-chanda-nagar
+400,Huma Hospital,"Yakutpura, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/z-b-hospital-santosh-nagar
+401,Safe Children Hospital,"Malakpet, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/safe-children-hospital-malakpet
+402,Cocoon Hospital,"Langer House, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/cocoon-hospital-langer-house
+403,Pavithra Hospital,"Old Bowenpally, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/pavithra-hospital-bowenpally
+404,Janahita Hospital,"Jeedimetla, Hyderabad",2.0,55.0,https://www.practo.com/hyderabad/hospital/janahita-hospital-balanagar
+405,Gupta Hospital,"Old City, Hyderabad",2.0,22.0,https://www.practo.com/hyderabad/hospital/gupta-hopsital-afzalgunj
+406,Mansoor Childrens Hospital,"Mallepally, Hyderabad",3.0,5.0,https://www.practo.com/hyderabad/hospital/mansoor-childrens-hospital-vijay-nagar-colony
+407,Rakshitha Hospital,"Dilsukhnagar, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/rakshitha-hospitals-chaitanyapuri
+408,Apex Hospitals,"Karmanghat, Hyderabad",3.0,,https://www.practo.com/hyderabad/hospital/apex-hospitals-uppal
+409,Noor Hospital,"Mallepally, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/noor-hospital-mallepally-1
+410,Aravind Hospital,"Hayathnagar, Hyderabad",9.0,15.0,https://www.practo.com/hyderabad/hospital/aravind-hospital-hayathnagar
+411,Dr. Raja Shekar Reddy Laperoscopy Hospital,"LB Nagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/dr-raja-shekar-reddy-laperoscopy-hospital
+412,Leaf Hospital,"Kondapur, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/leaf-hospital-kondapur-kondapur
+413,Shine Childrens Hospital,"LB Nagar, Hyderabad",6.0,50.0,https://www.practo.com/hyderabad/hospital/shine-children-s-hospital-lb-nagar
+414,KGH Hospital,"Dilsukhnagar, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/kgh-hospital-malakpet-1
+415,Disha Childrens Hospital	,"LB Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/disha-childrens-hospital-lb-nagar
+416,Dr Mohans Diabetes Specialities Centre,"Jubilee Hills, Hyderabad",1.0,16.0,https://www.practo.com/hyderabad/hospital/dr-mohans-diabetes-specialities-centre-jubilee-hills
+417,Sarvani Hospital,"Santosh Nagar, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/sarvani-hospital-santosh-nagar
+418,Citi Neuro Centre,"Banjara Hills, Hyderabad",2.0,60.0,https://www.practo.com/hyderabad/hospital/citi-neuro-centre-banjara-hills
+419,Jayaa Hospital,"Miyapur, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/jayaa-hospital-miyapur
+420,Niyar Nursing Home,"Chandrayangutta, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/niyar-nursing-home-chandrayangutta
+421,dr rama's fertility hospital,"Ameerpet, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/dr-rama-s-fertility-hospital-ameerpet
+422,Madhuri Maternity Nursing Home ,"Lingampally, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/madhuri-maternity-nursing-home-lingampally
+423,Maa ENT Hospital,"Balanagar, Hyderabad",2.0,4.0,https://www.practo.com/hyderabad/hospital/maa-ent-hospital
+424,Global Animal Hospital,"Trimulgherry, Hyderabad",1.0,2.0,https://www.practo.com/hyderabad/hospital/global-animal-hospital-flat-no-142-road-no-3-sardar-patel-colony-tirmulgherry-sec-bad-trimulgherry
+425,Geetha Hospital,"Dilsukhnagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/geetha-hospital-dilsukh-nagar
+426,Shreya Hospital,"Borabanda, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/sherya-orthopedic-center-rajiv-nagar
+427,Sarayu Cosmetic and Plastic Surgery Clinic,"KPHB, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/dr-sasikanth-maddu-cosmetic-plastic-surgeon-yashoda-hospitals-somajiguda-hyderabad-somajiguda
+428,Shadan Hospital,"Gachibowli, Hyderabad",7.0,,https://www.practo.com/hyderabad/hospital/shadan-hospital-gachibowli
+429,RamanaMoorthy Personnel Practice,"Gachibowli, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/hyderabad-oncology-associates-gachibowli
+430,Padmaavathi Nethralaya Hospital,"Kukatpally, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/padmaavathi-nethralaya-kukatpally
+431,Vijay Hospital,"Dilsukhnagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/vijay-hospital-5-dilsukh-nagar-1
+432,Nikhil Hospitals,"Dilsukhnagar, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/nikhil-hospitals-dilsukh-nagar
+433,Vet N Pet Hospital,"Jubilee Hills, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/vet-n-pet-srinagar-colony
+434,Lakshmi Ayurveda Hospital,"Vanasthalipuram, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/lakshmi-ayurveda-hospital-vanasthalipuram-1
+435,Jayaprada Hospital,"Lothkunta, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/jayapradha-hospital-lothkunta
+436,Sree Srinivasa ENT Care & Reasearch Institute,"Punjagutta, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/sree-srinivasa-ent-care-reasearch-institute-somajiguda
+437,Sundari Maternity and General Hospital,"Alwal, Hyderabad",4.0,25.0,https://www.practo.com/hyderabad/hospital/sundari-maternity-and-general-hospital-secunderabad
+438,Chaitanya Hospitals & Diagnostics,"Kushaiguda, Hyderabad",5.0,50.0,https://www.practo.com/hyderabad/hospital/chaitanya-hospitals-diagnostics-kushaiguda
+439,Hyderabad Women And Children Hospital,"Mallepally, Hyderabad",2.0,2.0,https://www.practo.com/hyderabad/hospital/hyderabad-women-and-children-hospital-mallepally
+440,Metro Hospital,"Nizampet, Hyderabad",2.0,50.0,https://www.practo.com/hyderabad/hospital/metro-hospital-nizampet
+441,Mother Theresa Hospital,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/karthikeya-speciality-clinic-secunderabad
+442,Sunshine Hospital,"Secunderabad, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/sunshine-hospital-secunderabad-secunderabad
+443,Dr. Agarwals Eye Hospital,"Malakpet, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/sagar-eye-and-maternity-clinic-malakpet
+444,Dr.Homoeo Care Positive Wellness Hospital,"Panjagutta, Hyderabad",1.0,2.0,https://www.practo.com/hyderabad/hospital/dr-homeocare-hyderabad
+445,"Vasavi Hospital, General & Orthopaedic Hospital","Kothapet, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/vasavi-hospital-general-orthopaedic-hospital-kothapet
+446,MEDS Hospital ,"Old City, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/meds-hospital-old-city
+447,Zoi Hospitals,"Attapur, Hyderabad",3.0,50.0,https://www.practo.com/hyderabad/hospital/zoi-hospitals-attapur-1
+448,My Nation Ayurvedic Village,"Chanchalguda, Hyderabad",3.0,20.0,https://www.practo.com/hyderabad/hospital/my-nation-ayurvedic-village
+449,Vijay Krishna Nursing Home,"Sanath Nagar, Hyderabad",6.0,15.0,https://www.practo.com/hyderabad/hospital/vijay-krishna-nursing-home-sanath-nagar
+450,Curewell Hospital,"Lakdikapul, Hyderabad",1.0,12.0,https://www.practo.com/hyderabad/hospital/curewell-hospital-lakdikapul
+451,Allwin Hospital,"Khairatabad, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/allwin-hospital-khairatabad
+452,Renew Medical and Rehabilitation Center,"Begumpet, Hyderabad",3.0,,https://www.practo.com/hyderabad/hospital/renew-medical-and-rehabilitation-center-begumpet-1
+453,Ramanthapur Hospital,"Ramanthapur, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/ramanthapur-hospital-uppal
+454,Chanchalguda Hospital,"Chanchalguda, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/chanchalguda-nursing-home-chanchalguda
+455,Suraksha Women & Children Hospital,"Suchitra Circle, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/suraksha-hospital-suchitra-circle
+456,Safe Hospitals,"KPHB, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/safe-hospitals-4-kphb
+457,Siddhartha Hospital,"Afzalgunj, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/siddhartha-hospital-afzalgunj
+458,Gandhi Hospital,"Musheerabad, Hyderabad",3.0,,https://www.practo.com/hyderabad/hospital/gandhi-hospital-musheerabad
+459,Vijay Hospital and Diagnostic Centre,"Chanda Nagar, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/vijay-hospital-chanda-nagar-1
+460,Amma Eye Care Hospital,"LB Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/amma-eye-care-hospital-lb-nagar-1
+461,Aruna Hospital,"Ecil, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/aruna-hospital-secunderabad
+462,LIFE Slimming and Cosmetic Clinic,"Madhapur, Hyderabad",14.0,,https://www.practo.com/hyderabad/hospital/life-slimming-and-cosmetic-clinic-2-madhapur
+463,Shruti Hospital,"Old City, Hyderabad",3.0,10.0,https://www.practo.com/hyderabad/hospital/shruti-hospital-old-city
+464,Safe Children's Hospital,"Malakpet, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/safe-children-s-hospital-malakpet
+465,Apollo Hospital,"Jubilee Hills, Hyderabad",9.0,,https://www.practo.com/hyderabad/hospital/apollo-hospital-jubilee-hills-4-2
+466,Kirloskar Hospital,"Basheerbagh, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/kirloskar-hospital-basheerbagh
+467,Sri Sri Holistic Hospital,"Nizampet, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sri-sri-holistic-hospital-nizampet
+468,Rishab Eye Centre,"Sainikpuri, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/rishab-eye-centre-sainikpuri-1
+469,Sri Santosh Hospital,"AS Rao Nagar, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/sri-santosh-hospital-ecil
+470,Hope Children Hospital,"Himayat Nagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/hope-children-hospital-himayat-nagar
+471,Sudha Dental Hospital,"Srinagar Colony, Hyderabad",6.0,,https://www.practo.com/hyderabad/hospital/sudha-dental-hospital-srinagar-colony
+472,Apollo Clinic,"Nallakunta, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/apollo-clinic-nallakunta
+473,Orange Hospital,"LB Nagar, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/orange-hospital-lb-nagar-1
+474,Jeevan Hospital,"Karmanghat, Hyderabad",1.0,40.0,https://www.practo.com/hyderabad/hospital/jeevan-hospital-karmanghat
+475,ApoKos Rehabilitation Hospital,"Jubilee Hills, Hyderabad",2.0,70.0,https://www.practo.com/hyderabad/hospital/apokos-rehabilitation-hospital-jubilee-hills-1
+476,Vivekananda Hospital,"Somajiguda, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/vivekananda-hospital-somajiguda
+477,Ramanthapur Physiotherapy and Rehabilitation Clinic,"Ramanthapur, Hyderabad",21.0,,https://www.practo.com/hyderabad/hospital/ramanthapur-physiotherapy-and-rehabilitation-clinic-ramanthapur
+478,Maxivision Super Speciality Eye Hospital,"AS Rao Nagar, Hyderabad",2.0,2.0,https://www.practo.com/hyderabad/hospital/maxivision-super-speciality-eye-hospital-as-rao-nagar
+479,Banjara12 Hospital,"Banjara Hills, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/banjara12-hospital-banjara-hills
+480,Pratibha Maternity and ENT Hospital,"Trimulgherry, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/pratibha-maternity-and-ent-hospital-trimulgherry
+481,Dentinova Dental Hospitals,"Nampally, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/dentinova-dental-hospitals-nampally
+482,Dr.Ahmed's Ayurvedic Hospital,"Manikonda, Hyderabad",4.0,5.0,https://www.practo.com/hyderabad/hospital/dr-ahmed-s-ayurvedic-hospital-shaikpet
+483,Al-Shifa Mother & Child Hospital,"Langer House, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/al-shifa-mother-child-hospital-langer-house
+484,Atlantis Multi Speciality Hospital,"Mehdipatnam, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/atlantis-multi-speciality-hospital-mehdipatnam
+485,Nizampet  Dental  Hospital,"Nizampet, Hyderabad",4.0,,https://www.practo.com/hyderabad/hospital/nizampet-dental-hospital-nizampet
+486,FMS Dental Hospital,"KPHB, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/fms-dental-hospital-kukatpally-kphb
+487,Vijaya Multispeciality Hospital,"Secunderabad, Hyderabad",1.0,100.0,https://www.practo.com/hyderabad/hospital/vijaya-multispeciality-hospital-secunderabad
+488,Apollo Cradle,"Jubilee Hills, Hyderabad",8.0,,https://www.practo.com/hyderabad/hospital/apollo-cradle-jubilee-hills-hyderabad-jubilee-hills
+489,Vital medical centre,"Jubilee Hills, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/vitae-medical-centre-jubilee-hills-1
+490,FMS Dental Hospital,"Kachiguda, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/fms-dental-hospital-a-s-rao-nagar-as-rao-nagar
+491,Kiran Hospital,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/kiran-hospital-secunderabad
+492,Vijaya Nursing Home,"Vanasthalipuram, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/vijaya-nursing-home-vanasthalipuram-1
+493,Maxi Vision Super Speciality Eye Hospital,"Begumpet, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/maxi-vision-super-speciality-eye-hospital-begumpet
+494,Carewell Diabetes and General Hospital,"Jeedimetla, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/carewell-diabetes-and-general-hospital-jeedimetla
+495,Maa ENT Hospital,"Erragadda, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/maa-ent-hospital-3-erragadda
+496,Sunray Hospital,"Nizampet, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sunray-diagnostics
+497,Dental City Super Speciality Dental Hospital,"East Marredpally, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/dental-city-super-speciality-dental-hospital-east-marredpally-1
+498,Ohm Nursing Home,"Nacharam, Hyderabad",2.0,7.0,https://www.practo.com/hyderabad/hospital/ohm-nursing-home-nacharam
+499,M. S. Maternity And Nursing Home,"Tolichowki, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/m-s-maternity-and-nursing-home-tolichowki
+500,Medivision Eye & Health Care Centre,"Masab Tank, Hyderabad",1.0,42.0,https://www.practo.com/hyderabad/hospital/medivision-eye-health-care-centre-masab-tank
+501,Himabindu Multispeciality Hospital,"Sagar Road, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/himabindu-multispeciality-hospital-sagar-road
+502,Vijaya Hospital,"Ameerpet, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/vijaya-hospital-ameerpet-1
+503,Panacea Meridian Hospital,"Chanda Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/panacea-meridian-hospital-chanda-nagar
+504,Y. Kishan Rao Balanagar Lions Eye Hospital,"Balanagar, Hyderabad",2.0,30.0,https://www.practo.com/hyderabad/hospital/lion-s-eye-hospital-balanagar
+505,Rising Sun Hospital,"Mehdipatnam, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/rising-sun-hospital-mehdipatnam
+506,MHRT Hospital,"Banjara Hills, Hyderabad",1.0,8.0,https://www.practo.com/hyderabad/hospital/mhrt-hospital-banjara-hills
+507,Maa ENT Hospital,"Malkajgiri, Hyderabad",1.0,2.0,https://www.practo.com/hyderabad/hospital/maa-ent-hospital-malkajgiri
+508,Uma National Hospital,"Saidabad, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/uma-national-hospital-chanchalguda
+509,Janasri Nursing Home,"Serilingampally, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/janasri-nursing-home-lingampally-1
+510,Asia Hospital,"Old City, Hyderabad",2.0,6.0,https://www.practo.com/hyderabad/hospital/asia-hospital-old-city
+511,Sushma Nursing Home & Diagnostics,"Kukatpally, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/sushma-nursing-home-diagnostics-kukatpally
+512,Alnoor Maternity Hospital,"Erragadda, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/alnoor-maternity-hospital-moti-nagar
+513,Nithya Dental Hospital & Implant Center,"Ramanthapur, Hyderabad",14.0,,https://www.practo.com/hyderabad/hospital/nithya-dental-hospital-implant-center-ramanthapur
+514,Sri Maruthi Hospital,"Kanchanbagh, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/sri-maruthi-hospital-old-city
+515,Ivory Oro-Care Dental Hospital,"SR Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/ivory-oro-care-dental-hospital-sr-nagar
+516,Cure Hospital,"Old Bowenpally, Hyderabad",1.0,35.0,https://www.practo.com/hyderabad/hospital/cure-hospital-bowenpally
+517,K.G Hospital,"West Marredpally, Hyderabad",2.0,15.0,https://www.practo.com/hyderabad/hospital/k-g-hospital-west-marredpally
+518,Padma Hospital,"Miyapur, Hyderabad",2.0,35.0,https://www.practo.com/hyderabad/hospital/padma-hospital-miyapur
+519,Dr. Agarwal's Eye Hospital,"Himayat Nagar, Hyderabad",1.0,20.0,https://www.practo.com/hyderabad/hospital/dr-agarwal-s-eye-hospital-himayat-nagar-1
+520,Dr. Satish Reddy Surgical Clinic,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/continental-hospital-gachibowli-4-2
+521,Ambaa Hospitals,"Langer House, Hyderabad",1.0,25.0,https://www.practo.com/hyderabad/hospital/ambaa-hospitals-langer-house
+522,Metro Hospital,"Nizampet, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/metro-hospital-4-langer-house
+523,2nd Life Nature Cure Hospital,"KPHB, Hyderabad",3.0,,https://www.practo.com/hyderabad/hospital/2nd-life-nature-cure-hospital-kphb
+524,Jaffar Shariff General And Childrens Clinic,"Ramanthapur, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/jaffar-shariff-clinic-ramanthapur
+525,Good Care Nursing Home,"Borabanda, Hyderabad",2.0,5.0,https://www.practo.com/hyderabad/hospital/good-care-nursing-home-yousufguda
+526,Shadow Hospitals,"Hayathnagar, Hyderabad",2.0,20.0,https://www.practo.com/hyderabad/hospital/shadow-hospitals-hayathnagar
+527,15 Bases Hospital,"Hayathnagar, Hyderabad",1.0,15.0,https://www.practo.com/hyderabad/hospital/15-bases-hospital-hayathnagar
+528,LifeSpring Hospital,"Padmarao Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/lifespring-hospital-padmarao-nagar
+529,City Dental Hospital,"Red Hills, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/city-dental-hospital-red-hills-1
+530,Krishna Institute of Medical Sciences,"Begumpet, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/dr-sachin-daga-begumpet
+531,Srija Hospital,"Gachibowli, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/srija-hospital-gachibowli
+532,Sri Priya Nursing Home,"SR Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sri-priya-nursing-home-sr-nagar
+533,Noble Nursing Home,"Miyapur, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/noble-nursing-home-madinaguda
+534,Healtheeliving E Solutions Pvt. Ltd.,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/healtheeliving-e-solutions-pvt-ltd-secunderabad
+535,Tayeba Maternity Hospital,"Red Hills, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/taiyeba-maternity-clinic-lakdikapul
+536,Indo Us Superspeciality hospital,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/indo-us-superspeciality-hospital-secunderabad
+537,Surya Dental Hospital & Implant Center,"Miyapur, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/surya-dental-hospital-amp-implant-center-miyapur
+538,Panacea Meridian Hospital,"Ramachandrapuram, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/panacea-meridian-hospital-ramachandrapuram
+539,Maa ENT Hospital,"Kothapet, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/maa-ent-hospital-kothapet
+540,Devishetty Hospital,"Trimulgherry, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/devishetty-hospital-trimulgherry
+541,Green Leaf Health Centre,"Kukatpally, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/green-leaf-health-centre-kukatpally
+542,Kamineni Fertility Centre,"King Koti, Hyderabad",1.0,50.0,https://www.practo.com/hyderabad/hospital/kamineni-fertility-centre-king-koti
+543,Shiridhi Sai Multispeciality Hospital,"Yousufguda, Hyderabad",1.0,8.0,https://www.practo.com/hyderabad/hospital/satya-ramya-yousufguda
+544,Padmavathi Children Hospital,"Sagar Road, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/padmavathi-children-hospital-karmanghat
+545,Center For Sight( Basheerbagh),"Basheerbagh, Hyderabad",1.0,6.0,https://www.practo.com/hyderabad/hospital/center-for-sight-liberty
+546,Mayflower Hospital For Women And Children,"Trimulgherry, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/mayflower-hospital-for-women-and-children-trimulgherry
+547,Sowmya Hospital,"Ram Nagar, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sowmya-hospital-1-ram-nagar
+548,Manasa Hospital,"Padmarao Nagar, Hyderabad",1.0,5.0,https://www.practo.com/hyderabad/hospital/manasa-hospital-padmarao-nagar
+549,Tirumala Hospital,"Ramachandrapuram, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/tirumala-hospital-ramachandrapuram
+550,Kauser Hospital,"Jeedimetla, Hyderabad",2.0,,https://www.practo.com/hyderabad/hospital/dr-sakina-kauser-jeedimetla
+551,Nirvitha Hospital,"Beeramguda, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/nirvitha-hospital-ramachandrapuram
+552,Sunshine Hospitals,"Secunderabad, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/sunshine-hospitals-secunderabad-1-1
+553,Taraporewalla Nursing Home,"West Marredpally, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/taraporiwala-nursing-home-marredpally
+554,K. G. N Maternity Clinic,"Old City, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/k-g-n-maternity-clinic-old-city
+555,Aparna Maternity and General Clinic,"Nagole, Hyderabad",2.0,10.0,https://www.practo.com/hyderabad/hospital/aparna-maternity-and-general-hospital-nagole
+556,Shree Laxmi Nursing Home,"Chanda Nagar, Hyderabad",1.0,10.0,https://www.practo.com/hyderabad/hospital/shree-laxmi-nursing-home-chanda-nagar-1
+557,Dr. Naganna Clinic,"Boduppal, Hyderabad",1.0,,https://www.practo.com/hyderabad/hospital/dr-naganna-clinic-boduppal-1
+558,"Anand International Hair transplantation, Cosmetology, Skin Hospital","Barkatpura, Hyderabad",,,https://www.practo.com/hyderabad/hospital/anand-international-hair-transplantation-cosmetology-skin-hospital-barkatpura
+559,Gareeb Nawaz Hospital,"Falaknuma, Hyderabad",,10.0,https://www.practo.com/hyderabad/hospital/gareeb-nawaz-hospital-falaknuma
+560,Susheela Hospital,"Ramanthapur, Hyderabad",,,https://www.practo.com/hyderabad/hospital/susheela-hospital-ramanthapur-1
+561,Amaan Hospital,"Rajendra Nagar, Hyderabad",,,https://www.practo.com/hyderabad/hospital/amaan-hospital-rajendra-nagar
+562,Raghavendra Hospital,"Bowenpally, Hyderabad",,,https://www.practo.com/hyderabad/hospital/raghavendra-hospital-bowenpally
+563,ESI Hospital,"Ramachandrapuram, Hyderabad",,,https://www.practo.com/hyderabad/hospital/esi-hospital-ramachandrapuram
+564,Dr.chaitanya's Ayurveda Hospital,"Moti Nagar, Hyderabad",,,https://www.practo.com/hyderabad/hospital/dr-chaitanya-sayurvedahospital-moti-nagar
+565,Vivekananda Hospital,"Begumpet, Hyderabad",,,https://www.practo.com/hyderabad/hospital/vivekananda-hospital-begumpet-2
+566,Dent Dept MEDICITI HOSPITAL,"Medchal, Hyderabad",,,https://www.practo.com/hyderabad/hospital/dent-dept-mediciti-hospital-medchal
+567,Happy Children's Hospital,"Jeedimetla, Hyderabad",,,https://www.practo.com/hyderabad/hospital/happy-children-s-hospital-1-jeedimetla
+568,Ratna Maternity & Nursing Home ,"Saidabad, Hyderabad",,20.0,https://www.practo.com/hyderabad/hospital/ratna-nursing-home-saidabad
+569,Dr.Mohan Diabetics Hospital,"Secunderabad, Hyderabad",,,https://www.practo.com/hyderabad/hospital/dr-mohan-diabetics-hospitals-secunderabad
+570,Mahaveer Hospital,"Banjara Hills, Hyderabad",,,https://www.practo.com/hyderabad/hospital/dr-aishwarya-banjara-hills
+571,Mitra Hospital,"Musheerabad, Hyderabad",,,https://www.practo.com/hyderabad/hospital/mitra-hospital-sultan-bazar
+572,Bhagyalatha Hospital,"Hayathnagar, Hyderabad",,,https://www.practo.com/hyderabad/hospital/bhagyalatha-hospital-hayathnagar
+573,Aashritha Hospital,"Nacharam, Hyderabad",,100.0,https://www.practo.com/hyderabad/hospital/aashritha-hospital-moula-ali
+574,JANANII HOSPITAL,"Ramanthapur, Hyderabad",,15.0,https://www.practo.com/hyderabad/hospital/jananii-hospital-ramanthapur

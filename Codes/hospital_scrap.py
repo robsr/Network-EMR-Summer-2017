@@ -36,7 +36,7 @@ def make_dataframe(links):                   #returns the dataframe containing c
                 df2_temp = pd.DataFrame(names)
                 df2 = df2.append(df2_temp)
                 
-                # #Location
+                #Location
                 span_tags = city_page_soup.find_all('span',attrs={'itemprop':'addressLocality'})
                 locations = [str(location.text)+', '+city_name for location in span_tags]
                 df3_temp = pd.DataFrame(locations)
@@ -85,7 +85,6 @@ def make_dataframe(links):                   #returns the dataframe containing c
     
     df = pd.concat([df2,df3,df4,df5,df_links], axis=1)
     df.columns = [['HOSPITAL NAME','LOCATION','NO. OF DOCTORS','NO. OF BEDS', 'LINKS']]  
-    # print(df.head())
     return df
 
 # MAIN PROGRAMME

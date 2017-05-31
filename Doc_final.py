@@ -40,8 +40,12 @@ for link,hospital in zip(links,hosp_name):
         df3=df3.append(df3_temp)
 
         #doctor Specialties
+        dr_spec_raw = hospi_html.find_all('p', attrs = {'class':'doc-specialties'})
         dr_spec_raw = hospi_html.find_all('a', attrs = {'class':'link grey'})
         dr_spec = [tag.text for tag in dr_spec_raw]
+        dr_spec_final = [a.replace('\n','') for a in dr_spec]
+        dr_spec_final2 = [a.replace(' ','') for a in dr_spec_final]
+        df4_temp = pd.DataFrame(dr_spec_final2)
         df4_temp = pd.DataFrame(dr_spec)
         df4=df4.append(df4_temp)
 

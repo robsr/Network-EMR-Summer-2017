@@ -7,7 +7,7 @@ import numpy as np
 links=pd.read_csv('Data_set.csv').LINKS     #use the address of the csv file if not present in same directory.
 hosp_name=pd.read_csv('Data_set.csv')['HOSPITAL NAME']
 df1, df2, df3, df4, df5 = pd.DataFrame([]), pd.DataFrame([]), pd.DataFrame([]), pd.DataFrame([]), pd.DataFrame([])
-a=0
+a=0             #counter for range of the csv file
 for link,hospital in zip(links,hosp_name):
     for i in range(1,100):
         link_f=link +'?page='+str(i)+'&ajax=true'

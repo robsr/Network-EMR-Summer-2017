@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="eName" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="hname" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="Max Super Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="Sir Ganga Ram Hospital" />
+        </attvalues>
+      </node>
+      <node id="122" label="122">
+        <attvalues>
+          <attvalue for="0" value="Aakash Health Care" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="Blk Super Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="138" label="138">
+        <attvalues>
+          <attvalue for="0" value="K M Speciality &amp; Pediatric Care" />
+        </attvalues>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="0" value="Madras Medical Mission Hospital" />
+        </attvalues>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="0" value="Dr. Jivraj Mehta Smarak Health Foundation" />
+        </attvalues>
+      </node>
+      <node id="86" label="86">
+        <attvalues>
+          <attvalue for="0" value="Primus Super Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="55" label="55">
+        <attvalues>
+          <attvalue for="0" value="Rockland Hospital" />
+        </attvalues>
+      </node>
+      <node id="93" label="93">
+        <attvalues>
+          <attvalue for="0" value="Global Hospital" />
+        </attvalues>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="0" value="Mallige Medical Centre" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="Manipal Hospital" />
+        </attvalues>
+      </node>
+      <node id="69" label="69">
+        <attvalues>
+          <attvalue for="0" value="Manipal Hospital" />
+        </attvalues>
+      </node>
+      <node id="45" label="45">
+        <attvalues>
+          <attvalue for="0" value="Sir H.N. Reliance Foundation Hospital &amp; Research Centre" />
+        </attvalues>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="0" value="Kailash Deepak Memorial Hospital" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="Kailash Hospital" />
+        </attvalues>
+      </node>
+      <node id="92" label="92">
+        <attvalues>
+          <attvalue for="0" value="Omega Hospital" />
+        </attvalues>
+      </node>
+      <node id="65" label="65">
+        <attvalues>
+          <attvalue for="0" value="Cloudnine Hospital" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="Billroth Hospitals" />
+        </attvalues>
+      </node>
+      <node id="40" label="40">
+        <attvalues>
+          <attvalue for="0" value="Jaipur Golden Hospital" />
+        </attvalues>
+      </node>
+      <node id="124" label="124">
+        <attvalues>
+          <attvalue for="0" value="MediHope Super Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="0" value="KIMS Hospital" />
+        </attvalues>
+      </node>
+      <node id="130" label="130">
+        <attvalues>
+          <attvalue for="0" value="Jeevan Anmol Hospital" />
+        </attvalues>
+      </node>
+      <node id="111" label="111">
+        <attvalues>
+          <attvalue for="0" value="Maharaja Agrasen Hospital" />
+        </attvalues>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="0" value="Tirath Ram Shah Hospital" />
+        </attvalues>
+      </node>
+      <node id="105" label="105">
+        <attvalues>
+          <attvalue for="0" value="Pristine Hospital" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="Sri Balaji Action Medical Institute" />
+        </attvalues>
+      </node>
+      <node id="134" label="134">
+        <attvalues>
+          <attvalue for="0" value="AMRI Hospital" />
+        </attvalues>
+      </node>
+      <node id="107" label="107">
+        <attvalues>
+          <attvalue for="0" value="Amri Hospitals" />
+        </attvalues>
+      </node>
+      <node id="117" label="117">
+        <attvalues>
+          <attvalue for="0" value="Kalra Hospital" />
+        </attvalues>
+      </node>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="0" value="Holy Spirit Hospital" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="Masina Hospital " />
+        </attvalues>
+      </node>
+      <node id="87" label="87">
+        <attvalues>
+          <attvalue for="0" value="BBR Super Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="125" label="125">
+        <attvalues>
+          <attvalue for="0" value="Surya Mother &amp; Child Super Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="0" value="Care Hospitals" />
+        </attvalues>
+      </node>
+      <node id="66" label="66">
+        <attvalues>
+          <attvalue for="0" value="Indraprastha Apollo Hospitals" />
+        </attvalues>
+      </node>
+      <node id="135" label="135">
+        <attvalues>
+          <attvalue for="0" value="Aster Prime Hospitals" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="Hindustan Health Point" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="Bombay Hospital &amp; Medical Research Centre" />
+        </attvalues>
+      </node>
+      <node id="89" label="89">
+        <attvalues>
+          <attvalue for="0" value="Metro Hospital and Cancer Institute" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="KIMS - Krishna Institute of Medical Sciences" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="0" value="Ruby Hall Clinic" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="0" value="S L Raheja Fortis Hospital" />
+        </attvalues>
+      </node>
+      <node id="47" label="47">
+        <attvalues>
+          <attvalue for="0" value="Bhagwan Mahaveer Jain Hospital - Vasanthnagar" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="Apollo Hospital" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="Sahyadri Speciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="62" label="62">
+        <attvalues>
+          <attvalue for="0" value="Sahyadri Hospitals" />
+        </attvalues>
+      </node>
+      <node id="43" label="43">
+        <attvalues>
+          <attvalue for="0" value="Hindu Mission Hospital" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="Felix Hospital" />
+        </attvalues>
+      </node>
+      <node id="85" label="85">
+        <attvalues>
+          <attvalue for="0" value="Jaslok Hospital" />
+        </attvalues>
+      </node>
+      <node id="51" label="51">
+        <attvalues>
+          <attvalue for="0" value="Criti Care Multi Speciality Hospital &amp; Research Centre" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="Noble Hospital" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="Global Hospital" />
+        </attvalues>
+      </node>
+      <node id="99" label="99">
+        <attvalues>
+          <attvalue for="0" value="Omni Hospitals" />
+        </attvalues>
+      </node>
+      <node id="116" label="116">
+        <attvalues>
+          <attvalue for="0" value="MyCure Hospital - Jagdamba Junction" />
+        </attvalues>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="0" value="Yashoda Hospital" />
+        </attvalues>
+      </node>
+      <node id="121" label="121">
+        <attvalues>
+          <attvalue for="0" value="Prashanth Superspeciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="95" label="95">
+        <attvalues>
+          <attvalue for="0" value="Kauvery Hospitals" />
+        </attvalues>
+      </node>
+      <node id="88" label="88">
+        <attvalues>
+          <attvalue for="0" value="Metro Multispeciality Hospital" />
+        </attvalues>
+      </node>
+      <node id="123" label="123">
+        <attvalues>
+          <attvalue for="0" value="RLKC Hospital &amp; Metro Heart Institute" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="0" value="Mata Chanan Devi Hospital" />
+        </attvalues>
+      </node>
+      <node id="54" label="54">
+        <attvalues>
+          <attvalue for="0" value="Venkateshwar Hospital" />
+        </attvalues>
+      </node>
+      <node id="126" label="126">
+        <attvalues>
+          <attvalue for="0" value="Columbia Asia Hospitals" />
+        </attvalues>
+      </node>
+      <node id="36" label="36">
+        <attvalues>
+          <attvalue for="0" value="Columbia Asia Hospital" />
+        </attvalues>
+      </node>
+      <node id="113" label="113">
+        <attvalues>
+          <attvalue for="0" value="Columbia Asia Hospital" />
+        </attvalues>
+      </node>
+      <node id="112" label="112">
+        <attvalues>
+          <attvalue for="0" value="Vikram Hospital" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="St John Medical College and Hospital" />
+        </attvalues>
+      </node>
+      <node id="108" label="108">
+        <attvalues>
+          <attvalue for="0" value="Landmark Hospitals" />
+        </attvalues>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="0" value="Aditya Hospital" />
+        </attvalues>
+      </node>
+      <node id="57" label="57">
+        <attvalues>
+          <attvalue for="0" value="Sancheti Hospital" />
+        </attvalues>
+      </node>
+      <node id="139" label="139">
+        <attvalues>
+          <attvalue for="0" value="Sims Hospital (Srm Institutes For Medical Science)" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="Kamineni Hospitals" />
+        </attvalues>
+      </node>
+      <node id="91" label="91">
+        <attvalues>
+          <attvalue for="0" value="Medipoint Hospital" />
+        </attvalues>
+      </node>
+      <node id="101" label="101">
+        <attvalues>
+          <attvalue for="0" value="I-AIM Health Care" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="Continental Hospitals" />
+        </attvalues>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="0" value="Abhijay Hospital Pvt Ltd" />
+        </attvalues>
+      </node>
+      <node id="136" label="136">
+        <attvalues>
+          <attvalue for="0" value="Premier Hospital" />
+        </attvalues>
+      </node>
+      <node id="131" label="131">
+        <attvalues>
+          <attvalue for="0" value="NU Hospitals" />
+        </attvalues>
+      </node>
+      <node id="74" label="74">
+        <attvalues>
+          <attvalue for="0" value="Bangalore Institute of Gastroenterology" />
+        </attvalues>
+      </node>
+      <node id="132" label="132">
+        <attvalues>
+          <attvalue for="0" value="P D Hinduja Sindhi Hospital " />
+        </attvalues>
+      </node>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="0" value="Kamakshi Memorial Hospital" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="16" target="77">
+        <attvalues>
+          <attvalue for="1" value="ajay goel" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="16" target="79">
+        <attvalues>
+          <attvalue for="1" value="ajay goel" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="6" target="69">
+        <attvalues>
+          <attvalue for="1" value="m. paul korath" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="77" target="79">
+        <attvalues>
+          <attvalue for="1" value="peter harper" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="134" target="107">
+        <attvalues>
+          <attvalue for="1" value="kritkumar ratilal parikh" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="4" target="4">
+        <attvalues>
+          <attvalue for="1" value="mohit talwar" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="25" target="12">
+        <attvalues>
+          <attvalue for="1" value="kamla chaudhry" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="88" target="123">
+        <attvalues>
+          <attvalue for="1" value="prathap chandra reddy" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="126" target="36">
+        <attvalues>
+          <attvalue for="1" value="p. reddy" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="126" target="113">
+        <attvalues>
+          <attvalue for="1" value="p. reddy" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="36" target="113">
+        <attvalues>
+          <attvalue for="1" value="p. reddy" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
